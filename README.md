@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Pharao Hansen, Magnus (2020): ¿Familia o vecinos? Investigando la relación entre el proto-náhuatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-Náhuatl and Proto-Corachol]. 
+> Pharao Hansen, Magnus (2020): ¿Familia o vecinos? Investigando la relación entre el proto-náhuatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-Náhuatl and Proto-Corachol]. IN: Lenguas yutoaztecas: historia, estructuras y contacto lingüístico. Homenaje a Karen Dakin. Rosa Yañez (ed.) Guadalajara: Universidad de Guadalajara.
 
 This dataset is licensed under a CCBY-NC license
 
@@ -11,23 +11,23 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
-![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 8
 - **Concepts:** 100
-- **Lexemes:** 721
+- **Lexemes:** 763
 - **Sources:** 1
-- **Synonymy:** 1.00
-- **Cognacy:** 721 cognates in 419 cognate sets (272 singletons)
-- **Cognate Diversity:** 0.51
+- **Synonymy:** 1.06
+- **Cognacy:** 763 cognates in 281 cognate sets (102 singletons)
+- **Cognate Diversity:** 0.27
 
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Bryan Allen | | data collector | DataCollector
+--- | --- | --- | ---
+Magnus Pharao Hansen | @Magnus | data collector | author
+Johann-Mattis List | @lingulist | lexibank code | other
 
 

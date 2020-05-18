@@ -32,7 +32,9 @@ class Dataset(BaseDataset):
     #language_class = CustomLanguage
     form_spec = FormSpec(
             separators="/",
-            first_form_only=True)
+            first_form_only=True,
+            replacements=[("*", "")]
+            )
 
     def cmd_makecldf(self, args):
 
@@ -66,32 +68,56 @@ class Dataset(BaseDataset):
 
         args.writer.add_sources()
         cognacy, counter = {}, 1
+        cogsets = {
+          "A(B)": ["A"],
+          "A/(B)": ["A"],
+          "A/B": ["A", "B"],
+          "A/B/C": ["A", "B", "C"],
+          "A/B/D": ["A", "B", "D"],
+          "A/B?": ["A"],
+          "A/C": ["A", "C"],
+          "B/(A)": ["A"],
+          "B/(a)": ["B"],
+          "B/C": ["B", "C"],                    
+          "C D": ["C", "D"],
+          "C/(B)": ["C"],
+          "C/B": ["C", "B"],
+          "C/E": ["C", "E"],
+          "D/B": ["D", "B"],
+          "a/(B)": ["a"],
+          "a/A": ["a", "A"],
+          "a/B": ["a", "B"],
+          "ab": ["ab"],
+        }        
         languages = args.writer.add_languages(lookup_factory='Name')
         for i, line in progressbar(enumerate(table[1:])):
             for j, (language, cell) in enumerate(zip(table[0][2:], line[2:])):
                 if cell.strip():
-                    cognate = cognates[i][j]
-                    if cognate == '?':
-                        cid = counter
-                        counter += 1
-                    else:
-                        cid = '{0}-{1}'.format(i, cognate)
-                        if cid in cognacy:
-                            cid = cognacy[cid]
-                        else:
-                            cognacy[cid] = counter
-                            cid = cognacy[cid]
+                    cognatesets = cogsets.get(
+                            cognates[i][j+1].strip(),
+                            [cognates[i][j+1].strip()])
+                    for cognate in cognatesets:
+                        if cognate in ['?', '-']:
+                            cid = counter
                             counter += 1
-                    for lexeme in args.writer.add_forms_from_value(
-                            Value=cell.strip(),
-                            Language_ID=languages[language],
-                            Parameter_ID=concepts[line[1]],
-                            Source=['Pharao2020']
-                            ):
-                        args.writer.add_cognate(
-                                lexeme,
-                                Cognateset_ID=cid,
-                                Source=['Pharao2020'])
+                        else:
+                            cid = '{0}-{1}'.format(i, cognate)
+                            if cid in cognacy:
+                                cid = cognacy[cid]
+                            else:
+                                cognacy[cid] = counter
+                                cid = cognacy[cid]
+                                counter += 1
+                        for lexeme in args.writer.add_forms_from_value(
+                                Value=cell.strip(),
+                                Language_ID=languages[language],
+                                Parameter_ID=concepts[line[1]],
+                                Source=['Pharao2020']
+                                ):
+                            args.writer.add_cognate(
+                                    lexeme,
+                                    Cognateset_ID=cid,
+                                    Source=['Pharao2020'])
 
 
 
