@@ -17,10 +17,10 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 
 - **Varieties:** 8
 - **Concepts:** 100
-- **Lexemes:** 763
+- **Lexemes:** 767
 - **Sources:** 1
 - **Synonymy:** 1.06
-- **Cognacy:** 763 cognates in 281 cognate sets (102 singletons)
+- **Cognacy:** 767 cognates in 281 cognate sets (101 singletons)
 - **Cognate Diversity:** 0.27
 
 # Contributors

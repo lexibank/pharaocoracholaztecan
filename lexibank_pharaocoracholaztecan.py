@@ -84,10 +84,10 @@ class Dataset(BaseDataset):
           "C/B": ["C", "B"],
           "C/E": ["C", "E"],
           "D/B": ["D", "B"],
-          "a/(B)": ["a"],
-          "a/A": ["a", "A"],
-          "a/B": ["a", "B"],
-          "ab": ["ab"],
+          "a/(B)": ["A"],
+          "a/A": ["A", "A"],
+          "a/B": ["A", "B"],
+          "ab": ["A", "B"],
         }        
         languages = args.writer.add_languages(lookup_factory='Name')
         for i, line in progressbar(enumerate(table[1:])):
