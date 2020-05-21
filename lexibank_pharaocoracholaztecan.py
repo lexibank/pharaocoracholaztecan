@@ -1,7 +1,7 @@
 import attr
 from pathlib import Path
 
-from pylexibank import Concept, Language,FormSpec
+from pylexibank import Concept,FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
@@ -13,23 +13,11 @@ from clldutils.misc import slug
 class CustomConcept(Concept):
     Spanish = attr.ib(default=None)
     Number = attr.ib(default=None)
-#
-#
-#@attr.s
-#class CustomLanguage(Language):
-#    Latitude = attr.ib(default=None)
-#    Longitude = attr.ib(default=None)
-#    ChineseName = attr.ib(default=None)
-#    SubGroup = attr.ib(default="Bai")
-#    Family = attr.ib(default="Sino-Tibetan")
-#    DialectGroup = attr.ib(default=None)
-
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "pharaocoracholaztecan"
     concept_class = CustomConcept
-    #language_class = CustomLanguage
     form_spec = FormSpec(
             separators="/",
             first_form_only=True,
@@ -95,7 +83,7 @@ class Dataset(BaseDataset):
                 if cell.strip():
                     cognatesets = cogsets.get(
                             cognates[i][j+1].strip(),
-                            [cognates[i][j+1].strip()])
+                            [cognates[i][j+1].strip().upper()])
                     for cognate in cognatesets:
                         if cognate in ['?', '-']:
                             cid = counter
@@ -108,6 +96,9 @@ class Dataset(BaseDataset):
                                 cognacy[cid] = counter
                                 cid = cognacy[cid]
                                 counter += 1
+                        if languages[language] == 'ProtoUtoAztecan' and 'SUA' \
+                                in cell.strip():
+                                    language = 'SUA'
                         for lexeme in args.writer.add_forms_from_value(
                                 Value=cell.strip(),
                                 Language_ID=languages[language],

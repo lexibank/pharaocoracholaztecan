@@ -8,6 +8,12 @@ This dataset is licensed under a CCBY-NC license
 
 Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovecinoscoracholnahuadata.pdf
 
+## Notes
+
+
+
+
+
 ## Statistics
 
 
@@ -15,11 +21,11 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 8
+- **Varieties:** 9
 - **Concepts:** 100
 - **Lexemes:** 767
 - **Sources:** 1
-- **Synonymy:** 1.06
+- **Synonymy:** 1.08
 - **Cognacy:** 767 cognates in 251 cognate sets (96 singletons)
 - **Cognate Diversity:** 0.23
 
