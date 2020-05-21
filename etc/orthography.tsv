@@ -32,7 +32,7 @@ eé	e	unrounded close-mid front vowel	2	neéčira’a, teé
 g	g	voiced velar stop consonant	18	a’aga, gak-, gii
 h	h	voiceless glottal fricative consonant	93	-téhebee, ahmo, bahi
 hs	h	voiceless glottal fricative consonant	1	wahsi
-hw	hʷ	labialized voiceless glottal fricative consonant	2	ihwi-
+hw	hw	labialized voiceless glottal fricative consonant	2	ihwi-
 i	i	unrounded close front vowel	239	-wa¢i-, -í’i-, ?bástakɨra’i?
 i:	iː	long unrounded close front vowel	4	i:, i:š, wi:ki
 i:ya	i	unrounded close front vowel	3	mi:yak, wi:ya, či:ya
@@ -49,9 +49,9 @@ k	k	voiceless velar stop consonant	200	?bástakɨra’i?, ake, baakot
 kk	kk	from voiceless velar stop to voiceless velar stop cluster	5	hikkaha, mɨkka, sukka
 kw	kʷ	labialized voiceless velar stop consonant	24	hekwa, héhkwa, hɨnkwa-ki
 l	l	voiced alveolar lateral approximant consonant	22	bemela, elá, kwal-
-lw	lʷ	labialized voiced alveolar lateral approximant consonant	1	nelwa-
+lw	lw	labialized voiced alveolar lateral approximant consonant	1	nelwa-
 m	m	voiced bilabial nasal consonant	89	ahmo, atemi, bemela
-mm	m	voiced bilabial nasal consonant	3	tommo
+mm	mm	from voiced bilabial nasal consonant to voiced bilabial nasal stop cluster	3	tommo
 mw	mʷ	labialized voiced bilabial nasal consonant	13	hamwámwa, kɨmwáhara, mwahka’a
 n	n	voiced alveolar nasal consonant	97	-bé’ene, ana, aná
 o	o	rounded close-mid back vowel	103	ahmo, baakot, bó’oka
@@ -80,19 +80,19 @@ uyua	u	rounded close back vowel	1	muyuawi¢ie
 v	v	voiced labio-dental fricative consonant	24	dɨvirai, hɨvɨri, kova
 w	w	voiced labio-velar approximant consonant	112	-wa¢i-, -yeiwe, awa
 x	x	voiceless velar fricative consonant	1	mex-
-ya	ya	from rounded close front to unrounded open front diphthong	9	ki’ya, kwai-ya, wa:l-yawi
-yai	y	rounded close front vowel	1	yai-wi
-yau	y	rounded close front vowel	1	yauri
-ye	ye	from rounded close front to unrounded close-mid front diphthong	11	ho-ye, tyevi, yehyeka-
-ye:	y	rounded close front vowel	1	ye:wayo-
-yei	y	rounded close front vowel	2	-yeiwe, yeih
-yeiya	y	rounded close front vowel	1	yeiya
-yo	yo	from rounded close front to rounded close-mid back diphthong	4	e:wa-yo, yo:lyoh, yore
-yo:	y	rounded close front vowel	2	yo:lyoh, yo:wa-
-yu	yu	from rounded close front to rounded close back diphthong	1	yu’kí
-yé	y	rounded close front vowel	3	yéka, yépsa, yésasa
-yú	y	rounded close front vowel	1	yúke
-yɨ	yɨ	from rounded close front to unrounded close central diphthong	2	yɨwa, yɨwi
+ya	ja	from rounded close front to unrounded open front diphthong	9	ki’ya, kwai-ya, wa:l-yawi
+yai	j	rounded close front vowel	1	yai-wi
+yau	j	rounded close front vowel	1	yauri
+ye	je	from rounded close front to unrounded close-mid front diphthong	11	ho-ye, tyevi, yehyeka-
+ye:	j	rounded close front vowel	1	ye:wayo-
+yei	j	rounded close front vowel	2	-yeiwe, yeih
+yeiya	j	rounded close front vowel	1	yeiya
+yo	jo	from rounded close front to rounded close-mid back diphthong	4	e:wa-yo, yo:lyoh, yore
+yo:	j	rounded close front vowel	2	yo:lyoh, yo:wa-
+yu	ju	from rounded close front to rounded close back diphthong	1	yu’kí
+yé	j	rounded close front vowel	3	yéka, yépsa, yésasa
+yú	j	rounded close front vowel	1	yúke
+yɨ	jɨ	from rounded close front to unrounded close central diphthong	2	yɨwa, yɨwi
 ¢	?	?	54	-wa¢i-, ba¢ia, ha¢i
 à	?	?	3	nákàsa, wáukà
 á	?	?	67	?bástakɨra’i?, aná, awá
@@ -117,7 +117,7 @@ yɨ	yɨ	from rounded close front to unrounded close central diphthong	2	yɨwa, y
 čw	tʃ	voiceless post-alveolar sibilant affricate consonant	1	čwíka
 š	ʃ	voiceless post-alveolar sibilant fricative consonant	8	i:š, neš, ša:l-
 ƛ	tɬ	voiceless alveolar lateral affricate consonant	7	paƛani, yesoƛa, ƛa:n-
-ȿ	?	?	2	aiȿɨa, vasiɨȿa’a
+ȿ	ʂ	voiceless retroflex sibilant fricative consonant	2	aiȿɨa, vasiɨȿa’a
 ɨ	ɨ	unrounded close central vowel	73	?bástakɨra’i?, aatɨ, dɨvirai
 ɨ:	ɨː	long unrounded close central vowel	1	te-pɨ:ti
 ɨa	ɨa	from unrounded close central to unrounded open front diphthong	1	aiȿɨa
