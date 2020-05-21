@@ -1,0 +1,768 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	COGID	TOKENS
+510	Cora	Acostado	waka’a	waka’a	214	w a k a ’ a
+511	Cora	Acostado	waka’a	waka’a	215	w a k a ’ a
+512	Huichol	Acostado	ka	ka	215	k a
+513	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok < hó-kà	214	ok < hó-kà
+514	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok < hó-kà	215	ok < hó-kà
+515	Tepiman	Acostado	*vo(po)	vo	214	v o
+516	Cahita	Acostado	bó’oka	bó’oka	214	b ó ’ o k a
+517	Cahita	Acostado	bó’oka	bó’oka	215	b ó ’ o k a
+518	Tarahumaran	Acostado	po’i	po’i	214	p o ’ i
+519	ProtoCoracholNahua	Acostado	**wáukà	wáukà	214	w áu k à
+520	ProtoCoracholNahua	Acostado	**wáukà	wáukà	215	w áu k à
+521	ProtoUtoAztecan	Acostado	**wo SUA	wo SUA	214	wo SUA
+581	Cora	Agua	hah	hah	243	h a h
+582	Huichol	Agua	ha	ha	243	h a
+583	ProtoNahua	Agua	*a:-	a:-	243	a:
+584	Tepiman	Agua	sudagi 	sudagi244	s u d a g i 
+585	Cahita	Agua	báa	báa	243	b áa
+586	Tarahumaran	Agua	pawí	pawí	243	p a w í
+587	ProtoCoracholNahua	Agua	**ha:	ha:	243	h a:
+588	ProtoUtoAztecan	Agua	*pa: PUA/*wa SUA	pa: PUA	243	pa: PUA
+713	Cora	Amarillo	taúmwa	taúmwa	297	t aú mw a
+714	Huichol	Amarillo	taʂaiye	taʂaiye	298	t a ʂ ai y e
+715	ProtoNahua	Amarillo	*kos-tik	kos-tik	299	k o s t i k
+716	Tepiman	Amarillo	oam	oam	300	oa m
+717	Cahita	Amarillo	sawá	sawá	301	s a w á
+718	Tarahumaran	Amarillo	sawa-	sawa-	301	s a w a
+719	ProtoUtoAztecan	Amarillo	*kosawa SUA?	kosawa SUA?	299	kosawa SUA?
+720	ProtoUtoAztecan	Amarillo	*kosawa SUA?	kosawa SUA?	301	kosawa SUA?
+163	Cora	Arbol	kɨyé	kɨyé	85	k ɨ y é
+164	Huichol	Arbol	kɨye	kɨye	85	k ɨ y e
+165	ProtoNahua	Arbol	*kwaw-	kwaw-	85	kw a w
+166	Tepiman	Arbol	*ku’agi	ku’agi	85	k u ’ a g i
+167	Cahita	Arbol	*kútta	kútta	85	k ú tt a
+168	Tarahumaran	Arbol	kuu	kuu	85	k uu
+169	ProtoUtoAztecan	Arbol	**kua-wi SUA	kua-wi SUA	85	kua-wi SUA
+674	Huichol	Arder/quemar	tai-riya	tai-riya	280	t ai r i y a
+675	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛatia	280	ƛ a t i a
+676	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛatia	280	ƛ a t i a
+677	Tepiman	Arder/quemar	náda	náda	281	n á d a
+678	Cahita	Arder/quemar	táha	táha	280	t á h a
+679	Tarahumaran	Arder/quemar	tahá	tahá	280	t a h á
+680	ProtoCoracholNahua	Arder/quemar	**taitia	taitia	280	t a i t i a
+620	Cora	Arena	seh	seh	257	s e h
+621	Huichol	Arena	ʂiekari	ʂiekari	257	ʂ ie k a r i
+622	ProtoNahua	Arena	*ša:l-	ša:l-	257	š a: l
+623	Tepiman	Arena	orai	orai	258	o r ai
+624	Cahita	Arena	sée’e	sée’e	257	s é e ’ e
+625	Tarahumaran	Arena	saté/seté	saté	257	s a t é
+626	ProtoCoracholNahua	Arena	**sihar-	sihar-	257	s i h a r
+627	ProtoUtoAztecan	Arena	*siCa SUA/sihat tubar	siCa SUA	257	siCa SUA
+752	Cora	Año	ruu-sí	ruu-sí	315	r uu s í
+753	Huichol	Año	wi-yari	wi-yari	316	w i ya r i
+754	ProtoNahua	Año	*šiwi-	šiwi-	315	š i w i
+755	ProtoNahua	Año	*šiwi-	šiwi-	316	š i w i
+756	Tepiman	Año	oidha oidha	316	o i dh a 
+757	Cahita	Año	wasuk-	wasuk-	317	w a s u k
+758	Tarahumaran	Año	pamí	pamí	318	p a m í
+759	ProtoCoracholNahua	Año	**si-wi	si-wi	315	s i w i
+760	ProtoUtoAztecan	Año	**wiya/	wiya	316	w iya
+360	Cora	Barriga	huká/huti?(Ortega 1973)/	huká	161	h u k á
+361	Cora	Barriga	huká/huti?(Ortega 1973)/	huká	162	h u k á
+362	Huichol	Barriga	huka/(huriepa Grimes)	huka	161	h u k a
+363	Huichol	Barriga	huka/(huriepa Grimes)	huka	162	h u k a
+364	ProtoNahua	Barriga	*ihte- < *hòté	ihte- < hòté	162	ihte- < hòté
+365	Tepiman	Barriga	vóoka	vóoka	161	v ó o k a
+366	Cahita	Barriga	tópa	tópa	163	t ó p a
+367	Tarahumaran	Barriga	topá	topá	163	t o p á
+368	ProtoCoracholNahua	Barriga	**hotie-	hotie-	161	h o t i e
+369	ProtoCoracholNahua	Barriga	**hotie-	hotie-	162	h o t i e
+370	ProtoUtoAztecan	Barriga	**poka PUA/	poka PUA	161	poka PUA
+371	ProtoUtoAztecan	Barriga	**poka PUA/	poka PUA	162	poka PUA
+721	Cora	Blanco	kwaina	kwaina	303	k w ai n a
+722	Huichol	Blanco	tuʂa	tuʂa	304	t u ʂ a
+723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k <tòsá-kì	304	ista-k <tòsá-kì
+724	Tepiman	Blanco	toha	toha	304	t o h a
+725	Cahita	Blanco	tósa	tósa	304	t ó s a
+726	Tarahumaran	Blanco	tosá-	tosá-	304	t o s á
+727	ProtoUtoAztecan	Blanco	**tòsá PUA/**kwaya PUA	tòsá PUA	303	tòsá PUA
+728	ProtoUtoAztecan	Blanco	**tòsá PUA/**kwaya PUA	tòsá PUA	304	tòsá PUA
+308	Cora	Boca	teni	teni	143	t e n i
+309	Huichol	Boca	teta	teta	143	t e t a
+310	ProtoNahua	Boca	*kama/(*te:n- labio)	kama	144	k a m a
+311	Tepiman	Boca	tɨɨn	tɨɨn	143	t ɨɨ n
+312	Cahita	Boca	téni	téni	143	t é n i
+313	Tarahumaran	Boca	¢u’a	¢u’a	145	¢ u ’ a
+314	ProtoCoracholNahua	Boca	*te:n	te:n	143	t e: n
+315	ProtoUtoAztecan	Boca	*tɨna	tɨna	143	t ɨ n a
+63	Cora	Bueno	naá	naá	35	n aá
+64	Huichol	Bueno	aiȿɨa	aiȿɨa	36	ai ȿ ɨ a
+65	ProtoNahua	Bueno	*kwal-	kwal-	37	kw a l
+66	Tepiman	Bueno	*kɨga	kɨga	37	k ɨ g a
+67	Cahita	Bueno	kiwa	kiwa	37	k i w a
+68	ProtoUtoAztecan	Bueno	*kɨwa	kɨwa	37	k ɨ w a
+267	Cora	Cabello	kɨpwá	kɨpwá	133	k ɨ p w á
+268	Huichol	Cabello	kɨpa	kɨpa	133	k ɨ p a
+269	ProtoNahua	Cabello	*¢on-/(*ikpa hilo)	¢on-	134	¢ o n
+270	Cahita	Cabello	cóoni	cóoni	134	c ó o n i
+271	Tarahumaran	Cabello	kupá	kupá	133	k u p á
+272	ProtoCoracholNahua	Cabello	**kɨpá	kɨpá	133	k ɨ p á
+273	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi PUA	133	¢omi PUA
+274	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi PUA	134	¢omi PUA
+275	Cora	Cabeza	mu’ú	mu’ú	136	m u ’ ú
+276	Huichol	Cabeza	mu’u	mu’u	136	m u ’ u
+277	ProtoNahua	Cabeza	*¢on-tekoma-/*kwa:- < **kuha **kupa	¢on-tekoma-	137	¢ o n t e k o m a
+278	Tepiman	Cabeza	*mo’o	mo’o	136	m o ’ o
+279	Cahita	Cabeza	kova	kova	137	k o v a
+280	Tarahumaran	Cabeza	mo’o	mo’o	136	m o ’ o
+281	ProtoUtoAztecan	Cabeza	**muu PUA/*kuppa	muu PUA	136	muu PUA
+93	Cora	Caliente	pɨstí/(sɨka ‘sun’)	pɨstí	50	p ɨ s t í
+94	Huichol	Caliente	ʂɨka	ʂɨka	51	ʂ ɨ k a
+95	ProtoNahua	Caliente	*toto:ni-k	toto:ni-k	52	t o t o: n i k
+96	Tepiman	Caliente	*toni	toni	52	t o n i
+97	Cahita	Caliente	*sukka	sukka	51	s u kk a
+98	Tarahumaran	Caliente	*tono/*sukáre	tono	52	t o n o
+99	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	51	t o N a
+100	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	52	t o N a
+495	Cora	Caminar	-yeiwe	-yeiwe	207	yei w e
+496	Huichol	Caminar	yeiya	yeiya	207	yeiya
+497	ProtoNahua	Caminar	*yawi/*nehnemi	yawi	207	ya w i
+498	Tepiman	Caminar	sime	sime	208	s i m e
+499	Cahita	Caminar	siime	siime	208	s ii m e
+500	Tarahumaran	Caminar	simí	simí	208	s i m í
+501	ProtoCoracholNahua	Caminar	**yai-wi	yai-wi	207	y ai w i
+502	ProtoUtoAztecan	Caminar	**yapi/**ya’i PUA	yapi	207	y a p i
+681	Cora	Camino	huye	huye	283	h u y e
+682	Huichol	Camino	huye	huye	283	h u y e
+683	ProtoNahua	Camino	*oh-	oh-	283	o h
+684	Tepiman	Camino	voi	voi	283	v oi
+685	Cahita	Camino	vó’o	vó’o	283	v ó ’ o
+686	Tarahumaran	Camino	powé	powé	283	p o w é
+687	ProtoCoracholNahua	Camino	**ho-ye	ho-ye	283	h o ye
+688	ProtoUtoAztecan	Camino	**po PUA//**wo SUA	po PUA	283	po PUA
+544	Cora	Cantar	čwíka	čwíka	228	čw í k a
+545	Huichol	Cantar	kwikariya	kwikariya	228	kw i k a r i y a
+546	ProtoNahua	Cantar	*kwika	kwika	228	kw i k a
+547	Tepiman	Cantar	nɨ’i	nɨ’i	229	n ɨ ’ i
+548	Cahita	Cantar	bwíka	bwíka	228	bw í k a
+549	Tarahumaran	Cantar	wikatá	wikatá	228	w i k a t á
+550	ProtoUtoAztecan	Cantar	**kwika PUA	kwika PUA	228	kwika PUA
+207	Cora	Carne	wa’í-raa	wa’í-raa	104	w a ’ í r aa
+208	Huichol	Carne	wai	wai	104	w ai
+209	ProtoNahua	Carne	*naka-	naka-	105	n a k a
+210	Tepiman	Carne	*tukuwa	tukuwa	106	t u k u w a
+211	Cahita	Carne	tekua	tekua	106	t e k u a
+212	Tarahumaran	Carne	sa’apa	sa’apa	107	s a ’ a p a
+667	Cora	Ceniza	nasí	nasí	276	n a s í
+668	Huichol	Ceniza	naʂi	naʂi	276	n a ʂ i
+669	ProtoNahua	Ceniza	*neš	neš	276	n e š
+670	Tepiman	Ceniza	mátai	mátai	277	m á t ai
+671	Cahita	Ceniza	náposa	náposa	278	n á p o s a
+672	Tarahumaran	Ceniza	napisó	napisó	278	n a p i s ó
+673	ProtoCoracholNahua	Ceniza	**nasi (+tubar)	nasi	276	n a s i
+689	Cora	Cerro	hɨri	hɨri	284	h ɨ r i
+690	Huichol	Cerro	yemuri	yemuri	285	y e m u r i
+691	ProtoNahua	Cerro	*tepe:-	tepe:-	286	t e p e:
+692	Tepiman	Cerro	‘oidaga <*huya	‘oidaga <huya	284	‘oidaga <huya
+693	Cahita	Cerro	káwi	káwi	287	k á w i
+694	Tarahumaran	Cerro	kawí	kawí	287	k a w í
+695	ProtoCoracholNahua	Cerro	**te-pɨ:ti	te-pɨ:ti	288	t e p ɨ: t i
+696	ProtoUtoAztecan	Cerro	**hu-ya SUA	hu-ya SUA	284	hu-ya SUA
+574	Cora	Cielo	tahapwá	tahapwá	239	t a h a p w á
+575	Huichol	Cielo	muyuawi¢ie	muyuawi¢ie	240	m u y u a w i ¢ i e
+576	ProtoNahua	Cielo	*ilwika- < ƛèwíka	ilwika- < ƛèwíka	241	ilwika- < ƛèwíka
+577	Tepiman	Cielo	tɨvagi	tɨvagi	241	t ɨ v a g i
+578	Cahita	Cielo	téeka	téeka	241	t é e k a
+579	Tarahumaran	Cielo	teweká	teweká	241	t e w e k á
+580	ProtoUtoAztecan	Cielo	**tawika SUA	tawika SUA	241	tawika SUA
+250	Cora	Cola	kwasí	kwasí	125	kw a s í
+251	Huichol	Cola	kwaʂi	kwaʂi	125	kw a ʂ i
+252	ProtoNahua	Cola	*kwitlapil-/(*kwaš-/kweš ‘skirt/taparrabo*)	kwitlapil-	126	kw i tl a p i l
+253	Tepiman	Cola	bahi	bahi	125	b a h i
+254	Cahita	Cola	bwasia	bwasia	125	b w a s ia
+255	Tarahumaran	Cola	wahsi	wahsi	125	w a h s i
+256	ProtoUtoAztecan	Cola	**kwasi PUA	kwasi PUA	125	kwasi PUA
+503	Cora	Come	-bé’ene	-bé’ene	209	b é ’ e n e
+504	Huichol	Come	ha-mie	ha-mie	210	h a m i e
+505	ProtoNahua	Come	*wa:l-yawi/	wa:l-yawi	211	w a: l ya w i
+506	Tepiman	Come	*yɨwa	yɨwa	212	y ɨ w a
+507	Cahita	Come	yépsa	yépsa	212	y é p s a
+508	Tarahumaran	Come	noite	noite	213	n oi t e
+509	ProtoUtoAztecan	Come	**yiwa SUA	yiwa SUA	210	yiwa SUA
+420	Cora	Comer	kwá	kwá	179	kw á
+421	Huichol	Comer	kwai-ya	kwai-ya	179	kw ai ya
+422	ProtoNahua	Comer	*kwa:	kwa:	179	kw a:
+423	Tepiman	Comer	ko’a	ko’a	179	k o ’ a
+424	Cahita	Comer	bwa	bwa	179	bw a
+425	Tarahumaran	Comer	ko’a	ko’a	179	k o ’ a
+426	ProtoCoracholNahua	Comer	**kwa	kwa	179	kw a
+427	ProtoUtoAztecan	Comer	*kwa PUA	kwa PUA	179	kwa PUA
+397	Cora	Corazon	sɨéheniu’ukari/(ruurikame ‘animal’)	sɨéheniu’ukari	173	s ɨ é h e n i u ’ u k a r i
+398	Huichol	Corazon	iyari	iyari	174	i y a r i
+399	ProtoNahua	Corazon	*yo:lyoh	yo:lyoh	174	y o: l y o h
+400	Tepiman	Corazon	hura	hura	175	h u r a
+401	Cahita	Corazon	hiapsi//súla/(yorem ‘person’)	hiapsi	175	h i a p s i
+402	Tarahumaran	Corazon	surá	surá	175	s u r á
+403	ProtoCoracholNahua	Corazon	*yauri	yauri	174	y au r i
+404	ProtoUtoAztecan	Corazon	**sura/	sura	175	s u r a
+170	Cora	Corteza	ku¢apé	ku¢apé	87	k u ¢ a p é
+171	Huichol	Corteza	kunieri	kunieri	88	k u n ie r i
+172	ProtoNahua	Corteza	*e:wa-yo	e:wa-yo	89	e: w a yo
+173	Tepiman	Corteza	*komi	komi	90	k o m i
+174	ProtoUtoAztecan	Corteza	*po’owa PUA	po’owa PUA	89	p o’o w a PUA
+382	Cora	Cuello	kɨhpí	kɨhpí	166	k ɨ h p í
+383	Huichol	Cuello	kɨipi	kɨipi	166	k ɨi p i
+384	ProtoNahua	Cuello	*ke:č-pa-	ke:č-pa-	166	k e: č p a
+385	Tepiman	Cuello	kusivo	kusivo	166	k u s i v o
+386	Cahita	Cuello	kútana//bi’am	kútana	167	k ú t a n a
+387	Tarahumaran	Cuello	kuhtamó	kuhtamó	167	k u h t a m ó
+388	ProtoUtoAztecan	Cuello	*kusi-pa PUA	kusi-pa PUA	166	kusi-pa PUA
+243	Cora	Cuerno	e’ewá	e’ewá	122	e ’ e w á
+244	Huichol	Cuerno	awa	awa	122	a w a
+245	ProtoNahua	Cuerno	*kwa:kwaw-	kwa:kwaw-	123	kw a: kw a w
+246	Tepiman	Cuerno	*a’aga	a’aga	122	a ’ a g a
+247	Cahita	Cuerno	*awá	awá	122	a w á
+248	Tarahumaran	Cuerno	*awá	awá	122	a w á
+249	ProtoUtoAztecan	Cuerno	**awa	awa	122	a w a
+539	ProtoNahua	Dar	*maka	maka	225	m a k a
+540	Tepiman	Dar	maaka	maaka	225	m aa k a
+541	Cahita	Dar	máka/míka	máka	225	m á k a
+542	Tarahumaran	Dar	ki’ya	ki’ya	226	k i ’ ya
+543	ProtoUtoAztecan	Dar	*maka PUA	maka PUA	225	maka PUA
+316	Cora	Diente	tamé	tamé	146	t a m é
+317	Huichol	Diente	tame	tame	146	t a m e
+318	ProtoNahua	Diente	*ƛa:n-	ƛa:n-	146	ƛ a: n
+319	Tepiman	Diente	tama	tama	146	t a m a
+320	Cahita	Diente	támi	támi	146	t á m i
+321	Tarahumaran	Diente	tamé	tamé	146	t a m é
+322	ProtoUtoAztecan	Diente	**tame SUA	tame SUA	146	tame SUA
+466	Cora	Dormir	ku¢i	ku¢i	194	k u ¢ i
+467	Huichol	Dormir	ku¢i	ku¢i	194	k u ¢ i
+468	ProtoNahua	Dormir	*koči	koči	194	k o č i
+469	Tepiman	Dormir	koosig	koosig	194	k oo s i g
+470	Cahita	Dormir	kotče	kotče	194	k o t č e
+471	Tarahumaran	Dormir	ko¢i-	ko¢i-	194	k o ¢ i
+472	ProtoUtoAztecan	Dormir	**ko¢i SUA	ko¢i SUA	194	ko¢i SUA
+23	Cora	Dos	wá’apwa	wá’apwa	9	w á ’ a pw a
+24	Huichol	Dos	huuta	huuta	9	h uu t a
+25	ProtoNahua	Dos	*o:me	o:me	9	o: m e
+26	Tepiman	Dos	*gok	gok	9	g o k
+27	Cahita	Dos	*woyi	woyi	9	w o y i
+28	Tarahumaran	Dos	*woka	woka	9	w o k a
+29	ProtoCoracholNahua	Dos	**wapu-	wapu-	9	w a p u
+30	ProtoUtoAztecan	Dos	*wo- SUA/(*wapulai ‘different/other’ cahita)	wo- SUA	10	wo- SUA
+566	Cora	Estrella	sú’ura’abe	sú’ura’abe	236	s ú ’ u r a ’ a b e
+567	Huichol	Estrella	ʂurawe	ʂurawe	236	ʂ u r a w e
+568	ProtoNahua	Estrella	*sital-	sital-	236	s i t a l
+569	Tepiman	Estrella	sipo/suu	sipo	237	s i p o
+570	Cahita	Estrella	čóki	čóki	238	č ó k i
+571	Tarahumaran	Estrella	so’póri	so’póri	237	s o ’ p ó r i
+572	ProtoCoracholNahua	Estrella	**su:ta-	su:ta-	236	s u: t a
+573	ProtoUtoAztecan	Estrella	**suu PUA	suu PUA	236	suu PUA
+84	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	45	k ɨ mw á h a r a
+85	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	46	k ɨ mw á h a r a
+86	Huichol	Frio (hace frio)	haɨtɨ	haɨtɨ	47	h a ɨ t ɨ
+87	ProtoNahua	Frio (hace frio)	*i¢ti-k/*se:wa	i¢ti-k	48	i ¢ t i k
+88	ProtoNahua	Frio (hace frio)	*i¢ti-k/*se:wa	i¢ti-k	46	i ¢ t i k
+89	Tepiman	Frio (hace frio)	*hepi	hepi	46	h e p i
+90	Cahita	Frio (hace frio)	*sewe/	sewe	46	s e w e
+91	Tarahumaran	Frio (hace frio)	*sepi	sepi	46	s e p i
+92	ProtoUtoAztecan	Frio (hace frio)	*sep- PUA	sep- PUA	46	sep- PUA
+658	Cora	Fuego	taih	taih	273	t ai h
+659	Huichol	Fuego	tai	tai	273	t ai
+660	ProtoNahua	Fuego	*ƛe	ƛe	273	ƛ e
+661	Tepiman	Fuego	tai	tai	273	t ai
+662	Cahita	Fuego	táhi/náy	táhi	273	t á h i
+663	Cahita	Fuego	táhi/náy	táhi	274	t á h i
+664	Tarahumaran	Fuego	na’í	na’í	274	n a ’ í
+665	ProtoUtoAztecan	Fuego	**ƛahi PUA	ƛahi PUA	273	ƛahi PUA
+666	ProtoUtoAztecan	Fuego	**ƛahi PUA	ƛahi PUA	274	ƛahi PUA
+31	Cora	Grande	bé’e	bé’e	11	b é ’ e
+32	Huichol	Grande	e-nena/(waiya ‘gordo’)	e-nena	12	e n e n a
+33	ProtoNahua	Grande	*we:yi	we:yi	11	w e:yi
+34	Tepiman	Grande	*gɨ	gɨ	11	g ɨ
+35	Cahita	Grande	*bweru	bweru	11	bw e r u
+36	Tarahumaran	Grande	*weru	weru	11	w e r u
+37	ProtoCoracholNahua	Grande	*we:-	we:-	11	w e:
+38	ProtoUtoAztecan	Grande	*wɨL- SUA	wɨL- SUA	11	wɨL- SUA
+227	Cora	Grasa	neéčira’a	neéčira’a	117	n e é č i r a ’ a
+228	Huichol	Grasa	wi:ya	wi:ya	118	w i:ya
+229	ProtoNahua	Grasa	*čiyawa-	čiyawa-	117	č i y a w a
+230	Tepiman	Grasa	*gii	gii	118	g ii
+231	Cahita	Grasa	áwira	áwira	118	á w i r a
+232	Tarahumaran	Grasa	wi’í	wi’í	118	w i ’ í
+233	ProtoCoracholNahua	Grasa	**¢iya-	¢iya-	117	¢ iya
+234	ProtoUtoAztecan	Grasa	**wip PUA	wip PUA	118	wip PUA
+405	Cora	Higado	neemwa/	neemwa	176	n ee m w a
+406	Huichol	Higado	nema	nema	176	n e m a
+407	ProtoNahua	Higado	*yel-	yel-	177	ye l
+408	Tepiman	Higado	nɨma	nɨma	176	n ɨ m a
+409	Cahita	Higado	hémam	hémam	176	h é m a m
+410	Tarahumaran	Higado	ema	ema	176	e m a
+411	ProtoUtoAztecan	Higado	*nɨma PUA	nɨma PUA	176	nɨma PUA
+175	Cora	Hoja	samwá	samwá	94	s a m w á
+176	Huichol	Hoja	ʂama/(sawa - Grimes)	ʂama	94	ʂ a m a
+177	ProtoNahua	Hoja	*iswa-/*šiwi-	iswa-	94	i s w a
+178	Tepiman	Hoja	*haga	haga	94	h a g a
+179	Cahita	Hoja	sáwa	sáwa	94	s á w a
+180	Tarahumaran	Hoja	sawá	sawá	94	s a w á
+181	ProtoUtoAztecan	Hoja	**sàmwá SUA	sàmwá SUA	94	sàmwá SUA
+110	Cora	Hombre	taáta/téteka/ukira¢i ‘old man’	taáta	59	t aá t a
+111	Huichol	Hombre	uki’	uki’	59	u k i ’
+112	ProtoNahua	Hombre	*okič- **/*ƛa:ka-*	okič-	59	o k i č
+113	Tepiman	Hombre	*tihoyi	tihoyi	60	t i h oyi
+114	Cahita	Hombre	?/taká  ‘cuerpo’	taká ‘cuerpo’	61	taká ‘cuerpo’
+115	Tarahumaran	Hombre	*tihoe/*owi	tihoe	60	t i h oe
+116	ProtoCoracholNahua	Hombre	**oki¢i	oki¢i	59	o k i ¢ i
+117	ProtoUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oki¢i ‘girl’ SUA	59	oki¢i ‘girl’ SUA
+118	ProtoUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oki¢i ‘girl’ SUA	60	oki¢i ‘girl’ SUA
+220	Cora	Hueso	karíh	karíh	115	k a r í h
+221	Huichol	Hueso	u:me	u:me	116	u: m e
+222	ProtoNahua	Hueso	*omi-	omi-	116	o m i
+223	Tepiman	Hueso	*o’oyi	o’oyi	116	o ’ o y i
+224	Cahita	Hueso	*ota	ota	116	o t a
+225	Tarahumaran	Hueso	*o’	o’	116	o ’
+226	ProtoUtoAztecan	Hueso	**ohomɨ PUA	ohomɨ PUA	116	ohomɨ PUA
+235	Cora	Huevo	ta’ú	ta’ú	119	t a ’ ú
+236	Huichol	Huevo	tawari	tawari	119	t a w a r i
+237	ProtoNahua	Huevo	*toto:lte-/*toto:lin ’turkey hen’	toto:lte-	119	t o t o: l t e
+238	Tepiman	Huevo	*no’	no’	120	n o ’
+239	Cahita	Huevo	káwá	káwá	121	k á w á
+240	Tarahumaran	Huevo	kawá	kawá	121	k a w á
+241	ProtoCoracholNahua	Huevo	**tawari ’egg/turkey hen’	tawari ’egg	119	tawari ’egg
+242	ProtoUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	tapari ’turkey hen’	119	tapari ’turkey hen’
+651	Cora	Humo	kɨɨ¢í	kɨɨ¢í	270	k ɨɨ ¢ í
+652	Huichol	Humo	kɨ¢i	kɨ¢i	270	k ɨ ¢ i
+653	ProtoNahua	Humo	*po:k-/(*kwič- ‘hollín’)	po:k-	270	p o: k
+654	Tepiman	Humo	kubusi	kubusi	270	k u b u s i
+655	Cahita	Humo	bwíiči	bwíiči	270	bw íi č i
+656	Tarahumaran	Humo	moré-	moré-	271	m o r é
+657	ProtoUtoAztecan	Humo	*kwi¢i	kwi¢i	270	kw i ¢ i
+323	Cora	Lengua	nanuri	nanuri	148	n a n u r i
+324	Huichol	Lengua	neni	neni	148	n e n i
+325	ProtoNahua	Lengua	*nenepil	nenepil	148	n e n e p i l
+326	Tepiman	Lengua	nɨɨni	nɨɨni	148	n ɨɨ n i
+327	Cahita	Lengua	níni	níni	148	n í n i
+328	ProtoUtoAztecan	Lengua	*nenɨ SUA	nenɨ SUA	148	nenɨ SUA
+596	Cora	Llúvia	biite	biite	248	b ii t e
+597	Huichol	Llúvia	wiyeri	wiyeri	248	w i y e r i
+598	ProtoNahua	Llúvia	*kiyawi-	kiyawi-	248	k i y a w i
+599	Tepiman	Llúvia	duku	duku	249	d u k u
+600	Cahita	Llúvia	yúke	yúke	249	y ú k e
+601	Tarahumaran	Llúvia	yu’kí	yu’kí	249	yu ’ k í
+602	ProtoCoracholNahua	Llúvia	**wi	wi	248	w i
+603	ProtoUtoAztecan	Llúvia	*yuku SUA/**wi PUA	yuku SUA	248	yuku SUA
+559	Cora	Luna	maskɨrai	maskɨrai	234	m a s k ɨ r ai
+560	Huichol	Luna	me¢a	me¢a	234	m e ¢ a
+561	ProtoNahua	Luna	*me¢-	me¢-	234	m e ¢
+562	Tepiman	Luna	masaada	masaada	234	m a s aa d a
+563	Cahita	Luna	mé¢a	mé¢a	234	m é ¢ a
+564	Tarahumaran	Luna	me¢á	me¢á	234	m e ¢ á
+565	ProtoUtoAztecan	Luna	**mé¢a SUA	mé¢a SUA	234	mé¢a SUA
+352	Cora	Mano	mwahka’a	mwahka’a	158	m w a h k a ’ a
+353	Huichol	Mano	mama	mama	158	m a m a
+354	ProtoNahua	Mano	*ma:-	ma:-	158	m a:
+355	Tepiman	Mano	novi	novi	159	n o v i
+356	Cahita	Mano	mam	mam	158	m a m
+357	Tarahumaran	Mano	ma/seká	ma	158	m a
+358	ProtoCoracholNahua	Mano	*ma:	ma:	160	m a:
+359	ProtoUtoAztecan	Mano	*ma PUA	ma PUA	158	ma PUA
+480	Cora	Matar	*he’ika	he’ika	198	h e ’ i k a
+481	Huichol	Matar	mieriya	mieriya	199	m ie r i y a
+482	ProtoNahua	Matar	*miktia	miktia	200	m i k t i a
+483	Tepiman	Matar	mɨ’a	mɨ’a	199	m ɨ ’ a
+484	Cahita	Matar	mé’a	mé’a	199	m é ’ a
+485	Tarahumaran	Matar	me’á	me’á	199	m e ’ á
+486	ProtoUtoAztecan	Matar	**mɨkka/mɨ’a	mɨkka	199	m ɨ k k a
+761	Cora	Mecate/soga	káhunari	káhunari	319	k á h u n a r i
+762	Huichol	Mecate/soga	witari	witari	320	w i t a r i
+763	ProtoNahua	Mecate/soga	*meka-	meka-	321	m e k a
+764	Tepiman	Mecate/soga	tɨrovini	tɨrovini	322	t ɨ r o v i n i
+765	Cahita	Mecate/soga	witeri	witeri	320	w i t e r i
+766	Tarahumaran	Mecate/soga	witári	witári	320	w i t á r i
+767	ProtoUtoAztecan	Mecate/soga	**wika	wika	320	w i k a
+428	Cora	Morder	čé	čé	180	č é
+429	Huichol	Morder	kee	kee	180	k ee
+430	ProtoNahua	Morder	*ke¢oma	ke¢oma	180	k e ¢ o m a
+431	Tepiman	Morder	kɨyi	kɨyi	180	k ɨ y i
+432	Cahita	Morder	keye	keye	180	k e y e
+433	Tarahumaran	Morder	ki¢u	ki¢u	180	k i ¢ u
+434	ProtoCoracholNahua	Morder	*ke	ke	181	k e
+435	ProtoUtoAztecan	Morder	**kɨ¢a PUA	kɨ¢a PUA	180	kɨ¢a PUA
+473	Cora	Morir	mɨ’ɨ	mɨ’ɨ	196	m ɨ ’ ɨ
+474	Huichol	Morir	mɨiya	mɨiya	196	m ɨiya
+475	ProtoNahua	Morir	*miki	miki	196	m i k i
+476	Tepiman	Morir	muki	muki	196	m u k i
+477	Cahita	Morir	múuke	múuke	196	m úu k e
+478	Tarahumaran	Morir	mukú	mukú	196	m u k ú
+479	ProtoUtoAztecan	Morir	**muki PUA	muki PUA	196	muki PUA
+9	Cora	Muchos	mu’i’í	mu’i’í	3	m u ’ i ’ í
+10	Huichol	Muchos	mɨiré (Stubbs)	mɨiré	4	m ɨ i r é
+11	ProtoNahua	Muchos	*mi:yak	mi:yak	3	m i: y a k
+12	Tepiman	Muchos	*mui	mui	3	m u i
+13	Tarahumaran	Muchos	*mu	mu	3	m u
+14	ProtoUtoAztecan	Muchos	*mu’i:- PUA	mu’i:- PUA	3	mu’i:- PUA
+101	Cora	Mujer	ɨíta’a/úka	ɨíta’a	54	ɨ í t a ’ a
+102	Huichol	Mujer	‘uka/	‘uka	54	‘ u k a
+103	ProtoNahua	Mujer	*siwa:-	siwa:-	55	s i w a:
+104	Tepiman	Mujer	*okisi/*honiga	okisi	55	o k i s i
+105	Tepiman	Mujer	*okisi/*honiga	okisi	56	o k i s i
+106	Cahita	Mujer	*huubi	huubi	57	h uu b i
+107	Tarahumaran	Mujer	*upí	upí	57	u p í
+108	ProtoUtoAztecan	Mujer	**sinwa PUA/**uka- PUA	sinwa PUA	54	sinwa PUA
+109	ProtoUtoAztecan	Mujer	**sinwa PUA/**uka- PUA	sinwa PUA	55	sinwa PUA
+298	Cora	Nariz	¢u’uri	¢u’uri	141	¢ u ’ u r i
+299	Huichol	Nariz	¢uri	¢uri	141	¢ u r i
+300	ProtoNahua	Nariz	*yeka-¢ol-/*yaka	yeka-¢ol-	141	ye k a ¢ o l
+301	ProtoNahua	Nariz	*yeka-¢ol-/*yaka	yeka-¢ol-	142	ye k a ¢ o l
+302	Tepiman	Nariz	daak	daak	142	d aa k
+303	Cahita	Nariz	yéka	yéka	142	y é k a
+304	Tarahumaran	Nariz	yaká	yaká	142	y a k á
+305	ProtoCoracholNahua	Nariz	**¢ori-	¢ori-	141	¢ o r i
+306	ProtoUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka SUA	141	yeka SUA
+307	ProtoUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka SUA	142	yeka SUA
+729	Cora	Negro	sú’umwara’a	sú’umwara’a	306	s ú ’ u m w a r a ’ a
+730	Huichol	Negro	yɨwi	yɨwi	307	yɨ w i
+731	ProtoNahua	Negro	*ƛil-tik <tɨri/(yowak ‘noche’)	ƛil-tik <tɨri	308	ƛil-tik <tɨri
+732	Tepiman	Negro	tuku	tuku	309	t u k u
+733	Cahita	Negro	čukuli	čukuli	309	č u k u l i
+734	ProtoUtoAztecan	Negro	**tuku/**tuL PUA	tuku	308	t u k u
+735	ProtoUtoAztecan	Negro	**tuku/**tuL PUA	tuku	307	t u k u
+604	Cora	Nieve/hielo	seeri	seeri	250	s ee r i
+605	Huichol	Nieve/hielo	ɨɨví	ɨɨví	251	ɨɨ v í
+606	ProtoNahua	Nieve/hielo	*se	se	250	s e
+607	Tepiman	Nieve/hielo	kɨvai	kɨvai	252	k ɨ v ai
+608	Cahita	Nieve/hielo	sápam	sápam	253	s á p a m
+609	Tarahumaran	Nieve/hielo	kepá	kepá	252	k e p á
+610	ProtoCoracholNahua	Nieve/hielo	**se	se	250	s e
+611	ProtoUtoAztecan	Nieve/hielo	*kɨpa	kɨpa	254	k ɨ p a
+1	Cora	No	kah/ka-pú/ka-mo (Casad 1984)/	kah	1	k a h
+2	Huichol	No	tiʂaɨ	tiʂaɨ	2	t i ʂ aɨ
+3	ProtoNahua	No	*ahmo/*ka	ahmo	1	a h m o
+4	Tepiman	No	*čo/*káaki	čo	1	č o
+5	Cahita	No	*ka	ka	1	k a
+6	Tarahumaran	No	*kai	kai	1	k ai
+7	ProtoCoracholNahua	No	**ka-mo	ka-mo	1	k a m o
+8	ProtoUtoAztecan	No	*ka	ka	1	k a
+736	Cora	Noche	tɨ́ka’a	tɨ́ka’a	311	t ɨ ́ k a ’ a
+737	Huichol	Noche	tɨkari	tɨkari	311	t ɨ k a r i
+738	ProtoNahua	Noche	*yo:wa-	yo:wa-	312	y o: w a
+739	Tepiman	Noche	tukaa	tukaa	311	t u k aa
+740	Cahita	Noche	tukaria	tukaria	311	t u k a r i a
+741	Tarahumaran	Noche	tugaó	tugaó	311	t u g a ó
+742	ProtoUtoAztecan	Noche	*yuppa PUA/*tuka	yuppa PUA	311	yuppa PUA
+743	ProtoUtoAztecan	Noche	*yuppa PUA/*tuka	yuppa PUA	312	yuppa PUA
+744	Cora	Nombre	tamwa	tamwa	314	t a mw a
+745	Huichol	Nombre	tewa	tewa	314	t e w a
+746	ProtoNahua	Nombre	*to:ka-	to:ka-	314	t o: k a
+747	Tepiman	Nombre	tɨɨg	tɨɨg	314	t ɨɨ g
+748	Cahita	Nombre	téwa	téwa	314	t é w a
+749	Tarahumaran	Nombre	tewá	tewá	314	t e w á
+750	ProtoCoracholNahua	Nombre	**tewa-ka	tewa-ka	314	t e w a k a
+751	ProtoUtoAztecan	Nombre	**tɨ(n)wa PUA	tɨwa PUA	314	tɨwa PUA
+643	Cora	Nube	haítɨri	haítɨri	264	h aí t ɨ r i
+644	Huichol	Nube	hai	hai	264	h ai
+645	ProtoNahua	Nube	*mex- /mix-	mex-	265	m e x
+646	Cahita	Nube	naámu	naámu	267	n aá m u
+647	Tarahumaran	Nube	tomóa	tomóa	268	t o m ó a
+648	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	264	t o mm o
+649	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	265	t o mm o
+650	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	268	t o mm o
+54	Cora	Nuevo	héhkwa	héhkwa	31	h é h kw a
+55	Huichol	Nuevo	hekwa	hekwa	31	h e kw a
+56	ProtoNahua	Nuevo	*yankwi-k/*yenkwi-k	yankwi-k	31	ya n kw i k
+57	Tepiman	Nuevo	*vetuda	vetuda	32	v e t u d a
+58	Cahita	Nuevo	*bemela	bemela	33	b e m e l a
+59	Tarahumaran	Nuevo	kaweruma	kaweruma	34	k a w e r u m a
+60	ProtoCoracholNahua	Nuevo	**hɨnkwa-ki/**pɨnkwa-k	hɨnkwa-ki	31	h ɨ n kw a k i
+61	ProtoUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa SUA	31	hukwa SUA
+62	ProtoUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa SUA	32	hukwa SUA
+290	Cora	Ojo	hɨ’ɨsí	hɨ’ɨsí	140	h ɨ ’ ɨ s í
+291	Huichol	Ojo	hɨʂi	hɨʂi	140	h ɨ ʂ i
+292	ProtoNahua	Ojo	*i:š	i:š	140	i: š
+293	Tepiman	Ojo	*vuhi	vuhi	140	v u h i
+294	Cahita	Ojo	púsi	púsi	140	p ú s i
+295	Tarahumaran	Ojo	pusí	pusí	140	p u s í
+296	ProtoCoracholNahua	Ojo	**huusi	huusi	140	h uu s i
+297	ProtoUtoAztecan	Ojo	**pusi	pusi	140	p u s i
+372	Cora	Ombligo	sipu¢i	sipu¢i	164	s i p u ¢ i
+373	Cora	Ombligo	sipu¢i	sipu¢i	165	s i p u ¢ i
+374	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	164	ʂ ɨ t e m u ¢ i
+375	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	165	ʂ ɨ t e m u ¢ i
+376	ProtoNahua	Ombligo	*šik-/*tempo¢ ‘pursed lips’	šik-	164	š i k
+377	Tepiman	Ombligo	hiko	hiko	164	h i k o
+378	Cahita	Ombligo	síiku	síiku	164	s íi k u
+379	Tarahumaran	Ombligo	sikú	sikú	164	s i k ú
+380	ProtoCoracholNahua	Ombligo	**siku-**tempo¢i	siku-tempo¢i	164	s i k u t e m p o ¢ i
+381	ProtoUtoAztecan	Ombligo	**siku SUA	siku SUA	164	siku SUA
+282	Cora	Oreja	nasáih	nasáih	139	n a s á i h
+283	Huichol	Oreja	naka	naka	139	n a k a
+284	ProtoNahua	Oreja	*nakas <*nakasV	nakas <nakasV	139	nakas <nakasV
+285	Tepiman	Oreja	naaka	naaka	139	n aa k a
+286	Cahita	Oreja	náka	náka	139	n á k a
+287	Tarahumaran	Oreja	naká	naká	139	n a k á
+288	ProtoCoracholNahua	Oreja	**nákàsa	nákàsa	139	n á k à s a
+289	ProtoUtoAztecan	Oreja	**nakka PUA	nakka PUA	139	nakka PUA
+452	Cora	Oír	namwá	namwá	188	n a m w á
+453	Huichol	Oír	enarika	enarika	188	e n a r i k a
+454	ProtoNahua	Oír	*kaki	kaki	189	k a k i
+455	Tepiman	Oír	kahɨ	kahɨ	189	k a h ɨ
+456	Cahita	Oír	hikkaha	hikkaha	189	h i kk a h a
+457	Tarahumaran	Oír	ake	ake	189	a k e
+458	ProtoUtoAztecan	Oír	**kahi PUA/**nakka ’ear’ PUA	kahi PUA	189	kahi PUA
+532	Cora	Parado	-téhebee	-téhebee	219	t é h e b ee
+533	Huichol	Parado	téwi	téwi	219	t é w i
+534	ProtoNahua	Parado	*ihkak < kèká	ihkak < kèká	220	ihkak < kèká
+535	Tepiman	Parado	kɨka/*wɨka	kɨka	220	k ɨ k a
+536	Cahita	Parado	wéyek	wéyek	221	w é ye k
+537	Tarahumaran	Parado	weri	weri	221	w e r i
+538	ProtoUtoAztecan	Parado	*keka	keka	220	k e k a
+44	Cora	Pequeño	kɨlen	kɨlen	20	k ɨ l e n
+45	ProtoNahua	Pequeño	*tepi-/*¢iki	tepi-	22	t e p i
+138	Cora	Perro	¢ɨ’ɨ	¢ɨ’ɨ	78	¢ ɨ ’ ɨ
+139	Huichol	Perro	¢ɨkɨ	¢ɨkɨ	78	¢ ɨ k ɨ
+140	ProtoNahua	Perro	*i¢kwin/*čiči	i¢kwin	78	i ¢ kw i n
+141	ProtoNahua	Perro	*i¢kwin/*čiči	i¢kwin	79	i ¢ kw i n
+142	Tepiman	Perro	*gosi	gosi	80	g o s i
+143	Cahita	Perro	ču’u	ču’u	79	č u ’ u
+144	Tarahumaran	Perro	*koči	koči	80	k o č i
+145	ProtoCoracholNahua	Perro	**¢ukui	¢ukui	78	¢ u k u i
+146	ProtoUtoAztecan	Perro	**¢u SUA	¢u SUA	78	¢u SUA
+119	Cora	Persona	tyevi (Stubbs)	tyevi	62	t ye v i
+120	Huichol	Persona	tewi	tewi	62	t e w i
+121	ProtoNahua	Persona	-te:-(ka)	-te:-	62	t e:
+122	Cahita	Persona	*yore/	yore	64	yo r e
+123	ProtoUtoAztecan	Persona	**ta:wi/*tɨwi PUA	ta:wi	67	t a: w i
+69	Huichol	Pesado	heeté	heeté	41	h ee t é
+70	ProtoNahua	Pesado	*yeti-k	yeti-k	41	ye t i k
+71	Tepiman	Pesado	*vɨti	vɨti	41	v ɨ t i
+72	Cahita	Pesado	*vette	vette	41	v e tt e
+73	Tarahumaran	Pesado	*pehté	pehté	41	p e h t é
+74	ProtoUtoAztecan	Pesado	*pɨttɨ PUA	pɨttɨ PUA	41	pɨttɨ PUA
+124	Cora	Pez	wá’i/	wá’i	68	w á ’ i
+125	Huichol	Pez	ke¢ɨ	ke¢ɨ	69	k e ¢ ɨ
+126	ProtoNahua	Pez	*miči-/*toopoh?	miči-	70	m i č i
+127	Tepiman	Pez	*vatopa	vatopa	71	v a t o p a
+128	Cahita	Pez	*kuču	kuču	69	k u č u
+129	Tarahumaran	Pez	kočú/*musi	kočú	69	k o č ú
+130	ProtoUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi SUA	69	musi SUA
+131	ProtoUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi SUA	70	musi SUA
+337	Cora	Pie	čepa	čepa	151	č e p a
+338	Huichol	Pie	ɨka	ɨka	151	ɨ k a
+339	ProtoNahua	Pie	*ikši <**kèsi/kàsi	ikši <kèsi	151	ikši <kèsi
+340	Tepiman	Pie	kɨsa/tára	kɨsa	151	k ɨ s a
+341	Cahita	Pie	wókim	wókim	152	w ó k i m
+342	Tarahumaran	Pie	kasí/talá	kasí	151	k a s í
+343	ProtoUtoAztecan	Pie	*ke-/ka	ke-	151	k e
+612	Cora	Piedra	teté	teté	255	t e t é
+613	Huichol	Piedra	tete	tete	255	t e t e
+614	ProtoNahua	Piedra	*te-	te-	255	t e
+615	Tepiman	Piedra	*hoda	hoda 	256	hoda 
+616	Cahita	Piedra	téta	téta	255	t é t a
+617	Tarahumaran	Piedra	teté	teté	255	t e t é
+618	ProtoCoracholNahua	Piedra	**te	te	255	t e
+619	ProtoUtoAztecan	Piedra	**te SUA/**tɨ- PUA	te SUA	255	te SUA
+213	Cora	Piel	nabíh	nabíh	110	n a b í h
+214	Huichol	Piel	nawi	nawi	110	n a w i
+215	ProtoNahua	Piel	*ye:wayo-	ye:wayo-	111	y e: w a y o
+216	Tepiman	Piel	*ɨLida	ɨLida	112	ɨ L i d a
+217	Cahita	Piel	*beewa	beewa	111	b ee w a
+218	Tarahumaran	Piel	wi’¢i	wi’¢i	113	w i ’ ¢ i
+219	ProtoUtoAztecan	Piel	**po’owa PUA/**sikwa/	po’owa PUA	111	po’owa PUA
+147	Cora	Piojo	até	até	81	a t é
+148	Huichol	Piojo	ate	ate	81	a t e
+149	ProtoNahua	Piojo	*atemi	atemi	81	a t e m i
+150	Tepiman	Piojo	*aatɨ	aatɨ	81	aa t ɨ
+151	Cahita	Piojo	étte	étte	81	é tt e
+152	Tarahumaran	Piojo	ehté	ehté	81	e h t é
+153	ProtoCoracholNahua	Piojo	**ate	ate	81	a t e
+154	ProtoUtoAztecan	Piojo	**atɨ PUA	atɨ PUA	81	atɨ PUA
+257	Cora	Pluma	aná	aná	128	a n á
+258	Huichol	Pluma	ana	ana	128	a n a
+259	ProtoNahua	Pluma	*ihwi-/*ke¢al-	ihwi-	129	i h w i
+260	ProtoNahua	Pluma	*ihwi-/*ke¢al-	ihwi-	130	i h w i
+261	Tepiman	Pluma	á’ana	á’ana	128	á ’ a n a
+262	Cahita	Pluma	mássa	mássa	131	m á ss a
+263	Tarahumaran	Pluma	masá	masá	131	m a s á
+264	ProtoUtoAztecan	Pluma	**ana PUA/**piwi PUA/**kɨ¢a PUA	ana PUA	128	ana PUA
+265	ProtoUtoAztecan	Pluma	**ana PUA/**piwi PUA/**kɨ¢a PUA	ana PUA	129	ana PUA
+266	ProtoUtoAztecan	Pluma	**ana PUA/**piwi PUA/**kɨ¢a PUA	ana PUA	130	ana PUA
+132	Cora	Pájaro	pína’a	pína’a	73	p í n a ’ a
+133	Huichol	Pájaro	wi:ki	wi:ki	74	w i: k i
+134	ProtoNahua	Pájaro	*toto-/(*wi¢i-ki ‘colibrí’, awiwi¢kaƛ ‘swallow’)	toto-	75	t o t o
+135	Tepiman	Pájaro	*uuhigi	uuhigi	74	uu h i g i
+136	Cahita	Pájaro	*wiikit	wiikit	74	w ii k i t
+137	ProtoUtoAztecan	Pájaro	*wi¢iki PUA	wi¢iki PUA	74	wi¢iki PUA
+182	Cora	Raíz	iínee	iínee	96	ií n ee
+183	Huichol	Raíz	nana/inieeri (Stubbs)	nana	96	n a n a
+184	ProtoNahua	Raíz	*nelwa-	nelwa-	96	n e l w a
+185	Tepiman	Raíz	*tatka/	tatka	97	t a t k a
+186	Cahita	Raíz	náwa	náwa	96	n á w a
+187	Tarahumaran	Raíz	nawá	nawá	96	n a w á
+188	ProtoCoracholNahua	Raíz	*(i)neri-wa	neri-wa	96	n e r i w a
+189	ProtoUtoAztecan	Raíz	**nawa SUA	nawa SUA	96	nawa SUA
+344	Cora	Rodilla	tunú	tunú	154	t u n ú
+345	Huichol	Rodilla	ʂatɨ	ʂatɨ	155	ʂ a t ɨ
+346	ProtoNahua	Rodilla	*ƛankwa:-	ƛankwa:-	154	ƛ a n k w a:
+347	Tepiman	Rodilla	tóono	tóono	154	t ó o n o
+348	Cahita	Rodilla	tóno	tóno	154	t ó n o
+349	Tarahumaran	Rodilla	¢opokori	¢opokori	156	¢ o p o k o r i
+350	ProtoUtoAztecan	Rodilla	**taŋa PUA/**toŋa PUA	taŋa PUA	154	taŋa PUA
+351	ProtoUtoAztecan	Rodilla	**taŋa PUA/**toŋa PUA	taŋa PUA	156	taŋa PUA
+697	Cora	Rojo	tapa’u	tapa’u	289	t a p a ’ u
+698	Huichol	Rojo	ʂeta	ʂeta	290	ʂ e t a
+699	ProtoNahua	Rojo	*čičil-tik/*pa ‘pintar’	čičil-tik	289	č i č i l t i k
+700	ProtoNahua	Rojo	*čičil-tik/*pa ‘pintar’	čičil-tik	291	č i č i l t i k
+701	Tepiman	Rojo	vɨgi/<*pɨwi	vɨgi	292	v ɨ g i
+702	Cahita	Rojo	síkili	síkili	293	s í k i l i
+703	Tarahumaran	Rojo	setá	setá	290	s e t á
+704	ProtoUtoAztecan	Rojo	**sɨta	sɨta	290	s ɨ t a
+459	Cora	Saber	mware’e/(mwa¢ira)	mware’e	191	m w a r e ’ e
+460	Huichol	Saber	maiya	maiya	191	m aiya
+461	ProtoNahua	Saber	*mati/*mači	mati	191	m a t i
+462	Tepiman	Saber	matɨ	matɨ	191	m a t ɨ
+463	Cahita	Saber	ma¢i	ma¢i	191	m a ¢ i
+464	Tarahumaran	Saber	pené	pené	192	p e n é
+465	ProtoUtoAztecan	Saber	**mati	mati	191	m a t i
+636	Cora	Sal	unáh	unáh	261	u n á h
+637	Huichol	Sal	una	una	261	u n a
+638	ProtoNahua	Sal	*ista- < *tòsá	ista- < tòsá	262	ista- < tòsá
+639	Tepiman	Sal	ona	ona	261	o n a
+640	Cahita	Sal	óna	óna	261	ó n a
+641	Tarahumaran	Sal	oná	oná	261	o n á
+642	ProtoUtoAztecan	Sal	**oŋa PUA/**tusa ‘white earth’ PUA	oŋa PUA	261	oŋa PUA
+198	Cora	Sangre	su’úre’e	su’úre’e	100	s u ’ ú r e ’ e
+199	Huichol	Sangre	ʂuriya	ʂuriya	100	ʂ u r iya
+200	ProtoNahua	Sangre	*yes <**pauso	yes <pauso	100	yes <pauso
+201	ProtoNahua	Sangre	*yes <**pauso	yes <pauso	101	yes <pauso
+202	Tepiman	Sangre	ɨra	ɨra	102	ɨ r a
+203	Cahita	Sangre	ohbo	ohbo	103	o h b o
+204	Tarahumaran	Sangre	elá	elá	102	e l á
+205	ProtoCoracholNahua	Sangre	**so	so	100	s o
+206	ProtoUtoAztecan	Sangre	**pau PUA/	pau PUA	101	pau PUA
+75	Cora	Seco	-wa¢i-	-wa¢i-	43	w a ¢ i
+76	Huichol	Seco	vasiɨȿa’a	vasiɨȿa’a	43	v a s iɨ ȿ a ’ a
+77	ProtoNahua	Seco	*wak-ki/*wa:¢-	wak-ki	43	w a k k i
+78	ProtoNahua	Seco	*wak-ki/*wa:¢-	wak-ki	44	w a k k i
+79	Tepiman	Seco	*gak-	gak-	44	g a k
+80	Cahita	Seco	*wakia	wakia	44	w a k i a
+81	Tarahumaran	Seco	*wakia	wakia	44	w a k ia
+82	ProtoCoracholNahua	Seco	*wa-k/*wa-¢	wa-k	43	w a k
+83	ProtoUtoAztecan	Seco	*waki PUA	waki PUA	44	waki PUA
+190	Cora	Semilla	ha¢i	ha¢i	98	h a ¢ i
+191	Huichol	Semilla	ha¢i	ha¢i	98	h a ¢ i
+192	ProtoNahua	Semilla	*ač-	ač-	98	a č
+193	Tepiman	Semilla	*ɨ¢itukai	ɨ¢itukai	99	ɨ ¢ i t u k ai
+194	Cahita	Semilla	ba¢ia	ba¢ia	98	b a ¢ ia
+195	Tarahumaran	Semilla	pah¢i/tarí	pah¢i	98	p a h ¢ i
+196	ProtoCoracholNahua	Semilla	**ha¢i	ha¢i	98	h a ¢ i
+197	ProtoUtoAztecan	Semilla	**pa¢i PUA/**wa¢I SUA	pa¢i PUA	98	pa¢i PUA
+522	Cora	Sentado	auhká < wauhká/(yeih sentar)	auhká < wauhká	216	auhká < wauhká
+523	Cora	Sentado	auhká < wauhká/(yeih sentar)	auhká < wauhká	217	auhká < wauhká
+524	Cora	Sentado	auhká < wauhká/(yeih sentar)	auhká < wauhká	218	auhká < wauhká
+525	Huichol	Sentado	ka/(yáa)	ka	218	k a
+526	ProtoNahua	Sentado	*yetok	yetok	217	ye t o k
+527	Tepiman	Sentado	dahi	dahi	217	d a h i
+528	Cahita	Sentado	yésasa	yésasa	217	y é s a s a
+529	Tarahumaran	Sentado	yasipá	yasipá	217	 ya s i p á
+530	ProtoCoracholNahua	Sentado	**yeih	yeih	217	yei h
+531	ProtoUtoAztecan	Sentado	**yasi SUA	yasi SUA	217	yasi SUA
+551	Cora	Sol	sɨkah	sɨkah	231	s ɨ k a h
+552	Huichol	Sol	tau	tau	232	t au
+553	ProtoNahua	Sol	*to:nal-	to:nal-	232	t o: n a l
+554	Tepiman	Sol	tása	tása	233	t á s a
+555	Cahita	Sol	tá’a	tá’a	233	t á ’ a
+556	Tarahumaran	Sol	táhenari	táhenari	233	t á h e n a r i
+557	ProtoCoracholNahua	Sol	**tau	tau	232	t au
+558	ProtoUtoAztecan	Sol	*tawa PUA	tawa PUA	232	tawa PUA
+389	Cora	Teta/pecho	?tabí?	?tabí?	169	? t a b í ?
+390	Huichol	Teta/pecho	¢i¢I (Grimes)	¢i¢I	170	¢ i ¢ I
+391	ProtoNahua	Teta/pecho	*čičiwal	čičiwal	170	č i č i w a l
+392	Tepiman	Teta/pecho	vipi	vipi	171	v i p i
+393	Cahita	Teta/pecho	pípim	pípim	171	p í p i m
+394	Tarahumaran	Teta/pecho	piwa/čiwara	piwa	170	p i w a
+395	Tarahumaran	Teta/pecho	piwa/čiwara	piwa	171	p i w a
+396	ProtoUtoAztecan	Teta/pecho	*pipi/**¢i¢i	pipi	170	p i p i
+628	Cora	Tierra	kweh	kweh	259	k w e h
+629	Huichol	Tierra	kwie	kwie	259	k w ie
+630	ProtoNahua	Tierra	*ƛa:l < ƛɨhal/(*kwe:-miƛ ‘zurco’)	ƛa:l < ƛɨhal	260	ƛa:l < ƛɨhal
+631	Tepiman	Tierra	dɨvirai	dɨvirai	260	d ɨ v i r ai
+632	Cahita	Tierra	bwiya	bwiya	259	b w iya
+633	Tarahumaran	Tierra	we’é	we’é	259	w e ’ é
+634	ProtoUtoAztecan	Tierra	**kwi PUA/**tɨpal PUA	kwi PUA	259	kwi PUA
+635	ProtoUtoAztecan	Tierra	**kwi PUA/**tɨpal PUA	kwi PUA	260	kwi PUA
+412	Cora	Tomar	-í’i-	-í’i-	178	í ’ i
+413	Huichol	Tomar	iya	iya	178	iya
+414	ProtoNahua	Tomar	*i:	i:	178	i:
+415	Tepiman	Tomar	ii	ii	178	ii
+416	Cahita	Tomar	hee	hee	178	h ee
+417	Tarahumaran	Tomar	hi	hi	178	h i
+418	ProtoCoracholNahua	Tomar	**i:	i:	178	i:
+419	ProtoUtoAztecan	Tomar	*hipi PUA	hipi PUA	178	hipi PUA
+15	Cora	Uno	saɨ́	saɨ́	7	s aɨ ́
+16	Huichol	Uno	ʂewi	ʂewi	7	ʂ e w i
+17	ProtoNahua	Uno	*se:	se:	7	s e:
+18	Tepiman	Uno	*hɨ	hɨ	7	h ɨ
+19	Cahita	Uno	*sen-	sen-	7	s e n
+20	Tarahumaran	Uno	*pire	pire	8	p i r e
+21	ProtoCoracholNahua	Uno	**samwi	samwi	7	s a mw i
+22	ProtoUtoAztecan	Uno	*heme tubar/*sei  opatan/	heme tubar	7	heme tubar
+329	Cora	Uña	kú¢ape’e	kú¢ape’e	149	k ú ¢ a p e ’ e
+330	Huichol	Uña	ʂɨte	ʂɨte	150	ʂ ɨ t e
+331	ProtoNahua	Uña	*iste	iste	150	i s t e
+332	Tepiman	Uña	huutu	huutu	150	h uu t u
+333	Cahita	Uña	sútu	sútu	150	s ú t u
+334	Tarahumaran	Uña	suhtú	suhtú	150	s u h t ú
+335	ProtoCoracholNahua	Uña	**sɨté	sɨté	150	s ɨ t é
+336	ProtoUtoAztecan	Uña	*sutu	sutu	150	s u t u
+443	Cora	Ver	séihra	séihra	186	s é i h r a
+444	Huichol	Ver	ʂeiya	ʂeiya	186	ʂ eiya
+445	ProtoNahua	Ver	*či:ya/*itta/*temoa	či:ya	186	č i:ya
+446	Tepiman	Ver	tɨɨga	tɨɨga	186	t ɨɨ g a
+447	Tepiman	Ver	tɨɨga	tɨɨga	187	t ɨɨ g a
+448	Cahita	Ver	téwa	téwa	187	t é w a
+449	Tarahumaran	Ver	tewa	tewa	187	t e w a
+450	ProtoCoracholNahua	Ver	*¢eiya	¢eiya	186	¢ eiya
+451	ProtoUtoAztecan	Ver	**tɨwa	tɨwa	187	t ɨ w a
+705	Cora	Verde	hamwámwa	hamwámwa	295	h a mw á mw a
+706	Huichol	Verde	¢iɨraye	¢iɨraye	296	¢ iɨ r aye
+707	ProtoNahua	Verde	*šošow-	šošow-	296	š o š o w
+708	Tepiman	Verde	tɨdogi/<*tɨyowi	tɨdogi	296	t ɨ d o g i
+709	Cahita	Verde	síali	síali	296	s ía l i
+710	Tarahumaran	Verde	siyó-	siyó-	296	s iy ó
+711	ProtoCoracholNahua	Verde	**síwì	síwì	296	s í w ì
+712	ProtoUtoAztecan	Verde	*¢íyòwí	¢íyòwí	296	¢ íy ò w í
+155	Cora	Vibora	kú’uku’u	kú’uku’u	82	k ú ’ u k u ’ u
+156	Huichol	Vibora	kuu	kuu	82	k uu
+157	ProtoNahua	Vibora	*ko:wa-	ko:wa-	82	k o: w a
+158	Tepiman	Vibora	*ko’o	ko’o	82	k o ’ o
+159	Cahita	Vibora	baakot	baakot	82	b aa k o t
+160	Tarahumaran	Vibora	sinoi/(kuhuá ‘snake sp.’)	sinoi	83	s i n oi
+161	ProtoCoracholNahua	Vibora	**ku	ku	84	k u
+162	ProtoUtoAztecan	Vibora	**kowa PUA	kowa PUA	82	kowa PUA
+39	Cora	Viejo	?bástakɨra’i?	?bástakɨra’i?	13	? b á s t a k ɨ r a ’ i ?
+40	Huichol	Viejo	ukira¢i	ukira¢i	14	u k i r a ¢ i
+41	ProtoNahua	Viejo	*we:we:	we:we:	15	w e: w e:
+42	Cahita	Viejo	*o’ora	o’ora	17	o ’ o r a
+43	ProtoUtoAztecan	Viejo	*yo’o	yo’o	17	yo ’ o
+589	Cora	Viento	eeka	eeka	245	ee k a
+590	Huichol	Viento	eeka	eeka	245	ee k a
+591	ProtoNahua	Viento	*yehyeka-/eheka	yehyeka-	245	y e h y e k a
+592	Tepiman	Viento	hɨvɨri	hɨvɨri	246	h ɨ v ɨ r i
+593	Cahita	Viento	héeka	héeka	245	h é e k a
+594	Tarahumaran	Viento	eká	eká	245	e k á
+595	ProtoUtoAztecan	Viento	/**heka SUA/	heka SUA	245	heka SUA
+487	Cora	Volar	wará’ara’isiin	wará’ara’isiin	202	w a r á ’ a r a ’ i s ii n
+488	Huichol	Volar	wiya	wiya	203	w iya
+489	ProtoNahua	Volar	*paƛani	paƛani	204	p a ƛ a n i
+490	Tepiman	Volar	nɨ’i	nɨ’i	205	n ɨ ’ i
+491	Cahita	Volar	né’e	né’e	205	n é ’ e
+492	Tarahumaran	Volar	i’ni	i’ni	205	i ’ n i
+493	ProtoUtoAztecan	Volar	**nɨ’i/**pata PUA	nɨ’i	204	n ɨ ’ i
+494	ProtoUtoAztecan	Volar	**nɨ’i/**pata PUA	nɨ’i	205	n ɨ ’ i
+436	Cora	Vomitar	hara’a	hara’a	182	h a r a ’ a
+437	ProtoNahua	Vomitar	*yesoƛa	yesoƛa	184	y e s o ƛ a
+438	Tepiman	Vomitar	wihot	wihot	184	w i h o t
+439	Cahita	Vomitar	bísata	bísata	184	b í s a t a
+440	Tarahumaran	Vomitar	kopéso	kopéso	184	k o p é s o
+441	ProtoUtoAztecan	Vomitar	**piso PUA/*hara SUA	piso PUA	182	piso PUA
+442	ProtoUtoAztecan	Vomitar	**piso PUA/*hara SUA	piso PUA	184	piso PUA
+46	Cora	largo	teé	teé	28	t e é
+47	Huichol	largo	e-te:wi	e-te:wi	28	e t e: w i
+48	ProtoNahua	largo	*we:ya-k	we:ya-k	29	w e:ya k
+49	Tepiman	largo	*tɨvɨ	tɨvɨ	28	t ɨ v ɨ
+50	Cahita	largo	*teve	teve	28	t e v e
+51	Tarahumaran	largo	*tepih-	tepih-	28	t e p i h
+52	ProtoUtoAztecan	largo	**tɨpɨ/**wɨpa	tɨpɨ	28	t ɨ p ɨ
+53	ProtoUtoAztecan	largo	**tɨpɨ/**wɨpa	tɨpɨ	29	t ɨ p ɨ
