@@ -70,14 +70,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 369	ProtoCoracholNahua	Barriga	**hotie-	hotie-	h o t i e	162	- h o t i e
 370	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	161	p o k a
 371	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	162	p o k a
-721	Cora	Blanco	kwaina	kwaina	kʷ ai n a	303	kʷ ai n a
+721	Cora	Blanco	kwaina	kwaina	kʷ a i n a	303	kʷ a i n a
 722	Huichol	Blanco	tuʂa	tuʂa	t u ʂ a	304	t u ʂ a - -
 723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k	i s t a + k	304	i s t a + k
 724	Tepiman	Blanco	toha	toha	t o h a	304	t o h a - -
 725	Cahita	Blanco	tósa	tósa	t o s a	304	t o s a - -
 726	Tarahumaran	Blanco	tosá-	tosá-	t o s a	304	t o s a - -
-727	ProtoUtoAztecan	Blanco	**tòsá PUA	tòsá	t o s a	304	t o s a
-728	ProtoUtoAztecan	Blanco	**kwaya 	kwaya	kʷ a j a	303	kʷ a j a
+727	ProtoUtoAztecan	Blanco	**tòsá PUA	tòsá	t o s a	304	t o s a - -
+728	ProtoUtoAztecan	Blanco	**kwaya 	kwaya	kʷ a j a	303	kʷ a j - a
 308	Cora	Boca	teni	teni	t e n i	143	t e n i
 309	Huichol	Boca	teta	teta	t e t a	143	t e t a
 310	ProtoNahua	Boca	*kama/(*te:n- labio)	kama	k a m a	144	k a m a
@@ -112,10 +112,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 95	ProtoNahua	Caliente	*toto:ni-k	toto:ni-k	t o t oː n i + k	52	t o t oː n i + k
 96	Tepiman	Caliente	*toni	toni	t o n i	52	- - t o n i - -
 97	Cahita	Caliente	*sukka	sukka	s u k a	51	s u k a
-98	Tarahumaran	Caliente	*tono/*sukáre	tono	t o n o	52	t o - - n o - -
+98	Tarahumaran	Caliente	*tono/*sukáre	tono	t o n o	52	- - t o n o - -
 99	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	t o ŋ a	51	t o ŋ a
-100	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	t o ŋ a	52	t o - - ŋ a - -
-495	Cora	Caminar	-yeiwe	-yeiwe	j w e	207	- - j - - w e
+100	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	t o ŋ a	52	- - t o ŋ a - -
+495	Cora	Caminar	-yeiwe	-yeiwe	j e i w e	207	- - j - - w e
 496	Huichol	Caminar	yeiya	yeiya	j e i j a	207	- - j e i j a
 497	ProtoNahua	Caminar	*yawi/*nehnemi	yawi	j a w i	207	- - j a - w i
 498	Tepiman	Caminar	sime	sime	s i m e	208	s i m e
