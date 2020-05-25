@@ -1,15 +1,15 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
-510	Cora	Acostado	waka’a	waka’a	w a k a ʔ a	214	w a k a ʔ a
-511	Cora	Acostado	waka’a	waka’a	w a k a ʔ a	215	w - - a k a ʔ a
-512	Huichol	Acostado	ka	ka	k a	215	- - - - k - - a
-513	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok	o k	214	- o - - k -
-514	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok	o k	215	- - - o k - - -
-515	Tepiman	Acostado	*vo(po)	vo	v o	214	v o - - - -
-516	Cahita	Acostado	bó’oka	bó’oka	b o ʔ o k a	214	b o ʔ o k a
-517	Cahita	Acostado	bó’oka	bó’oka	b o ʔ o k a	215	b o ʔ o k - - a
-518	Tarahumaran	Acostado	po’i	po’i	p o ʔ i	214	p o ʔ - - i
+510	Cora	Acostado	waka’a	waka’a	w a k aˀa	214	w a k aˀa
+511	Cora	Acostado	waka’a	waka’a	w a k aˀa	215	w - k aˀa
+512	Huichol	Acostado	ka	ka	k a	215	- - k a
+513	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok	o k	214	- o k -
+514	ProtoNahua	Acostado	*ok < hó-kà/(*ka ‘estar’)/	ok	o k	215	- o k -
+515	Tepiman	Acostado	*vo(po)	vo	v o	214	v o - -
+516	Cahita	Acostado	bó’oka	bó’oka	b oˀo k a	214	b oˀo k a
+517	Cahita	Acostado	bó’oka	bó’oka	b oˀo k a	215	b oˀo k a
+518	Tarahumaran	Acostado	po’i	po’i	p oʔ i	214	p oʔ - - i
 519	ProtoCoracholNahua	Acostado	**wáukà	wáukà	w au k a	214	w au k a
-520	ProtoCoracholNahua	Acostado	**wáukà	wáukà	w au k a	215	w au k - - a
+520	ProtoCoracholNahua	Acostado	**wáukà	wáukà	w au k a	215	w au k a
 521	ProtoSouthernUtoAztecan	Acostado	**wo SUA	wo	w o	214	w o - - - -
 581	Cora	Agua	hah	hah	h a h	243	- - h a h -
 582	Huichol	Agua	ha	ha	h a	243	- - h a - -
