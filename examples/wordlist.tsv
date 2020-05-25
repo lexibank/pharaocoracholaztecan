@@ -50,26 +50,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 626	ProtoCoracholNahua	Arena	**sihar-	sihar-	s i h a r	257	s i - h a r -
 627	ProtoSouthernUtoAztecan	Arena	*siCa SUA/sihat tubar	siCa	s i ts a	257	s i - ts a - -
 752	Cora	Año	ruu-sí	ruu-sí	r uː + s i	315	r uː + s i - - - - -
-753	Huichol	Año	wi-yari	wi-yari	w i + j a r i	316	w i + j a - - r i
-754	ProtoNahua	Año	*šiwi-	šiwi-	ʃ i w i	315	- - - ʃ i w i - - -
-755	ProtoNahua	Año	*šiwi-	šiwi-	ʃ i w i	316	- - - ʃ i - - w i
-756	Tepiman	Año	oidha <wiya	oidha	o i d h a	316	- - - - o i d h a
+753	Huichol	Año	wi-yari	wi-yari	w i + j a r i	316	- - - - - w i j a - - r i
+754	ProtoNahua	Año	*šiwi-	šiwi-	ʃ i w i	315	- - - ʃ i w i - - - -
+755	ProtoNahua	Año	*šiwi-	šiwi-	ʃ i w i	316	- - - - ʃ i w i - -
+756	Tepiman	Año	oidha <wiya	oidha	o i dh a	316	- - - - o i dh a - -
 757	Cahita	Año	wasuk-	wasuk-	w a s u k	317	w a s u k
 758	Tarahumaran	Año	pamí	pamí	p a m i	318	p a m i
 759	ProtoCoracholNahua	Año	**si-wi	si-wi	s i + w i	315	- - - s i - - + w i
-760	ProtoUtoAztecan	Año	**wiya/	wiya	w i j a	316	- - - w i - - j a
-360	Cora	Barriga	huká/huti?(Ortega 1973)/	huká	h u k a	161	h u - k - a
-361	Cora	Barriga	huká/huti?(Ortega 1973)/	huká	h u k a	162	- h u k - a
-362	Huichol	Barriga	huka/(huriepa Grimes)	huka	h u k a	161	h u - k - a
-363	Huichol	Barriga	huka/(huriepa Grimes)	huka	h u k a	162	- h u k - a
+760	ProtoUtoAztecan	Año	**wiya/	wiya	w i j a	316	- - - w i j a - -
+360	Cora	Barriga	huká/huti?(Ortega 1993)/	huká	h u k a	161	h u  k a
+361	Cora	Barriga	huká/huti?(Ortega 1793)/	ɨhti	ɨ h t i	162	ɨ h t i
+362	Huichol	Barriga	huka	huka	h u k a	161	h u k a
+363	Huichol	Barriga	huriepa 	huriepa	h u r i e p a	162	h u r i e + p a
 364	ProtoNahua	Barriga	*ihte- < *hòté	ihte-	i h t e	162	i h - t - e
-365	Tepiman	Barriga	vóoka	vóoka	v o o k a	161	v o o k - a
+365	Tepiman	Barriga	vóoka	vóoka	v o o k a	161	v o o k a
 366	Cahita	Barriga	tópa	tópa	t o p a	163	t o p a
 367	Tarahumaran	Barriga	topá	topá	t o p a	163	t o p a
-368	ProtoCoracholNahua	Barriga	**hotie-	hotie-	h o t i e	161	h o - t i e
+368	ProtoCoracholNahua	Barriga	**hotie-	hotie-	h o t i e	161	h o t i e
 369	ProtoCoracholNahua	Barriga	**hotie-	hotie-	h o t i e	162	- h o t i e
-370	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	161	p o - k - a
-371	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	162	- p o k - a
+370	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	161	p o k a
+371	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	162	p o k a
 721	Cora	Blanco	kwaina	kwaina	kʷ ai n a	303	kʷ ai n a
 722	Huichol	Blanco	tuʂa	tuʂa	t u ʂ a	304	t u ʂ - a - -
 723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k	i s t a + k	304	- i s t a + k
