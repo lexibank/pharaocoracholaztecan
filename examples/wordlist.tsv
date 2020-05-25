@@ -72,12 +72,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 371	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	162	p o k a
 721	Cora	Blanco	kwaina	kwaina	kʷ ai n a	303	kʷ ai n a
 722	Huichol	Blanco	tuʂa	tuʂa	t u ʂ a	304	t u ʂ - a - -
-723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k	i s t a + k	304	- i s t a + k
+723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k	i s t a + k	304	i s t a + k
 724	Tepiman	Blanco	toha	toha	t o h a	304	t o h - a - -
 725	Cahita	Blanco	tósa	tósa	t o s a	304	t o s - a - -
 726	Tarahumaran	Blanco	tosá-	tosá-	t o s a	304	t o s - a - -
-727	ProtoUtoAztecan	Blanco	**tòsá PUA/**kwaya PUA	tòsá	t o s a	303	t o s a
-728	ProtoUtoAztecan	Blanco	**tòsá PUA/**kwaya PUA	tòsá	t o s a	304	t o s - a - -
+727	ProtoUtoAztecan	Blanco	**tòsá PUA	tòsá	t o s a	304	t o s a
+728	ProtoUtoAztecan	Blanco	**kwaya 	kwaya	kʷ a j a	303	kʷ a j a
 308	Cora	Boca	teni	teni	t e n i	143	t e n i
 309	Huichol	Boca	teta	teta	t e t a	143	t e t a
 310	ProtoNahua	Boca	*kama/(*te:n- labio)	kama	k a m a	144	k a m a
@@ -102,15 +102,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 274	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi	ts o m i	134	ts o - m i
 275	Cora	Cabeza	mu’ú	mu’ú	m u ʔ u	136	m u ʔ u
 276	Huichol	Cabeza	mu’u	mu’u	m u ʔ u	136	m u ʔ u
-277	ProtoNahua	Cabeza	*¢on-tekoma-/*kwa:- < **kuha **kupa	¢on-tekoma-	ts o n + t e k o m a	137	ts o n + t e k o m a
+277	ProtoNahua	Cabeza	*kwa:-	kʷaː	137	k - ʷ aː
 278	Tepiman	Cabeza	*mo’o	mo’o	m o ʔ o	136	m o ʔ o
-279	Cahita	Cabeza	kova	kova	k o v a	137	- - - - - - k o v a
+279	Cahita	Cabeza	kova	kova	k o v a	137 k o v a
 280	Tarahumaran	Cabeza	mo’o	mo’o	m o ʔ o	136	m o ʔ o
 281	ProtoUtoAztecan	Cabeza	**muu PUA/*kuppa	muu	m uː	136	m uː - -
 93	Cora	Caliente	pɨstí/(sɨka ‘sun’)	pɨstí	p ɨ s t i	50	p ɨ s t i
 94	Huichol	Caliente	ʂɨka	ʂɨka	ʂ ɨ k a	51	ʂ ɨ k a
 95	ProtoNahua	Caliente	*toto:ni-k	toto:ni-k	t o t oː n i + k	52	t o t oː n i + k
-96	Tepiman	Caliente	*toni	toni	t o n i	52	t o - - n i - -
+96	Tepiman	Caliente	*toni	toni	t o n i	52	- - t o n i - -
 97	Cahita	Caliente	*sukka	sukka	s u k a	51	s u k a
 98	Tarahumaran	Caliente	*tono/*sukáre	tono	t o n o	52	t o - - n o - -
 99	ProtoUtoAztecan	Caliente	*toNa/*suka	toNa	t o ŋ a	51	t o ŋ a
