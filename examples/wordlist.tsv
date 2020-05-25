@@ -71,7 +71,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 370	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	161	p o k a
 371	ProtoUtoAztecan	Barriga	**poka PUA/	poka	p o k a	162	p o k a
 721	Cora	Blanco	kwaina	kwaina	kʷ ai n a	303	kʷ ai n a
-722	Huichol	Blanco	tuʂa	tuʂa	t u ʂ a	304	t u ʂ - a - -
+722	Huichol	Blanco	tuʂa	tuʂa	t u ʂ a	304	t u ʂ a - -
 723	ProtoNahua	Blanco	*ista-k <tòsá-kì	ista-k	i s t a + k	304	i s t a + k
 724	Tepiman	Blanco	toha	toha	t o h a	304	t o h a - -
 725	Cahita	Blanco	tósa	tósa	t o s a	304	t o s a - -
@@ -89,9 +89,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 63	Cora	Bueno	naá	naá	n a	35	n a
 64	Huichol	Bueno	aiȿɨa	aiȿɨa	ai ʂ ɨ a	36	ai ʂ ɨ a
 65	ProtoNahua	Bueno	*kwal-	kwal-	kʷ a l	37	k - ʷ a l -
-66	Tepiman	Bueno	*kɨga	kɨga	k ɨ g a	37	k ɨ g a
-67	Cahita	Bueno	kiwa	kiwa	k i w a	37	k i w a
-68	ProtoUtoAztecan	Bueno	*kɨwa	kɨwa	k ɨ w a	37	k ɨ w a
+66	Tepiman	Bueno	*kɨga	kɨga	k ɨ g a	37	k ɨ g a - -
+67	Cahita	Bueno	kiwa	kiwa	k i w a	37	k i w a - -
+68	ProtoUtoAztecan	Bueno	*kɨwa	kɨwa	k ɨ w a	37	k ɨ w a - -
 267	Cora	Cabello	kɨpwá	kɨpwá	k ɨ pʷ a	133	k ɨ pʷ a
 268	Huichol	Cabello	kɨpa	kɨpa	k ɨ p a	133	k ɨ p a
 269	ProtoNahua	Cabello	*¢on-/(*ikpa hilo)	¢on-	ts o n	134	ts o n -
@@ -99,14 +99,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 271	Tarahumaran	Cabello	kupá	kupá	k u p a	133	k u p a
 272	ProtoCoracholNahua	Cabello	**kɨpá	kɨpá	k ɨ p a	133	k ɨ p a
 273	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi	ts o m i	133	ts o m i
-274	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi	ts o m i	134	ts o - m i
+274	ProtoUtoAztecan	Cabello	**¢omi PUA/**kuppa PUA	¢omi	ts o m i	134	ts o m i
 275	Cora	Cabeza	mu’ú	mu’ú	m uˀu	136	m uˀu
 276	Huichol	Cabeza	mu’u	mu’u	m uˀu	136	m uˀu
 277	ProtoNahua	Cabeza	*kwa:-	kʷaː	kʷaː	137	k - ʷ aː
 278	Tepiman	Cabeza	*mo’o	mo’o	m oˀo	136	m oˀo
 279	Cahita	Cabeza	kova	kova	k o v a	137	k o v a
 280	Tarahumaran	Cabeza	mo’o	mo’o	m oˀo	136	m oˀo
-281	ProtoUtoAztecan	Cabeza	**muu PUA/*kuppa	muu	m uː	136	m uː - -
+281	ProtoUtoAztecan	Cabeza	**muu PUA/*kuppa	muu	m uː	136	m uː
 93	Cora	Caliente	pɨstí/(sɨka ‘sun’)	pɨstí	p ɨ s t i	50	p ɨ s t i
 94	Huichol	Caliente	ʂɨka	ʂɨka	ʂ ɨ k a	51	ʂ ɨ k a
 95	ProtoNahua	Caliente	*toto:ni-k	toto:ni-k	t o t oː n i + k	52	t o t oː n i + k
