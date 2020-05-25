@@ -20,6 +20,8 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 9
 - **Concepts:** 100
@@ -28,6 +30,10 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 - **Synonymy:** 1.08
 - **Cognacy:** 767 cognates in 251 cognate sets (96 singletons)
 - **Cognate Diversity:** 0.23
+- **Invalid lexemes:** 0
+- **Tokens:** 3,376
+- **Segments:** 42 (0 BIPA errors, 0 CTLS sound class errors, 42 CLTS modified)
+- **Inventory size (avg):** 25.89
 
 # Contributors
 

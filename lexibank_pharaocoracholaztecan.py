@@ -19,7 +19,7 @@ class Dataset(BaseDataset):
     id = "pharaocoracholaztecan"
     concept_class = CustomConcept
     form_spec = FormSpec(
-            separators="/",
+            separators="/ ",
             first_form_only=True,
             replacements=[("*", "")]
             )

@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/pharaocoracholaztecan",
-            "dc:created": "414f5c5"
+            "dc:created": "2aa0f31"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-95-g8d5c2ba"
+            "dc:created": "v2.3.0-107-g79157a1"
         },
         {
             "rdf:type": "prov:Entity",
