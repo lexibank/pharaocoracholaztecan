@@ -19,7 +19,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 586	Tarahumaran	Agua	pawí	pawí	p a w i	243	- - p a w i
 587	ProtoCoracholNahua	Agua	**ha:	ha:	h aː	243	- - h aː - -
 588	ProtoSouthernUtoAztecan	Agua	*pa: PUA/*wa SUA	pa:	p aː	243	- - p aː - -
-713	Cora	Amarillo	taúmwa	taúmwa	t a mʷ a	297	t a mʷ a
+713	Cora	Amarillo	taúmwa	taúmwa	t a u mʷ a	297	t a u + mʷ a
 714	Huichol	Amarillo	taʂaiye	taʂaiye	t a ʂ a i j e	298	t a ʂ a i j e
 715	ProtoNahua	Amarillo	*kos-tik	kos-tik	k o s + t i k	299	k o s - - - + t i k
 716	Tepiman	Amarillo	oam	oam	o a m	300	o a m
@@ -27,13 +27,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 718	Tarahumaran	Amarillo	sawa-	sawa-	s a w a	301	- - s a w a
 719	ProtoSouthernUtoAztecan	Amarillo	*kosawa SUA?	kosawa	k o s a w a	299	k o s a w a - - - -
 720	ProtoSouthernUtoAztecan	Amarillo	*kosawa SUA?	kosawa	k o s a w a	301	k o s a w a
-163	Cora	Arbol	kɨyé	kɨyé	k ɨ	85	k ɨ - - - - - - -
-164	Huichol	Arbol	kɨye	kɨye	k ɨ j e	85	k ɨ j - - e - - -
-165	ProtoNahua	Arbol	*kwaw-	kwaw-	kʷ a w	85	kʷ a w - - - - - -
+163	Cora	Arbol	kɨyé	kɨyé	k ɨ	85	k ɨ - - - - - - 
+164	Huichol	Arbol	kɨye	kɨye	k ɨ j e	85	k ɨ - + j e
+165	ProtoNahua	Arbol	*kwaw-	kwaw-	kʷ a w	85	k ʷ - a w - - - - - -
 166	Tepiman	Arbol	*ku’agi	ku’agi	k u ʔ a g i	85	k u ʔ a g i - - -
-167	Cahita	Arbol	*kútta	kútta	k u t t a	85	k u t - t a - - -
-168	Tarahumaran	Arbol	kuu	kuu	k uː	85	k uː - - - - - - -
-169	ProtoSouthernUtoAztecan	Arbol	**kua-wi SUA	kua-wi	k u a + w i	85	k u - - - a + w i
+167	Cahita	Arbol	*kútta	kútta	k u t t a	85	k u t + t a
+168	Tarahumaran	Arbol	kuu	kuu	k uː	85	k uː - - - - 
+169	ProtoSouthernUtoAztecan	Arbol	**kua-wi SUA	kua-wi	k u a + w i	85	k u - a + w i
 674	Huichol	Arder/quemar	tai-riya	tai-riya	t ai + r i j a	280	t ai - - - + r i j a
 675	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛatia	tɬ a t i a	280	tɬ a t i a - - - - -
 676	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛatia	tɬ a t i a	280	tɬ a t i a - - - - -
