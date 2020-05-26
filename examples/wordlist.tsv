@@ -29,7 +29,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 720	ProtoSouthernUtoAztecan	Amarillo	*kosawa SUA?	kosawa	k o s a w a	301	k o s a w a
 163	Cora	Arbol	kɨyé	kɨyé	k ɨ	j e 85	k ɨ + j e 
 164	Huichol	Arbol	kɨye	kɨye	k ɨ j e	85	k ɨ - + j e
-165	ProtoNahua	Arbol	*kwaw-	kwaw-	kʷ a w	85	k ʷ - a w - - 
+165	ProtoNahua	Arbol	*kwaw-	kwaw-	kʷ a w	85	kʷ - - a w - - 
 166	Tepiman	Arbol	*ku’agi	ku’agi	k u ʔ a g i	85	k u ʔ a g i 
 167	Cahita	Arbol	*kútta	kútta	k u t t a	85	k u t + t a
 168	Tarahumaran	Arbol	kuu	kuu	k uː	85	k uː - - - - 
@@ -88,7 +88,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 315	ProtoUtoAztecan	Boca	*tɨna	tɨna	t ɨ n a	143	t ɨ n a
 63	Cora	Bueno	naá	naá	n a	35	n a
 64	Huichol	Bueno	aiȿɨa	aiȿɨa	ai ʂ ɨ a	36	ai ʂ ɨ a
-65	ProtoNahua	Bueno	*kwal-	kwal-	kʷ a l	37	k - ʷ a l -
+65	ProtoNahua	Bueno	*kwal-	kwal-	kʷ a l	37	kʷ - - a l -
 66	Tepiman	Bueno	*kɨga	kɨga	k ɨ g a	37	k ɨ g a - -
 67	Cahita	Bueno	kiwa	kiwa	k i w a	37	k i w a - -
 68	ProtoUtoAztecan	Bueno	*kɨwa	kɨwa	k ɨ w a	37	k ɨ w a - -
@@ -173,7 +173,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 254	Cahita	Cola	bwasia	bwasia	bʷ a s i a	125	bʷ a - s i a
 255	Tarahumaran	Cola	wahsi	wahsi	w a h s i	125	w a h s i -
 256	ProtoUtoAztecan	Cola	**kwasi PUA	kwasi	kʷ a s i	125	kʷ a - s i -
-503	Cora	Come	-bé’ene	-bé’ene	b e ʔ e n e	209	b e ʔ e n e
+503	Cora	Come	-bé’ene	-bé’ene	b eˀe n e	209	b eˀe n e
 504	Huichol	Come	ha-mie	ha-mie	h a + m i e	210	h a + m i - e
 505	ProtoNahua	Come	*wa:l-yawi/	wa:l-yawi	w aː l + j a w i	211	w aː l + j a w i
 506	Tepiman	Come	*yɨwa	yɨwa	j ɨ w a	212	j ɨ w - a
@@ -181,13 +181,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 508	Tarahumaran	Come	noite	noite	n o i t e	213	n o i t e
 509	ProtoSouthernUtoAztecan	Come	**yiwa SUA	yiwa	j i w a	210	- - - j i w a
 420	Cora	Comer	kwá	kwá	kʷ a	179	kʷ - - a - - -
-421	Huichol	Comer	kwai-ya	kwai-ya	kʷ ai + j a	179	kʷ - - ai + j a
+421	Huichol	Comer	kwai-ya	kwai-ya	kʷ - - ai + j a	179	kʷ - - ai + j a
 422	ProtoNahua	Comer	*kwa:	kwa:	kʷ aː	179	kʷ - - aː - - -
 423	Tepiman	Comer	ko’a	ko’a	k o ʔ a	179	k o ʔ a - - -
 424	Cahita	Comer	bwa	bwa	bʷ a	179	bʷ - - a - - -
 425	Tarahumaran	Comer	ko’a	ko’a	k o ʔ a	179	k o ʔ a - - -
-426	ProtoCoracholNahua	Comer	**kwa	kwa	kʷ a	179	k ʷ - a - - -
-427	ProtoUtoAztecan	Comer	*kwa PUA	kwa	kʷ a	179	k ʷ - a - - -
+426	ProtoCoracholNahua	Comer	**kwa	kwa	kʷ a	179	kʷ - - a - - -
+427	ProtoUtoAztecan	Comer	*kwa PUA	kwa	kʷ a	179	kʷ - - a - - -
 397	Cora	Corazon	sɨéheniu’ukari/(ruurikame ‘animal’)	sɨéheniu’ukari	s ɨ h e n i uˀu k a r i	173	s ɨ h e n i uˀu k a r i
 398	Huichol	Corazon	iyari	iyari	i j a r i	174	i j a r i - - - -
 399	ProtoNahua	Corazon	*yo:lyoh	yo:lyoh	j oː l j o h	174	- j oː l + j o h
@@ -208,13 +208,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 386	Cahita	Cuello	kútana//bi’am	kútana	k u t a n a	167	k u - t a n a
 387	Tarahumaran	Cuello	kuhtamó	kuhtamó	k u h t a m o	167	k u h t a m o
 388	ProtoUtoAztecan	Cuello	*kusi-pa PUA	kusi-pa	k u s i + p a	166	k u s - - i + p a
-243	Cora	Cuerno	e’ewá	e’ewá	e ʔ e w a	122	e ʔ e w a
-244	Huichol	Cuerno	awa	awa	a w a	122	a w - - a
+243	Cora	Cuerno	e’ewá	e’ewá	eˀe w a	122	eˀe w a
+244	Huichol	Cuerno	awa	awa	a w a	122	a w a
 245	ProtoNahua	Cuerno	*kwa:kwaw-	kwa:kwaw-	kʷ aː kʷ a w	123	kʷ aː kʷ a w
-246	Tepiman	Cuerno	*a’aga	a’aga	a ʔ a g a	122	a ʔ a g a
-247	Cahita	Cuerno	*awá	awá	a w a	122	a w - - a
-248	Tarahumaran	Cuerno	*awá	awá	a w a	122	a w - - a
-249	ProtoUtoAztecan	Cuerno	**awa	awa	a w a	122	a w - - a
+246	Tepiman	Cuerno	*a’aga	a’aga	aˀa g a	122	aˀa g a
+247	Cahita	Cuerno	*awá	awá	a w a	122	a w a
+248	Tarahumaran	Cuerno	*awá	awá	a w a	122	a w a
+249	ProtoUtoAztecan	Cuerno	**awa	awa	a w a	122	a w a
 539	ProtoNahua	Dar	*maka	maka	m a k a	225	m a k a
 540	Tepiman	Dar	maaka	maaka	m aː k a	225	m aː k a
 541	Cahita	Dar	máka/míka	máka	m a k a	225	m a k a
@@ -234,7 +234,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 470	Cahita	Dormir	kotče	kotče	k o t tʃ e	194	k o t tʃ e -
 471	Tarahumaran	Dormir	ko¢i-	ko¢i-	k o ts i	194	k o - ts i -
 472	ProtoSouthernUtoAztecan	Dormir	**ko¢i SUA	ko¢i	k o ts i	194	k o - ts i -
-23	Cora	Dos	wá’apwa	wá’apwa	w aˀa pʷ a	9	w aˀa pʷ + a
+23	Cora	Dos	wá’apwa	wá’apwa	w aˀa pʷ a	9	w aˀa pʷ - + a
 24	Huichol	Dos	huuta	huuta	h uː t a	9	h - - uː + t a
 25	ProtoNahua	Dos	*o:me	o:me	oː m e	9	- - - oː + m e
 26	Tepiman	Dos	*gok	gok	g o k	9	g - - o + k - 
