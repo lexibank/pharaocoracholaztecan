@@ -276,13 +276,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 36	Tarahumaran	Grande	*weru	weru	w e r u	11	w e r u
 37	ProtoCoracholNahua	Grande	*we:-	we:-	w eː	11	w eː - -
 38	ProtoSouthernUtoAztecan	Grande	*wɨL- SUA	wɨL-	w ɨ ʟ	11	w ɨ ʟ -
-227	Cora	Grasa	neéčira’a	neéčira’a	n e tʃ i r a ʔ a	117	n e tʃ i r a ʔ a
+227	Cora	Grasa	neéčira’a	neéčira’a	n e tʃ i r a ʔ a	117	n e tʃ i r aˀa - -
 228	Huichol	Grasa	wi:ya	wi:ya	w iː j a	118	- w iː j a
 229	ProtoNahua	Grasa	*čiyawa-	čiyawa-	tʃ i j a w a	117	- - tʃ i j a w a
 230	Tepiman	Grasa	*gii	gii	g iː	118	- g iː - -
 231	Cahita	Grasa	áwira	áwira	a w i r a	118	a w i r a
-232	Tarahumaran	Grasa	wi’í	wi’í	w i ʔ i	118	- w i ʔ i
-233	ProtoCoracholNahua	Grasa	**¢iya-	¢iya-	ts i j a	117	- - ts i j - - a
+232	Tarahumaran	Grasa	wi’í	wi’í	w i ʔ i	118	- w iˀi - -
+233	ProtoCoracholNahua	Grasa	**¢iya-	¢iya-	ts i j a	117	- - ts i j a - -
 234	ProtoUtoAztecan	Grasa	**wip PUA	wip	w i p	118	- w i p -
 405	Cora	Higado	neemwa/	neemwa	n eː mʷ a	176	n eː mʷ a -
 406	Huichol	Higado	nema	nema	n e m a	176	n e m a -
@@ -310,12 +310,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 220	Cora	Hueso	karíh	karíh	k a r i h	115	k a r i h
 221	Huichol	Hueso	u:me	u:me	uː m e	116	- - uː m e
 222	ProtoNahua	Hueso	*omi-	omi-	o m i	116	- - o m i
-223	Tepiman	Hueso	*o’oyi	o’oyi	o ʔ o j i	116	o ʔ o j i
-224	Cahita	Hueso	*ota	ota	o t a	116	- - o t a
-225	Tarahumaran	Hueso	*o’	o’	o ʔ	116	o ʔ - - -
+223	Tepiman	Hueso	*o’oyi	o’oyi	oˀo j i	116	oˀo - - + j i
+224	Cahita	Hueso	*ota	ota	o t a	116	- - o + t a
+225	Tarahumaran	Hueso	*o’	o’	o ʔ	116	o ʔ - - - -
 226	ProtoUtoAztecan	Hueso	**ohomɨ PUA	ohomɨ	o h o m ɨ	116	o h o m ɨ
-235	Cora	Huevo	ta’ú	ta’ú	t aʔu	119	- - t aʔu - - -
-236	Huichol	Huevo	tawari	tawari	t awa r i	119	- - t awa r - i
+235	Cora	Huevo	ta’ú	ta’ú	t aʔ u	119	- - t aʔ u - - -
+236	Huichol	Huevo	tawari	tawari	t a w a r i	119	- - t a w a r - i
 237	ProtoNahua	Huevo	*toto:lte-/*toto:lin ’turkey hen’	toto:lte-	t o t oː l t e	119	t o t oː l - t e
 238	Tepiman	Huevo	*no’	no’	n o ʔ	120	n o ʔ
 239	Cahita	Huevo	káwá	káwá	k a w a	121	k a w a
@@ -330,18 +330,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 656	Tarahumaran	Humo	moré-	moré-	m o r e	271	m o r e
 657	ProtoUtoAztecan	Humo	*kwi¢i	kwi¢i	kʷ i ts i	270	kʷ i - - ts i
 323	Cora	Lengua	nanuri	nanuri	n a n u r i	148	n a n u r i -
-324	Huichol	Lengua	neni	neni	n e n i	148	n e n - - i -
-325	ProtoNahua	Lengua	*nenepil	nenepil	n e n e p i l	148	n e n e p i l
-326	Tepiman	Lengua	nɨɨni	nɨɨni	n ɨː n i	148	n ɨː n - - i -
-327	Cahita	Lengua	níni	níni	n i n i	148	n i n - - i -
-328	ProtoSouthernUtoAztecan	Lengua	*nenɨ SUA	nenɨ	n e n ɨ	148	n e n - - ɨ -
-596	Cora	Llúvia	biite	biite	b iː t e	248	- - b iː t e
+324	Huichol	Lengua	neni	neni	n e n i	148	n e n i - - -
+325	ProtoNahua	Lengua	*nenepil	nenepil	n e n e p i l	148	n e n e + p i l
+326	Tepiman	Lengua	nɨɨni	nɨɨni	n ɨː n i	148	n ɨː n i - - -
+327	Cahita	Lengua	níni	níni	n i n i	148	n i n i - - -
+328	ProtoSouthernUtoAztecan	Lengua	*nenɨ SUA	nenɨ	n e n ɨ	148	n e n ɨ - - -
+596	Cora	Llúvia	biite	biite	b iː t e	248	- - - - b iː t e - -
 597	Huichol	Llúvia	wiyeri	wiyeri	w i j e r i	248	w i j e r i
-598	ProtoNahua	Llúvia	*kiyawi-	kiyawi-	k i j a w i	248	k i j a w i
-599	Tepiman	Llúvia	duku	duku	d u k u	249	d u - k u
-600	Cahita	Llúvia	yúke	yúke	j k e	249	j - - k e
-601	Tarahumaran	Llúvia	yu’kí	yu’kí	j u ʔ k i	249	j u ʔ k i
-602	ProtoCoracholNahua	Llúvia	**wi	wi	w i	248	w - - - - i
+598	ProtoNahua	Llúvia	*kiyawi-	kiyawi-	k i j a w i	248	k i j a w i - - - -
+599	Tepiman	Llúvia	duku	duku	d u k u	249	d u k u
+600	Cahita	Llúvia	yúke	yúke	j u k e	249	j - k e
+601	Tarahumaran	Llúvia	yu’kí	yu’kí	j uʔ k i	249	j uʔ k i
+602	ProtoCoracholNahua	Llúvia	**wi	wi	w i	248	 - - - - w i - - - -
 603	ProtoSouthernUtoAztecan	Llúvia	*yuku SUA/**wi PUA	yuku	j u k u	248	- - j u k u
 559	Cora	Luna	maskɨrai	maskɨrai	m a s k ɨ r ai	234	m a s k ɨ r ai
 560	Huichol	Luna	me¢a	me¢a	m e ts a	234	m e - ts - - a
