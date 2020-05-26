@@ -242,13 +242,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 28	Tarahumaran	Dos	*woka	woka	w o k a	9	w - - o + k a
 29	ProtoCoracholNahua	Dos	**wapu-	wapu-	w a p u	9	w a p u
 30	ProtoSouthernUtoAztecan	Dos	*wo- SUA/(*wapulai ‘different/other’ cahita)	wo-	w o	10	w o
-566	Cora	Estrella	sú’ura’abe	sú’ura’abe	s u ʔ u r a ʔ a b e	236	s u ʔ u r a ʔ a b e
-567	Huichol	Estrella	ʂurawe	ʂurawe	ʂ u r a w e	236	ʂ u - - r - - a w e
-568	ProtoNahua	Estrella	*sital-	sital-	s iː t a l	236	s iː t a l - - - - -
+566	Cora	Estrella	sú’ura’abe	sú’ura’abe	s uˀu r aˀa b e	236	s uˀu r aˀa + b e
+567	Huichol	Estrella	ʂurawe	ʂurawe	ʂ u r a w e	236	ʂ u r a + w e
+568	ProtoNahua	Estrella	*sital-	sital-	s iː t a l	236	s iː t a + l - - - - -
 569	Tepiman	Estrella	sipo/suu	sipo	s i p o	237	s i - p o - -
 570	Cahita	Estrella	čóki	čóki	tʃ o k i	238	tʃ o k i
 571	Tarahumaran	Estrella	so’póri	so’póri	s o ʔ p o r i	237	s o ʔ p o r i
-572	ProtoCoracholNahua	Estrella	**su:ta-	su:ta-	s uː t a	236	s uː t a - - - - - -
+572	ProtoCoracholNahua	Estrella	**su:ta-	su:ta-	s uː t a	236	s uː t a - -
 573	ProtoUtoAztecan	Estrella	**suu PUA	suu	s uː	236	s uː - - - - - - - -
 84	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	45	k ɨ mʷ a h a r a
 85	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	46	k ɨ mʷ a h a r a - -
@@ -260,18 +260,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 91	Tarahumaran	Frio (hace frio)	*sepi	sepi	s e p i	46	- - - - s e p i - -
 92	ProtoUtoAztecan	Frio (hace frio)	*sep- PUA	sep-	s e p	46	- - - - s e p - - -
 658	Cora	Fuego	taih	taih	t ai h	273	t ai h -
-659	Huichol	Fuego	tai	tai	t ai	273	t ai - -
+659	Huichol	Fuego	tai	tai	t ai	273	t a - i - -
 660	ProtoNahua	Fuego	*ƛe	ƛe	tɬ e	273	tɬ e - -
-661	Tepiman	Fuego	tai	tai	t ai	273	t ai - -
+661	Tepiman	Fuego	tai	tai	t ai	273	t a - i - 
 662	Cahita	Fuego	táhi/náy	táhi	t a h i	273	t a h i
 663	Cahita	Fuego	táhi/náy	táhi	t a h i	274	t a h i
 664	Tarahumaran	Fuego	na’í	na’í	n a ʔ i	274	n a ʔ i
-665	ProtoUtoAztecan	Fuego	**ƛahi PUA	ƛahi	tɬ a h i	273	tɬ a h i
-666	ProtoUtoAztecan	Fuego	**ƛahi PUA	ƛahi	tɬ a h i	274	tɬ a h i
-31	Cora	Grande	bé’e	bé’e	b e ʔ e	11	b e ʔ e
+665	ProtoUtoAztecan	Fuego	**ƛahi (error for *tahi) PUA	tahi	t a h i	273	t a h i
+666	ProtoUtoAztecan	Fuego	**ƛahi PUA	tahi	t a h i	274	t a h i
+31	Cora	Grande	bé’e	bé’e	b eˀe	11	b eˀe
 32	Huichol	Grande	e-nena/(waiya ‘gordo’)	e-nena	e + n e n a	12	e + n e n a
 33	ProtoNahua	Grande	*we:yi	we:yi	w eː j i	11	w eː j i
-34	Tepiman	Grande	*gɨ	gɨ	g ɨ	11	- - g ɨ
+34	Tepiman	Grande	*gɨ	gɨ	g ɨ	11 g ɨ - -
 35	Cahita	Grande	*bweru	bweru	bʷ e r u	11	bʷ e r u
 36	Tarahumaran	Grande	*weru	weru	w e r u	11	w e r u
 37	ProtoCoracholNahua	Grande	*we:-	we:-	w eː	11	w eː - -
