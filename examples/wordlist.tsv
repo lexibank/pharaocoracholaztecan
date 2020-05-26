@@ -177,7 +177,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 504	Huichol	Come	ha-mie	ha-mie	h a + m i e	210	h a + m i - e
 505	ProtoNahua	Come	*wa:l-yawi/	wa:l-yawi	w aː l + j a w i	211	w aː l + j a w i
 506	Tepiman	Come	*yɨwa	yɨwa	j ɨ w a	212	j ɨ w - a
-507	Cahita	Come	yépsa	yépsa	j p s a	212	j - p s a
+507	Cahita	Come	yépsa	yépsa	j e p s a	212	j e p s a
 508	Tarahumaran	Come	noite	noite	n o i t e	213	n o i t e
 509	ProtoSouthernUtoAztecan	Come	**yiwa SUA	yiwa	j i w a	210	- - - j i w a
 420	Cora	Comer	kwá	kwá	kʷ a	179	kʷ - - a - - -
@@ -186,9 +186,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 423	Tepiman	Comer	ko’a	ko’a	k o ʔ a	179	k o ʔ a - - -
 424	Cahita	Comer	bwa	bwa	bʷ a	179	bʷ - - a - - -
 425	Tarahumaran	Comer	ko’a	ko’a	k o ʔ a	179	k o ʔ a - - -
-426	ProtoCoracholNahua	Comer	**kwa	kwa	kʷ a	179	kʷ - - a - - -
-427	ProtoUtoAztecan	Comer	*kwa PUA	kwa	kʷ a	179	kʷ - - a - - -
-397	Cora	Corazon	sɨéheniu’ukari/(ruurikame ‘animal’)	sɨéheniu’ukari	s ɨ h e n i u ʔ u k a r i	173	s ɨ h e n i u ʔ u k a r i
+426	ProtoCoracholNahua	Comer	**kwa	kwa	kʷ a	179	k ʷ - a - - -
+427	ProtoUtoAztecan	Comer	*kwa PUA	kwa	kʷ a	179	k ʷ - a - - -
+397	Cora	Corazon	sɨéheniu’ukari/(ruurikame ‘animal’)	sɨéheniu’ukari	s ɨ h e n i uˀu k a r i	173	s ɨ h e n i uˀu k a r i
 398	Huichol	Corazon	iyari	iyari	i j a r i	174	i j a r i - - - -
 399	ProtoNahua	Corazon	*yo:lyoh	yo:lyoh	j oː l j o h	174	- j oː l + j o h
 400	Tepiman	Corazon	hura	hura	h u r a	175	h u r a
@@ -234,21 +234,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 470	Cahita	Dormir	kotče	kotče	k o t tʃ e	194	k o t tʃ e -
 471	Tarahumaran	Dormir	ko¢i-	ko¢i-	k o ts i	194	k o - ts i -
 472	ProtoSouthernUtoAztecan	Dormir	**ko¢i SUA	ko¢i	k o ts i	194	k o - ts i -
-23	Cora	Dos	wá’apwa	wá’apwa	w a ʔ a pʷ a	9	w a ʔ a pʷ a
-24	Huichol	Dos	huuta	huuta	h uː t a	9	h uː t - - a
-25	ProtoNahua	Dos	*o:me	o:me	oː m e	9	- oː m - - e
-26	Tepiman	Dos	*gok	gok	g o k	9	g o k - - -
-27	Cahita	Dos	*woyi	woyi	w o j i	9	w o j - - i
-28	Tarahumaran	Dos	*woka	woka	w o k a	9	w o k - - a
-29	ProtoCoracholNahua	Dos	**wapu-	wapu-	w a p u	9	w a - - p u
+23	Cora	Dos	wá’apwa	wá’apwa	w aˀa pʷ a	9	w aˀa pʷ + a
+24	Huichol	Dos	huuta	huuta	h uː t a	9	h - - uː + t a
+25	ProtoNahua	Dos	*o:me	o:me	oː m e	9	- - - oː + m e
+26	Tepiman	Dos	*gok	gok	g o k	9	g - - o + k - 
+27	Cahita	Dos	*woyi	woyi	w o j i	9	w - - o + j  i
+28	Tarahumaran	Dos	*woka	woka	w o k a	9	w - - o + k a
+29	ProtoCoracholNahua	Dos	**wapu-	wapu-	w a p u	9	w a p u
 30	ProtoSouthernUtoAztecan	Dos	*wo- SUA/(*wapulai ‘different/other’ cahita)	wo-	w o	10	w o
 566	Cora	Estrella	sú’ura’abe	sú’ura’abe	s u ʔ u r a ʔ a b e	236	s u ʔ u r a ʔ a b e
 567	Huichol	Estrella	ʂurawe	ʂurawe	ʂ u r a w e	236	ʂ u - - r - - a w e
-568	ProtoNahua	Estrella	*sital-	sital-	s i t a l	236	s i t a l - - - - -
+568	ProtoNahua	Estrella	*sital-	sital-	s iː t a l	236	s iː t a l - - - - -
 569	Tepiman	Estrella	sipo/suu	sipo	s i p o	237	s i - p o - -
 570	Cahita	Estrella	čóki	čóki	tʃ o k i	238	tʃ o k i
 571	Tarahumaran	Estrella	so’póri	so’póri	s o ʔ p o r i	237	s o ʔ p o r i
-572	ProtoCoracholNahua	Estrella	**su:ta-	su:ta-	s uː t a	236	s uː t - - - - - - a
+572	ProtoCoracholNahua	Estrella	**su:ta-	su:ta-	s uː t a	236	s uː t a - - - - - -
 573	ProtoUtoAztecan	Estrella	**suu PUA	suu	s uː	236	s uː - - - - - - - -
 84	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	45	k ɨ mʷ a h a r a
 85	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	46	k ɨ mʷ a h a r a - -
