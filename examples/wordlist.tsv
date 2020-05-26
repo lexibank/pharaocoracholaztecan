@@ -479,12 +479,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 372	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	164	s i - - - - - - p u ts i
 373	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	165	s i - - - - - - p u ts i
 374	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	164	 ʂ ɨ - - - t e m - u ts i
-375	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	165	ʂ ɨ - - - t e m u ts i
+375	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	165	ʂ ɨ - - - t e m - u ts i
 376	ProtoNahua	Ombligo	*šik-/*tempo¢ ‘pursed lips’	šik-	ʃ i k	164	ʃ i k - - - - - - - -
 377	Tepiman	Ombligo	hiko	hiko	h i k o	164	 h i k o - - - - - - - -
 378	Cahita	Ombligo	síiku	síiku	s iː k u	164	s iː k u - - - - - - - -
 379	Tarahumaran	Ombligo	sikú	sikú	s i k u	164	 s i k u - - - - - - - -
-380	ProtoCoracholNahua	Ombligo	**siku-**tempo¢i	siku-tempo¢i	s i k u + t e m p o ts i	164	s i k u + - - t e m p o ts i
+380	ProtoCoracholNahua	Ombligo	**siku-**tempo¢i	siku-tempo¢i	s i k u + t e m p o ts i	164	s i k u + t e m p o ts i
 381	ProtoSouthernUtoAztecan	Ombligo	**siku SUA	siku	s i k u	164	s i k u - - - - - - - - 
 282	Cora	Oreja	nasáih	nasáih	n a s a i h	139	n a - - s a i h -
 283	Huichol	Oreja	naka	naka	n a k a	139	n a k a - - - -
@@ -513,17 +513,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 138	Cora	Perro	¢ɨ’ɨ	¢ɨ’ɨ	ts ɨ ʔ ɨ	78	- ts ɨ ʔ ɨ -
 139	Huichol	Perro	¢ɨkɨ	¢ɨkɨ	ts ɨ k ɨ	78	- ts ɨ k ɨ -
 140	ProtoNahua	Perro	*i¢kwin	i¢kwin	i ts kʷ i n	78	i ts - kʷ i n 
-141	ProtoNahua	Perro	*čiči	čiči	tʃ i tʃ i 	79	tʃ i + tʃ i
-142	Tepiman	Perro	*gosi	gosi	g o s i	80	g o + s i
-143	Cahita	Perro	ču’u	ču’u	tʃ uˀu	79	- - - tʃ uˀu -
-144	Tarahumaran	Perro	*koči	koči	k o tʃ i	80	k o tʃ i
-145	ProtoCoracholNahua	Perro	**¢ukui	¢ukui	ts u k u i	78	- ts u k u - i
-146	ProtoSouthernUtoAztecan	Perro	**¢u SUA	¢u	ts u	78	- ts - - u - -
-119	Cora	Persona	tyevi (Stubbs)	tyevi	t j e v i	62	t j e v i
-120	Huichol	Persona	tewi	tewi	t e w i	62	t - e w i
-121	ProtoNahua	Persona	-te:-(ka)	-te:-	t eː	62	t - eː - -
+141	ProtoNahua	Perro	*čiči	čiči	tʃ i tʃ i 	80	tʃ i + tʃ i
+142	Tepiman	Perro	*gosi	gosi	g o s i	79	g o + s i
+143	Cahita	Perro	ču’u	ču’u	tʃ uˀu	80	- - - tʃ uˀu -
+144	Tarahumaran	Perro	*koči	koči	k o tʃ i	79	k o tʃ i
+145	ProtoCoracholNahua	Perro	**¢ukui	¢ukui	ts u k u i	78	- ts u k u i -
+146	ProtoSouthernUtoAztecan	Perro	**¢u SUA	¢u	ts u	80	ts u
+119	Cora	Persona	tyevi (Stubbs)	tyevi	tj e v i	62	tj e v i
+120	Huichol	Persona	tewi	tewi	t e w i	62	t e w i
+121	ProtoNahua	Persona	-te:-(ka)	-te:-	t eː	62	t eː - -
 122	Cahita	Persona	*yore/	yore	j o r e	64	j o r e
-123	ProtoUtoAztecan	Persona	**ta:wi/*tɨwi PUA	ta:wi	t aː w i	67	t aː w i
+123	ProtoUtoAztecan	Persona	**ta:wi/*tɨwi PUA	ta:wi	t aː w i	62	t aː w i
 69	Huichol	Pesado	heeté	heeté	h eː t e	41	h eː - t e - -
 70	ProtoNahua	Pesado	*yeti-k	yeti-k	j e t i + k	41	j e - t i + k
 71	Tepiman	Pesado	*vɨti	vɨti	v ɨ t i	41	v ɨ - t i - -
@@ -536,8 +536,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 127	Tepiman	Pez	*vatopa	vatopa	v a t o p a	71	v a t o p a
 128	Cahita	Pez	*kuču	kuču	k u tʃ u	69	k u tʃ u
 129	Tarahumaran	Pez	kočú/*musi	kočú	k o tʃ u	69	k o tʃ u
-130	ProtoSouthernUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi	m u s i	69	m u s i
-131	ProtoSouthernUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi	m u s i	70	m u s i
+130	ProtoSouthernUtoAztecan	Pez	**musi SUA	musi	m u s i	69	m u s i
+131	ProtoUtoAztecan	Pez	**ki¢u 	ki¢u	k i ts u	70	k i ts ui
 337	Cora	Pie	čepa	čepa	tʃ e p a	151	tʃ e p - a
 338	Huichol	Pie	ɨka	ɨka	ɨ k a	151	- ɨ k - a
 339	ProtoNahua	Pie	*ikši <**kèsi/kàsi	ikši	i k ʃ i	151	- i k ʃ i
