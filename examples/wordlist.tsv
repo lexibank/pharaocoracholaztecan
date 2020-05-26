@@ -253,12 +253,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 84	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	45	k ɨ mʷ a h a r a
 85	Cora	Frio (hace frio)	kɨmwáhara/wa-see	kɨmwáhara	k ɨ mʷ a h a r a	46	k ɨ mʷ a h a r a - -
 86	Huichol	Frio (hace frio)	haɨtɨ	haɨtɨ	h a ɨ t ɨ	47	h a ɨ t ɨ
-87	ProtoNahua	Frio (hace frio)	*i¢ti-k/*se:wa	i¢ti-k	i ts t i + k	48	i ts t i + k
-88	ProtoNahua	Frio (hace frio)	*i¢ti-k/*se:wa	i¢ti-k	i ts t i + k	46	- i - - ts - t i + k
-89	Tepiman	Frio (hace frio)	*hepi	hepi	h e p i	46	- - - - h e p i - -
-90	Cahita	Frio (hace frio)	*sewe/	sewe	s e w e	46	- - - - s e w e - -
-91	Tarahumaran	Frio (hace frio)	*sepi	sepi	s e p i	46	- - - - s e p i - -
-92	ProtoUtoAztecan	Frio (hace frio)	*sep- PUA	sep-	s e p	46	- - - - s e p - - -
+87	ProtoNahua	Frio (hace frio)	*i¢ti-k	i¢ti-k	i ts t i + k	48	i ts t i + k
+88	ProtoNahua	Frio (hace frio)	*se:wa	seːwa	s eː w a	46	s eː w a
+89	Tepiman	Frio (hace frio)	*hepi	hepi	h e p i	46	h e p i 
+90	Cahita	Frio (hace frio)	*sewe/	sewe	s e w e	46	s e w e 
+91	Tarahumaran	Frio (hace frio)	*sepi	sepi	s e p i	46	s e p i
+92	ProtoUtoAztecan	Frio (hace frio)	*sep- PUA	sep-	s e p	46	 s e p -
 658	Cora	Fuego	taih	taih	t ai h	273	t ai h -
 659	Huichol	Fuego	tai	tai	t ai	273	t a - i - -
 660	ProtoNahua	Fuego	*ƛe	ƛe	tɬ e	273	tɬ e - -
@@ -320,8 +320,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 238	Tepiman	Huevo	*no’	no’	n o ʔ	120	n o ʔ
 239	Cahita	Huevo	káwá	káwá	k a w a	121	k a w a
 240	Tarahumaran	Huevo	kawá	kawá	k a w a	121	k a w a
-241	ProtoCoracholNahua	Huevo	**tawari ’egg/turkey hen’	tawari	t a w a r i	119	- - t awa r i - -
-242	ProtoSouthernUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	tapari	t a p a r i	119	t a p a r - i
+241	ProtoCoracholNahua	Huevo	**tawari ’egg/turkey hen’	tawari	t a w a r i	119	- - t a w a r i - -
+242	ProtoSouthernUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	tapari	t a p a r i	119	- - t a p a r - i
 651	Cora	Humo	kɨɨ¢í	kɨɨ¢í	k ɨː ts i	270	k ɨː - - ts i
 652	Huichol	Humo	kɨ¢i	kɨ¢i	k ɨ ts i	270	k ɨ - - ts i
 653	ProtoNahua	Humo	*po:k-/(*kwič- ‘hollín’)	po:k-	p oː k	270	p oː - - k -
@@ -336,35 +336,35 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 327	Cahita	Lengua	níni	níni	n i n i	148	n i n i - - -
 328	ProtoSouthernUtoAztecan	Lengua	*nenɨ SUA	nenɨ	n e n ɨ	148	n e n ɨ - - -
 596	Cora	Llúvia	biite	biite	b iː t e	248	- - - - b iː t e - -
-597	Huichol	Llúvia	wiyeri	wiyeri	w i j e r i	248	w i j e r i
+597	Huichol	Llúvia	wiyeri	wiyeri	w i j e r i	248	- - - - w i j e r i
 598	ProtoNahua	Llúvia	*kiyawi-	kiyawi-	k i j a w i	248	k i j a w i - - - -
 599	Tepiman	Llúvia	duku	duku	d u k u	249	d u k u
 600	Cahita	Llúvia	yúke	yúke	j u k e	249	j - k e
 601	Tarahumaran	Llúvia	yu’kí	yu’kí	j uʔ k i	249	j uʔ k i
 602	ProtoCoracholNahua	Llúvia	**wi	wi	w i	248	 - - - - w i - - - -
 603	ProtoSouthernUtoAztecan	Llúvia	*yuku SUA/**wi PUA	yuku	j u k u	248	- - j u k u
-559	Cora	Luna	maskɨrai	maskɨrai	m a s k ɨ r ai	234	m a s k ɨ r ai
-560	Huichol	Luna	me¢a	me¢a	m e ts a	234	m e - ts - - a
-561	ProtoNahua	Luna	*me¢-	me¢-	m e ts	234	m e - ts - - -
-562	Tepiman	Luna	masaada	masaada	m a s aː d a	234	m a - s aː d a
-563	Cahita	Luna	mé¢a	mé¢a	m e ts a	234	m e - ts - - a
-564	Tarahumaran	Luna	me¢á	me¢á	m e ts a	234	m e - ts - - a
-565	ProtoSouthernUtoAztecan	Luna	**mé¢a SUA	mé¢a	m e ts a	234	m e - ts - - a
+559	Cora	Luna	maskɨrai	maskɨrai	m a s k ɨ r ai	234	m a s - + k ɨ r ai
+560	Huichol	Luna	me¢a	me¢a	m e ts a	234	m e ts a - - - -
+561	ProtoNahua	Luna	*me¢-	me¢-	m e ts	234	m e ts - - - - -
+562	Tepiman	Luna	masaada	masaada	m a s aː d a	234	m a s aː d a - -
+563	Cahita	Luna	mé¢a	mé¢a	m e ts a	234	m e ts a - - - -
+564	Tarahumaran	Luna	me¢á	me¢á	m e ts a	234	m e ts a - - - -
+565	ProtoSouthernUtoAztecan	Luna	**mé¢a SUA	mé¢a	m e ts a	234	m e ts a - -
 352	Cora	Mano	mwahka’a	mwahka’a	mʷ a h k a ʔ a	158	mʷ a h k a ʔ a
-353	Huichol	Mano	mama	mama	m a m a	158	m a - - - m a
+353	Huichol	Mano	mama	mama	m a m a	158	m a m a - - - -
 354	ProtoNahua	Mano	*ma:-	ma:-	m aː	158	m aː - - - - -
 355	Tepiman	Mano	novi	novi	n o v i	159	n o v i
-356	Cahita	Mano	mam	mam	m a m	158	m a - - - m -
+356	Cahita	Mano	mam	mam	m a m	158	m a m - - -
 357	Tarahumaran	Mano	ma/seká	ma	m a	158	m a - - - - -
 358	ProtoCoracholNahua	Mano	*ma:	ma:	m aː	160	m aː
 359	ProtoUtoAztecan	Mano	*ma PUA	ma	m a	158	m a - - - - -
 480	Cora	Matar	*he’ika	he’ika	h e ʔ i k a	198	h e ʔ i k a
 481	Huichol	Matar	mieriya	mieriya	m i e r i j a	199	m i e r i j a
 482	ProtoNahua	Matar	*miktia	miktia	m i k t i a	200	m i k t i a
-483	Tepiman	Matar	mɨ’a	mɨ’a	m ɨ ʔ a	199	m ɨ - - - ʔ a
-484	Cahita	Matar	mé’a	mé’a	m e ʔ a	199	m e - - - ʔ a
-485	Tarahumaran	Matar	me’á	me’á	m e ʔ a	199	m e - - - ʔ a
-486	ProtoUtoAztecan	Matar	**mɨkka/mɨ’a	mɨkka	m ɨ k a	199	m ɨ - - - k a
+483	Tepiman	Matar	mɨ’a	mɨ’a	m ɨ ʔ a	199	m ɨ ʔ - - a
+484	Cahita	Matar	mé’a	mé’a	m e ʔ a	199	m e ʔ - - a
+485	Tarahumaran	Matar	me’á	me’á	m e ʔ a	199	m e ʔ - - a
+486	ProtoUtoAztecan	Matar	**mɨkka/mɨ’a	mɨkka	m ɨ k a	199	m ɨ k - - a
 761	Cora	Mecate/soga	káhunari	káhunari	k a h u n a r i	319	k a h u n a r i
 762	Huichol	Mecate/soga	witari	witari	w i t a r i	320	w i t a r i
 763	ProtoNahua	Mecate/soga	*meka-	meka-	m e k a	321	m e k a
