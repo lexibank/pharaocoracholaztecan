@@ -121,7 +121,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 498	Tepiman	Caminar	sime	sime	s i m e	208	s i m e
 499	Cahita	Caminar	siime	siime	s iː m e	208	s iː m e
 500	Tarahumaran	Caminar	simí	simí	s i m i	208	s i m i
-501	ProtoCoracholNahua	Caminar	**yai-wi	yai-wi	j + w i	207	j + - - - w i
+501	ProtoCoracholNahua	Caminar	**yai-wi	yai-wi	j a i + w i	207	j a i + - - - w i
 502	ProtoUtoAztecan	Caminar	**yapi/**ya’i PUA	yapi	j a p i	207	- - j a - p i
 681	Cora	Camino	huye	huye	h u j e	283	h u j e - - -
 682	Huichol	Camino	huye	huye	h u j e	283	h u j e - - -
@@ -131,19 +131,19 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 686	Tarahumaran	Camino	powé	powé	p o w e	283	p o w e - - -
 687	ProtoCoracholNahua	Camino	**ho-ye	ho-ye	h o + j e	283	h o - - + j e
 688	ProtoSouthernUtoAztecan	Camino	**po PUA//**wo SUA	po	p o	283	p o - - - - -
-544	Cora	Cantar	čwíka	čwíka	tʃʷ i k a	228	tʃʷ i k - - - - a
+544	Cora	Cantar	čwíka	čwíka	tʃʷ i k a	228	tʃʷ i k a - - - -
 545	Huichol	Cantar	kwikariya	kwikariya	kʷ i k a r i j a	228	kʷ i k a r i j a
-546	ProtoNahua	Cantar	*kwika	kwika	kʷ i k a	228	kʷ i k - - - - a
+546	ProtoNahua	Cantar	*kwika	kwika	kʷ i k a	228	kʷ i k a - - - -
 547	Tepiman	Cantar	nɨ’i	nɨ’i	n ɨ ʔ i	229	n ɨ ʔ i
-548	Cahita	Cantar	bwíka	bwíka	bʷ i k a	228	bʷ i k - - - - a
-549	Tarahumaran	Cantar	wikatá	wikatá	w i k a t a	228	w i k a t - - a
-550	ProtoUtoAztecan	Cantar	**kwika PUA	kwika	kʷ i k a	228	kʷ i k - - - - a
-207	Cora	Carne	wa’í-raa	wa’í-raa	w a ʔ i + r aː	104	w a ʔ i + r aː
-208	Huichol	Carne	wai	wai	w ai	104	w ai - - - - -
+548	Cahita	Cantar	bwíka	bwíka	bʷ i k a	228	bʷ i k a - - - -
+549	Tarahumaran	Cantar	wikatá	wikatá	w i k a t a	228	w i k a - - t a
+550	ProtoUtoAztecan	Cantar	**kwika PUA	kwika	kʷ i k a	228	kʷ i k a - - - -
+207	Cora	Carne	wa’í-raa	wa’í-raa	w aʔ i + r aː	104	w aʔ i + r aː
+208	Huichol	Carne	wai	wai	w a i	104	w a i - - - 
 209	ProtoNahua	Carne	*naka-	naka-	n a k a	105	n a k a
 210	Tepiman	Carne	*tukuwa	tukuwa	t u k u w a	106	t u k u w a
 211	Cahita	Carne	tekua	tekua	t e k u a	106	t e k u - a
-212	Tarahumaran	Carne	sa’apa	sa’apa	s a ʔ a p a	107	s a ʔ a p a
+212	Tarahumaran	Carne	sa’apa	sa’apa	s aˀa p a	107	s aˀa p a
 667	Cora	Ceniza	nasí	nasí	n a s i	276	n a s i
 668	Huichol	Ceniza	naʂi	naʂi	n a ʂ i	276	n a ʂ i
 669	ProtoNahua	Ceniza	*neš	neš	n e ʃ	276	n e ʃ -
@@ -151,9 +151,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 671	Cahita	Ceniza	náposa	náposa	n a p o s a	278	n a p o s a
 672	Tarahumaran	Ceniza	napisó	napisó	n a p i s o	278	n a p i s o
 673	ProtoCoracholNahua	Ceniza	**nasi (+tubar)	nasi	n a s i	276	n a s i
-689	Cora	Cerro	hɨri	hɨri	h ɨ r i	284	h ɨ - - - r i - - -
+689	Cora	Cerro	hɨri	hɨri	h ɨ r i	284	- - h ɨ r i 
 690	Huichol	Cerro	yemuri	yemuri	j e m u r i	285	j e m u r i
-691	ProtoNahua	Cerro	*tepe:-	tepe:-	t e p eː	286	t e p eː
+691	ProtoNahua	Cerro	*tepe:-	tepe:-	t e p eː	286	t e p eː - -
 692	Tepiman	Cerro	‘oidaga <*huya	‘oidaga	ʔ o i d a g a	284	ʔ o i d a g a - - -
 693	Cahita	Cerro	káwi	káwi	k a w i	287	k a w i
 694	Tarahumaran	Cerro	kawí	kawí	k a w i	287	k a w i
@@ -189,12 +189,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 426	ProtoCoracholNahua	Comer	**kwa	kwa	kʷ a	179	kʷ - - a - - -
 427	ProtoUtoAztecan	Comer	*kwa PUA	kwa	kʷ a	179	kʷ - - a - - -
 397	Cora	Corazon	sɨéheniu’ukari/(ruurikame ‘animal’)	sɨéheniu’ukari	s ɨ h e n i u ʔ u k a r i	173	s ɨ h e n i u ʔ u k a r i
-398	Huichol	Corazon	iyari	iyari	i j a r i	174	i j a r - i -
-399	ProtoNahua	Corazon	*yo:lyoh	yo:lyoh	j l j o h	174	- j - l j o h
-400	Tepiman	Corazon	hura	hura	h u r a	175	h u - - r a
-401	Cahita	Corazon	hiapsi//súla/(yorem ‘person’)	hiapsi	h i a p s i	175	h i a p s i
-402	Tarahumaran	Corazon	surá	surá	s u r a	175	s u - - r a
-403	ProtoCoracholNahua	Corazon	*yauri	yauri	j r i	174	- j - r - i -
+398	Huichol	Corazon	iyari	iyari	i j a r i	174	i j a r i - - - -
+399	ProtoNahua	Corazon	*yo:lyoh	yo:lyoh	j oː l j o h	174	- j oː l + j o h
+400	Tepiman	Corazon	hura	hura	h u r a	175	- h u r a
+401	Cahita	Corazon	hiapsi//súla/(yorem ‘person’)	s u l a	175	s u l a
+402	Tarahumaran	Corazon	surá	surá	s u r a	175	s u r a
+403	ProtoCoracholNahua	Corazon	*yauri	yauri	j r i	174	- j au r i - - -
 404	ProtoUtoAztecan	Corazon	**sura/	sura	s u r a	175	s u - - r a
 170	Cora	Corteza	ku¢apé	ku¢apé	k u ts a p e	87	k u ts a p e
 171	Huichol	Corteza	kunieri	kunieri	k u n i e r i	88	k u n i e r i
