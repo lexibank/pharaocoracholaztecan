@@ -476,46 +476,46 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 295	Tarahumaran	Ojo	pusí	pusí	p u s i	140	p u s i
 296	ProtoCoracholNahua	Ojo	**huusi	huusi	h uː s i	140	h uː s i
 297	ProtoUtoAztecan	Ojo	**pusi	pusi	p u s i	140	p u s i
-372	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	164	- - - - - s i - - - p u ts i
-373	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	165	s i p - - u ts i
-374	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	164	- - - - - ʂ ɨ t e m - u ts i
-375	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	165	ʂ ɨ t e m u ts i
-376	ProtoNahua	Ombligo	*šik-/*tempo¢ ‘pursed lips’	šik-	ʃ i k	164	- - - - - ʃ i - - - - - k -
-377	Tepiman	Ombligo	hiko	hiko	h i k o	164	- - - - - h i - - - - - k o
-378	Cahita	Ombligo	síiku	síiku	s i i k u	164	- - - - - s i - - - - i k u
-379	Tarahumaran	Ombligo	sikú	sikú	s i k u	164	- - - - - s i - - - - - k u
+372	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	164	s i - - - - - - p u ts i
+373	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	165	s i - - - - - - p u ts i
+374	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	164	 ʂ ɨ - - - t e m - u ts i
+375	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	165	ʂ ɨ - - - t e m u ts i
+376	ProtoNahua	Ombligo	*šik-/*tempo¢ ‘pursed lips’	šik-	ʃ i k	164 ʃ i k - - - - - - - -
+377	Tepiman	Ombligo	hiko	hiko	h i k o	164	 h i k o - - - - - - - -
+378	Cahita	Ombligo	síiku	síiku	s iː k u	164	s iː k u - - - - - - - -
+379	Tarahumaran	Ombligo	sikú	sikú	s i k u	164	 s i k u - - - - - - - -
 380	ProtoCoracholNahua	Ombligo	**siku-**tempo¢i	siku-tempo¢i	s i k u + t e m p o ts i	164	s i k u + - - t e m p o ts i
-381	ProtoSouthernUtoAztecan	Ombligo	**siku SUA	siku	s i k u	164	- - - - - s i - - - - - k u
-282	Cora	Oreja	nasáih	nasáih	n a s a i h	139	n a s a i h -
-283	Huichol	Oreja	naka	naka	n a k a	139	n a k a - - -
-284	ProtoNahua	Oreja	*nakas <*nakasV	nakas	n a k a s	139	n a k a - s -
+381	ProtoSouthernUtoAztecan	Ombligo	**siku SUA	siku	s i k u	164	s i k u - - - - - - - - 
+282	Cora	Oreja	nasáih	nasáih	n a s a i h	139	n a - - s a i h -
+283	Huichol	Oreja	naka	naka	n a k a	139	n a k a - - - -
+284	ProtoNahua	Oreja	*nakas <*nakasV	nakas	n a k a s	139	n a k a s - - -
 285	Tepiman	Oreja	naaka	naaka	n aː k a	139	n aː k a - - -
 286	Cahita	Oreja	náka	náka	n a k a	139	n a k a - - -
 287	Tarahumaran	Oreja	naká	naká	n a k a	139	n a k a - - -
-288	ProtoCoracholNahua	Oreja	**nákàsa	nákàsa	n a k a s a	139	n a k a - s a
+288	ProtoCoracholNahua	Oreja	**nákàsa	nákàsa	n a k a s a	139	n a k a s a - -
 289	ProtoUtoAztecan	Oreja	**nakka PUA	nakka	n a k a	139	n a k a - - -
 452	Cora	Oír	namwá	namwá	n a mʷ a	188	- n a mʷ - - a
 453	Huichol	Oír	enarika	enarika	e n a r i k a	188	e n a r i k a
-454	ProtoNahua	Oír	*kaki	kaki	k a k i	189	k a k - - i
+454	ProtoNahua	Oír	*kaki	kaki	k a k i	189	- - k a k i
 455	Tepiman	Oír	kahɨ	kahɨ	k a h ɨ	189	- - k a h ɨ
 456	Cahita	Oír	hikkaha	hikkaha	h i k a h a	189	h i k a h a
 457	Tarahumaran	Oír	ake	ake	a k e	189	- a k - - e
 458	ProtoUtoAztecan	Oír	**kahi PUA/**nakka ’ear’ PUA	kahi	k a h i	189	- - k a h i
 532	Cora	Parado	-téhebee	-téhebee	t e h e b eː	219	t e h e b eː
 533	Huichol	Parado	téwi	téwi	t e w i	219	t e - - w i
-534	ProtoNahua	Parado	*ihkak < kèká	ihkak	i h k a k	220	i h k a k -
-535	Tepiman	Parado	kɨka/*wɨka	kɨka	k ɨ k a	220	- - k ɨ k a
+534	ProtoNahua	Parado	*ihkak < kèká	ihkak	i h k a k	220	i h k a + k -
+535	Tepiman	Parado	kɨka/*wɨka	kɨka	k ɨ k a	220	k ɨ k a
 536	Cahita	Parado	wéyek	wéyek	w e j e k	221	w e j e k
 537	Tarahumaran	Parado	weri	weri	w e r i	221	w e r i -
-538	ProtoUtoAztecan	Parado	*keka	keka	k e k a	220	- - k e k a
+538	ProtoUtoAztecan	Parado	*keka	keka	k e k a	220	k e k a
 44	Cora	Pequeño	kɨlen	kɨlen	k ɨ l e n	20	k ɨ l e n
 45	ProtoNahua	Pequeño	*tepi-/*¢iki	tepi-	t e p i	22	t e p i
-138	Cora	Perro	¢ɨ’ɨ	¢ɨ’ɨ	ts ɨ ʔ ɨ	78	- ts - - ɨ ʔ ɨ
-139	Huichol	Perro	¢ɨkɨ	¢ɨkɨ	ts ɨ k ɨ	78	- ts - - ɨ k ɨ
-140	ProtoNahua	Perro	*i¢kwin/*čiči	i¢kwin	i ts kʷ i n	78	i ts - kʷ i n -
-141	ProtoNahua	Perro	*i¢kwin/*čiči	i¢kwin	i ts kʷ i n	79	i ts - kʷ i n
-142	Tepiman	Perro	*gosi	gosi	g o s i	80	g o s i
-143	Cahita	Perro	ču’u	ču’u	tʃ u ʔ u	79	- tʃ u ʔ u -
+138	Cora	Perro	¢ɨ’ɨ	¢ɨ’ɨ	ts ɨ ʔ ɨ	78	- ts ɨ ʔ ɨ -
+139	Huichol	Perro	¢ɨkɨ	¢ɨkɨ	ts ɨ k ɨ	78	- ts ɨ k ɨ -
+140	ProtoNahua	Perro	*i¢kwin	i¢kwin	i ts kʷ i n	78	i ts - kʷ i n 
+141	ProtoNahua	Perro	*čiči	čiči	tʃ i tʃ i 	79	tʃ i + tʃ i
+142	Tepiman	Perro	*gosi	gosi	g o s i	80	g o + s i
+143	Cahita	Perro	ču’u	ču’u	tʃ uˀu	79	- - - tʃ uˀu -
 144	Tarahumaran	Perro	*koči	koči	k o tʃ i	80	k o tʃ i
 145	ProtoCoracholNahua	Perro	**¢ukui	¢ukui	ts u k u i	78	- ts u k u - i
 146	ProtoSouthernUtoAztecan	Perro	**¢u SUA	¢u	ts u	78	- ts - - u - -
