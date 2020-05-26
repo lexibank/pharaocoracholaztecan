@@ -126,10 +126,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 681	Cora	Camino	huye	huye	h u j e	283	h u j e - - -
 682	Huichol	Camino	huye	huye	h u j e	283	h u j e - - -
 683	ProtoNahua	Camino	*oh-	oh-	o h	283	- o h - - - -
-684	Tepiman	Camino	voi	voi	v o i	283	v o - i - - -
-685	Cahita	Camino	vó’o	vó’o	v o ʔ o	283	v o ʔ o - - -
+684	Tepiman	Camino	voi	voi	v o i	283	v o i - - -
+685	Cahita	Camino	vó’o	vó’o	v oˀo	283	v oˀo - - - -
 686	Tarahumaran	Camino	powé	powé	p o w e	283	p o w e - - -
-687	ProtoCoracholNahua	Camino	**ho-ye	ho-ye	h o + j e	283	h o - - + j e
+687	ProtoCoracholNahua	Camino	**ho-ye	ho-ye	h o + j e	283	h o j e - -
 688	ProtoSouthernUtoAztecan	Camino	**po PUA//**wo SUA	po	p o	283	p o - - - - -
 544	Cora	Cantar	čwíka	čwíka	tʃʷ i k a	228	tʃʷ i k a - - - -
 545	Huichol	Cantar	kwikariya	kwikariya	kʷ i k a r i j a	228	kʷ i k a r i j a
@@ -198,16 +198,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 404	ProtoUtoAztecan	Corazon	**sura/	sura	s u r a	175	s u r a
 170	Cora	Corteza	ku¢apé	ku¢apé	k u ts a p e	87	k u ts a p e
 171	Huichol	Corteza	kunieri	kunieri	k u n i e r i	88	k u n i e r i
-172	ProtoNahua	Corteza	*e:wa-yo	e:wa-yo	eː w a + j o	89	- - - eː w a + j o
+172	ProtoNahua	Corteza	*e:wa-yo	e:wa-yo	eː w a + j o	89	- eː w a + j o
 173	Tepiman	Corteza	*komi	komi	k o m i	90	k o m i
-174	ProtoUtoAztecan	Corteza	*po’owa PUA	po’owa	p o ʔ o w a	89	p o ʔ o w a - - -
-382	Cora	Cuello	kɨhpí	kɨhpí	k ɨ h p i	166	k ɨ h - p i - - -
-383	Huichol	Cuello	kɨipi	kɨipi	k ɨ i p i	166	k ɨ - i p i - - -
-384	ProtoNahua	Cuello	*ke:č-pa-	ke:č-pa-	k eː tʃ + p a	166	k eː tʃ - - - + p a
-385	Tepiman	Cuello	kusivo	kusivo	k u s i v o	166	k u s i v o - - -
-386	Cahita	Cuello	kútana//bi’am	kútana	k u t a n a	167	k u - t a n a
-387	Tarahumaran	Cuello	kuhtamó	kuhtamó	k u h t a m o	167	k u h t a m o
-388	ProtoUtoAztecan	Cuello	*kusi-pa PUA	kusi-pa	k u s i + p a	166	k u s - - i + p a
+174	ProtoUtoAztecan	Corteza	*po’owa PUA	po’owa	p o ʔ o w a	89	p oˀo w a - - -
+382	Cora	Cuello	kɨhpí	kɨhpí	k ɨ h p i	166	k ɨ h - p i
+383	Huichol	Cuello	kɨipi	kɨipi	k ɨ i p i	166	k ɨ - i p i 
+384	ProtoNahua	Cuello	*ke:č-pa-	ke:č-pa-	k eː tʃ + p a	166	k eː tʃ - p a
+385	Tepiman	Cuello	kusivo	kusivo	k u s i v o	166	k u s i v o 
+386	Cahita	Cuello	kútana//bi’am	kútana	k u t a n a	167	k u t a n a
+387	Tarahumaran	Cuello	kuhtamó	kuhtamó	k uh t a m o	167	k uh t a m o
+388	ProtoUtoAztecan	Cuello	*kusi-pa PUA	kusi-pa	k u s i + p a	166	k u s i p a
 243	Cora	Cuerno	e’ewá	e’ewá	eˀe w a	122	eˀe w a
 244	Huichol	Cuerno	awa	awa	a w a	122	a w a
 245	ProtoNahua	Cuerno	*kwa:kwaw-	kwa:kwaw-	kʷ aː kʷ a w	123	kʷ aː kʷ a w
@@ -429,28 +429,28 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 611	ProtoUtoAztecan	Nieve/hielo	*kɨpa	kɨpa	k ɨ p a	254	k ɨ p a
 1	Cora	No	kah/ka-pú/ka-mo (Casad 1984)/	kah	k a h	1	k a h - - - - -
 2	Huichol	No	tiʂaɨ	tiʂaɨ	t i ʂ a ɨ	2	t i ʂ a ɨ
-3	ProtoNahua	No	*ahmo/*ka	ahmo	a h m o	1	- a h m o - - -
+3	ProtoNahua	No	*ahmo/*ka	ahmo	a h m o	1	- a h + m o - - -
 4	Tepiman	No	*čo/*káaki	čo	tʃ o	1	- - - tʃ o - - -
 5	Cahita	No	*ka	ka	k a	1	k a - - - - - -
 6	Tarahumaran	No	*kai	kai	k ai	1	k ai - - - - - -
 7	ProtoCoracholNahua	No	**ka-mo	ka-mo	k a + m o	1	k a - - - + m o
 8	ProtoUtoAztecan	No	*ka	ka	k a	1	k a - - - - - -
-736	Cora	Noche	tɨ́ka’a	tɨ́ka’a	t ɨ k a ʔ a	311	t ɨ - k a ʔ a -
-737	Huichol	Noche	tɨkari	tɨkari	t ɨ k a r i	311	t ɨ - k a r i -
-738	ProtoNahua	Noche	*yo:wa-	yo:wa-	j w a	312	j - - w a
-739	Tepiman	Noche	tukaa	tukaa	t u k aː	311	t u - k aː - - -
-740	Cahita	Noche	tukaria	tukaria	t u k a r i a	311	t u - k a r i a
-741	Tarahumaran	Noche	tugaó	tugaó	t u g a o	311	t u - g a - o -
-742	ProtoUtoAztecan	Noche	*yuppa PUA/*tuka	yuppa	j u p p a	311	j u p p a - - -
-743	ProtoUtoAztecan	Noche	*yuppa PUA/*tuka	yuppa	j u p p a	312	j u p p a
+736	Cora	Noche	tɨ́ka’a	tɨ́ka’a	t ɨ k aˀa	311	t ɨ k aˀa - - - 
+737	Huichol	Noche	tɨkari	tɨkari	t ɨ k a r i	311	t ɨ k a r i -
+738	ProtoNahua	Noche	*yo:wa-	yo:wa-	j oː w a	307	j oː w a
+739	Tepiman	Noche	tukaa	tukaa	t u k aː	311	t u k aː - - -
+740	Cahita	Noche	tukaria	tukaria	t u k a r i a	311	t u k a r i a
+741	Tarahumaran	Noche	tugaó	tugaó	t u g a o	311	t u g a - o -
+742	ProtoUtoAztecan	Noche	*tuka	tuka	t u k a	311	t u k a 
+743	ProtoUtoAztecan	Noche	*yuppa PUA	yuppa	j u p p a	307	j u p p a
 744	Cora	Nombre	tamwa	tamwa	t a mʷ a	314	t a mʷ a - - -
 745	Huichol	Nombre	tewa	tewa	t e w a	314	t e w a - - -
-746	ProtoNahua	Nombre	*to:ka-	to:ka-	t oː k a	314	t oː k a - - -
+746	ProtoNahua	Nombre	*to:ka-	to:ka-	t oː k a	314	t oː - - + k a
 747	Tepiman	Nombre	tɨɨg	tɨɨg	t ɨː g	314	t ɨː g - - - -
 748	Cahita	Nombre	téwa	téwa	t e w a	314	t e w a - - -
 749	Tarahumaran	Nombre	tewá	tewá	t e w a	314	t e w a - - -
 750	ProtoCoracholNahua	Nombre	**tewa-ka	tewa-ka	t e w a + k a	314	t e w a + k a
-751	ProtoUtoAztecan	Nombre	**tɨ(n)wa PUA	tɨwa	t ɨ w a	314	t ɨ w a - - -
+751	ProtoUtoAztecan	Nombre	**tɨ(n)wa PUA	tɨnwa	t ɨn w a	314	t ɨn w a - - -
 643	Cora	Nube	haítɨri	haítɨri	h a t ɨ r i	264	h a t ɨ - r i
 644	Huichol	Nube	hai	hai	h ai	264	h ai - - - - -
 645	ProtoNahua	Nube	*mex- /mix-	mex-	m e ʃ	265	- - - m e ʃ
