@@ -451,14 +451,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 749	Tarahumaran	Nombre	tewá	tewá	t e w a	314	t e w a - - -
 750	ProtoCoracholNahua	Nombre	**tewa-ka	tewa-ka	t e w a + k a	314	t e w a + k a
 751	ProtoUtoAztecan	Nombre	**tɨ(n)wa PUA	tɨnwa	t ɨn w a	314	t ɨn w a - - -
-643	Cora	Nube	haítɨri	haítɨri	h a t ɨ r i	264	h a t ɨ - r i
-644	Huichol	Nube	hai	hai	h ai	264	h ai - - - - -
-645	ProtoNahua	Nube	*mex- /mix-	mex-	m e ʃ	265	- - - m e ʃ
+643	Cora	Nube	haítɨri	haítɨri	h a i + t ɨ r i	265	h a - i + t ɨ r i
+644	Huichol	Nube	hai	hai	h a i	265	h a - i - - - - -
+645	ProtoNahua	Nube	*mex- /mix-	mex-	m e ʃ	268 m e ʃ
 646	Cahita	Nube	naámu	naámu	n a m u	267	n a m u
-647	Tarahumaran	Nube	tomóa	tomóa	t o m o a	268	t o - m o a
-648	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	t o m m o	264	- - t o m m o
-649	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	t o m m o	265	t o m m o -
-650	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	t o m m o	268	t o m m o -
+647	Tarahumaran	Nube	tomóa	tomóa	t o m o a	264	t o - m o a
+648	ProtoUtoAztecan	Nube	**tommo/**haki PUA/**musi PUA	tommo	t o m m o	264	t o m m o
+649	ProtoUtoAztecan	Nube	**haki 	haki	h a k i	265	h a k i
+650	ProtoUtoAztecan	Nube	**musi 	musi	m u s i	268	m u s i
 54	Cora	Nuevo	héhkwa	héhkwa	h e h kʷ a	31	h e h kʷ a - - -
 55	Huichol	Nuevo	hekwa	hekwa	h e kʷ a	31	h e - kʷ a - - -
 56	ProtoNahua	Nuevo	*yankwi-k/*yenkwi-k	yankwi-k	j a n kʷ i + k	31	j a n kʷ i + k -
@@ -467,15 +467,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 59	Tarahumaran	Nuevo	kaweruma	kaweruma	k a w e r u m a	34	k a w e r u m a
 60	ProtoCoracholNahua	Nuevo	**hɨnkwa-ki/**pɨnkwa-k	hɨnkwa-ki	h ɨ n kʷ a + k i	31	h ɨ n kʷ a + k i
 61	ProtoSouthernUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa	h u kʷ a	31	h u - kʷ a - - -
-62	ProtoSouthernUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa	h u kʷ a	32	- - h u kʷ a
-290	Cora	Ojo	hɨ’ɨsí	hɨ’ɨsí	h ɨ ʔ ɨ s i	140	h ɨ ʔ ɨ s i
-291	Huichol	Ojo	hɨʂi	hɨʂi	h ɨ ʂ i	140	h - - ɨ ʂ i
-292	ProtoNahua	Ojo	*i:š	i:š	iː ʃ	140	- - - iː ʃ -
-293	Tepiman	Ojo	*vuhi	vuhi	v u h i	140	- - v u h i
-294	Cahita	Ojo	púsi	púsi	p u s i	140	- - p u s i
-295	Tarahumaran	Ojo	pusí	pusí	p u s i	140	- - p u s i
-296	ProtoCoracholNahua	Ojo	**huusi	huusi	h uː s i	140	h - - uː s i
-297	ProtoUtoAztecan	Ojo	**pusi	pusi	p u s i	140	- - p u s i
+62	ProtoUtoAztecan	Nuevo	**pɨtuwa	pɨtuwa	p ɨ t u w a 	32	h u - - kʷ a
+290	Cora	Ojo	hɨ’ɨsí	hɨ’ɨsí	h ɨˀɨ s i	140	h ɨˀɨ s i
+291	Huichol	Ojo	hɨʂi	hɨʂi	h ɨ ʂ i	140	h ɨ ʂ i
+292	ProtoNahua	Ojo	*i:š	i:š	iː ʃ	140	- iː ʃ -
+293	Tepiman	Ojo	*vuhi	vuhi	v u h i	140	v u h i
+294	Cahita	Ojo	púsi	púsi	p u s i	140	p u s i
+295	Tarahumaran	Ojo	pusí	pusí	p u s i	140	p u s i
+296	ProtoCoracholNahua	Ojo	**huusi	huusi	h uː s i	140	h uː s i
+297	ProtoUtoAztecan	Ojo	**pusi	pusi	p u s i	140	p u s i
 372	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	164	- - - - - s i - - - p u ts i
 373	Cora	Ombligo	sipu¢i	sipu¢i	s i p u ts i	165	s i p - - u ts i
 374	Huichol	Ombligo	ʂɨtemu¢i	ʂɨtemu¢i	ʂ ɨ t e m u ts i	164	- - - - - ʂ ɨ t e m - u ts i
