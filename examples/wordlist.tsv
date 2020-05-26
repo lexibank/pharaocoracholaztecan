@@ -375,24 +375,24 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 428	Cora	Morder	čé	čé	tʃ e	180	tʃ e - - - -
 429	Huichol	Morder	kee	kee	k eː	180	k eː - - - -
 430	ProtoNahua	Morder	*ke¢oma	ke¢oma	k e ts o m a	180	k e ts o m a
-431	Tepiman	Morder	kɨyi	kɨyi	k ɨ j i	180	k ɨ j - - i
-432	Cahita	Morder	keye	keye	k e j e	180	k e j - - e
-433	Tarahumaran	Morder	ki¢u	ki¢u	k i ts u	180	k i ts - - u
-434	ProtoCoracholNahua	Morder	*ke	ke	k e	181	k e
-435	ProtoUtoAztecan	Morder	**kɨ¢a PUA	kɨ¢a	k ɨ ts a	180	k ɨ ts - - a
+431	Tepiman	Morder	kɨyi	kɨyi	k ɨ j i	180	k ɨ j i
+432	Cahita	Morder	keye	keye	k e j e	180	k e j e
+433	Tarahumaran	Morder	ki¢u	ki¢u	k i ts u	180	k i ts u - -
+434	ProtoCoracholNahua	Morder	*ke	ke	k e	180	k e - - - -
+435	ProtoUtoAztecan	Morder	**kɨ¢a PUA	kɨ¢a	k ɨ ts a	180	k ɨ ts a - -
 473	Cora	Morir	mɨ’ɨ	mɨ’ɨ	m ɨ ʔ ɨ	196	m ɨ ʔ ɨ
 474	Huichol	Morir	mɨiya	mɨiya	m ɨ i j a	196	m ɨ - i + j a
 475	ProtoNahua	Morir	*miki	miki	m i k i	196	m i k i
 476	Tepiman	Morir	muki	muki	m u k i	196	m u k i 
 477	Cahita	Morir	múuke	múuke	m uː k e	196	m uː k e
 478	Tarahumaran	Morir	mukú	mukú	m u k u	196	m u k u
-479	ProtoUtoAztecan	Morir	**muki PUA	muki	m u k i	196	m u - k i
-9	Cora	Muchos	mu’i’í	mu’i’í	m u ʔ iˀi	3	m u ʔ iˀi
-10	Huichol	Muchos	mɨiré (Stubbs)	mɨiré	m ɨ i r e	4	m ɨ i r e
-11	ProtoNahua	Muchos	*mi:yak	mi:yak	m iː j a k	3	m iː j a k -
-12	Tepiman	Muchos	*mui	mui	m u i	3	m u - - - i
+479	ProtoUtoAztecan	Morir	**muki PUA	muki	m u k i	196	m u k i
+9	Cora	Muchos	mu’i’í	mu’i’í	m u ʔ iˀi	3	m uʔ iˀi - -
+10	Huichol	Muchos	mɨiré (Stubbs)	mɨiré	m ɨ i r e	3	m ɨ i r e -
+11	ProtoNahua	Muchos	*mi:yak	mi:yak	m iː j a k	3	m iː - j a k
+12	Tepiman	Muchos	*mui	mui	m u i	3	m u i - - -
 13	Tarahumaran	Muchos	*mu	mu	m u	3	m u - - - -
-14	ProtoUtoAztecan	Muchos	*mu’i:- PUA	mu’i:-	m u ʔ iː	3	m u ʔ - - iː
+14	ProtoUtoAztecan	Muchos	*mu’i:- PUA	mu’i:-	m uʔ iː	3	m uʔ iː - -
 101	Cora	Mujer	ɨíta’a/úka	ɨíta’a	ɨ i t a ʔ a	57	ɨ i t a ʔ - a
 102	Huichol	Mujer	‘uka/	‘uka	ʔ u k a	54	- - ʔ u k - a
 103	ProtoNahua	Mujer	*siwa:-	siwa:-	s i w aː	55	- s i - w aː
@@ -400,25 +400,25 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 105	Tepiman	Mujer	*honiga	honiga	h o n i g a	55	h o n i g a
 106	Cahita	Mujer	*huubi	huubi	h uː b i	57	h uː b i
 107	Tarahumaran	Mujer	*upí	upí	u p i	57	- u p i
-108	ProtoUtoAztecan	Mujer	**sinwa PUA/**uka- PUA	sinwa	s i n w a	54	- - s i n w a
+108	ProtoUtoAztecan	Mujer	**uka- PUA	uka	u k a	54	u k a - - 
 109	ProtoUtoAztecan	Mujer	**sinwa PUA/**uka- PUA	sinwa	s i n w a	55	- s i n w a
-298	Cora	Nariz	¢u’uri	¢u’uri	ts u ʔ u r i	141	- - - - - ts u ʔ u r i
-299	Huichol	Nariz	¢uri	¢uri	ts u r i	141	- - - - - ts u - - r i
-300	ProtoNahua	Nariz	*yeka-¢ol-/*yaka	yeka-¢ol-	j e k a + ts o l	141	j e k a + ts o - - l -
-301	ProtoNahua	Nariz	*yeka-¢ol-/*yaka	yeka-¢ol-	j e k a + ts o l	142	j e k a + ts o l
+298	Cora	Nariz	¢u’uri	¢u’uri	ts uˀu r i	141	- - - - - ts uˀu r i
+299	Huichol	Nariz	¢uri	¢uri	ts u r i	141	- - - - - ts u r i
+300	ProtoNahua	Nariz	*yeka-¢ol-/*yaka	yeka-¢ol-	j e k a + ts o l	141	j e k a + ts o l -
+301	ProtoNahua	Nariz	*yeka	yeka-¢ol-	j e k a + ts o l	142	j e k a + ts o l
 302	Tepiman	Nariz	daak	daak	d aː k	142	d aː k - - - - -
-303	Cahita	Nariz	yéka	yéka	j k a	142	j - k a - - - -
+303	Cahita	Nariz	yéka	yéka	j e k a	142	j e k a - - - -
 304	Tarahumaran	Nariz	yaká	yaká	j a k a	142	j a k a - - - -
-305	ProtoCoracholNahua	Nariz	**¢ori-	¢ori-	ts o r i	141	- - - - - ts o - - r i
+305	ProtoCoracholNahua	Nariz	**¢ori-	¢ori-	ts o r i	141	- - - - - ts o r i
 306	ProtoSouthernUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka	j e k a	141	j e k a - - - - - - -
-307	ProtoSouthernUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka	j e k a	142	j e k a - - - -
-729	Cora	Negro	sú’umwara’a	sú’umwara’a	s u ʔ u mʷ a r a ʔ a	306	s u ʔ u mʷ a r a ʔ a
+307	ProtoSouthernUtoAztecan	Nariz	**¢o ‘snout’ SUA	tso	ts o	142	- - - - - ts o
+729	Cora	Negro	sú’umwara’a	sú’umwara’a	s uˀu mʷ a r aˀa	306	s uˀu mʷ a r aˀa
 730	Huichol	Negro	yɨwi	yɨwi	j ɨ w i	307	j ɨ w i
 731	ProtoNahua	Negro	*ƛil-tik <tɨri/(yowak ‘noche’)	ƛil-tik	tɬ i l + t i k	308	tɬ i l + t i k -
-732	Tepiman	Negro	tuku	tuku	t u k u	309	t u k - - u
+732	Tepiman	Negro	tuku	tuku	t u k u	309	t u k u - -
 733	Cahita	Negro	čukuli	čukuli	tʃ u k u l i	309	tʃ u k u l i
-734	ProtoUtoAztecan	Negro	**tuku/**tuL PUA	tuku	t u k u	308	- - - - t u k u
-735	ProtoUtoAztecan	Negro	**tuku/**tuL PUA	tuku	t u k u	307	t u k u
+734	ProtoUtoAztecan	Negro	tuL PUA	tul	t u l	308	t u l - - - - 
+735	ProtoUtoAztecan	Negro	**tuku/**tuL PUA	tuku	t u k u	309	t u k u
 604	Cora	Nieve/hielo	seeri	seeri	s eː r i	250	s eː r i
 605	Huichol	Nieve/hielo	ɨɨví	ɨɨví	ɨː v i	251	ɨː v i
 606	ProtoNahua	Nieve/hielo	*se	se	s e	250	s e - -
