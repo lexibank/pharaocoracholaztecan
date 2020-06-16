@@ -10,26 +10,26 @@
 | k | 273 | ✓ | ✓ |
 | t | 239 | ✓ | ✓ |
 | e | 213 | ✓ | ✓ |
-| + | 195 | ✓ | ✓ |
+| + | 194 | ✓ | ✓ |
 | o | 153 | ✓ | ✓ |
 | w | 149 | ✓ | ✓ |
 | s | 142 | ✓ | ✓ |
 | u | 136 | ✓ | ✓ |
 | n | 123 | ✓ | ✓ |
-| h | 122 | ✓ | ✓ |
+| h | 121 | ✓ | ✓ |
 | m | 116 | ✓ | ✓ |
 | ɨ | 101 | ✓ | ✓ |
 | j | 95 | ✓ | ✓ |
 | p | 95 | ✓ | ✓ |
-| <<A>> | 93 | ? | ? |
-| <<U>> | 93 | ? | ? |
+| <<A>> | 92 | ? | ? |
+| <<U>> | 92 | ? | ? |
 | r | 90 | ✓ | ✓ |
 | ts | 73 | ✓ | ✓ |
 | <<P>> | 62 | ? | ? |
 | ʔ | 56 | ✓ | ✓ |
 | kʷ | 33 | ✓ | ✓ |
 | l | 33 | ✓ | ✓ |
-| <<S>> | 31 | ? | ? |
+| <<S>> | 30 | ? | ? |
 | eː | 30 | ✓ | ✓ |
 | aː | 27 | ✓ | ✓ |
 | tʃ | 27 | ✓ | ✓ |
@@ -40,8 +40,8 @@
 | ʂ | 19 | ✓ | ✓ |
 | <<<>> | 17 | ? | ? |
 | aˀa | 16 | ✓ | ✓ |
-| d | 15 | ✓ | ✓ |
 | iː | 15 | ✓ | ✓ |
+| d | 14 | ✓ | ✓ |
 | tɬ | 14 | ✓ | ✓ |
 | uː | 14 | ✓ | ✓ |
 | mʷ | 13 | ✓ | ✓ |
@@ -68,7 +68,7 @@
 | <<,>> | 1 | ? | ? |
 | <<T>> | 1 | ? | ? |
 | <<V>> | 1 | ? | ? |
-| <<_>> | 1 | ? | ? |
+| dh | 1 | ✓ | ✓ |
 | eʔ | 1 | ? | ? |
 | iʔ | 1 | ? | ? |
 | tʃʷ | 1 | ✓ | ✓ |
@@ -184,11 +184,11 @@
 | ProtoUtoAztecan-79-lluvia-1 | ProtoUtoAztecan | 79-lluvia | yuku SUA | j u k u + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-79-lluvia-2 | ProtoUtoAztecan | 79-lluvia | wi PUA | w i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-81-piedra-1 | ProtoUtoAztecan | 81-piedra | te SUA | t e + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
+| ProtoUtoAztecan-81-piedra-2 | ProtoUtoAztecan | 81-piedra | tɨ- PUA | t ɨ + + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-9-nuevo-1 | ProtoUtoAztecan | 9-nuevo | hukwa SUA | h u kʷ a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-9-nuevo-2 | ProtoUtoAztecan | 9-nuevo | pɨtuwa PUA | p ɨ t u w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | Tarahumaran-30-piel-1 | Tarahumaran | 30-piel | wi’¢i | w <s> iʔ </s> ts i |
 | Tarahumaran-79-lluvia-1 | Tarahumaran | 79-lluvia | yu’kí | j <s> uʔ </s> k i |
-| Tepiman-15-mujer-1 | Tepiman | 15-mujer | okisi_honiga | o k i s i <s> <<_>> </s> h o n i g a |
 | Tepiman-81-piedra-1 | Tepiman | 81-piedra | hoda < soya? | h o d a + <s> <<<>> </s> + s o j a |
 
 (100 rows)

@@ -84,6 +84,7 @@ class Dataset(BaseDataset):
                     cognatesets = cogsets.get(
                             cognates[i][j+1].strip(),
                             [cognates[i][j+1].strip().upper()])
+
                     for lexeme, cognate in zip(
                             args.writer.add_forms_from_value(
                                 Value=cell.strip(),
@@ -105,7 +106,8 @@ class Dataset(BaseDataset):
                                 counter += 1
                         if languages[language] == 'ProtoUtoAztecan' and 'SUA' \
                                 in cell.strip():
-                                    language = 'SUA'
+                            lexeme['Language_ID'] = languages['SUA']
+
                         args.writer.add_cognate(
                                 lexeme,
                                 Cognateset_ID=cid,
