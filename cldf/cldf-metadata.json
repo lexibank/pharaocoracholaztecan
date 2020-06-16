@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/pharaocoracholaztecan",
-            "dc:created": "06c36b3"
+            "dc:created": "fab992f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 807,
+            "dc:extent": 808,
             "tableSchema": {
                 "columns": [
                     {
@@ -263,7 +263,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 749,
+            "dc:extent": 750,
             "tableSchema": {
                 "columns": [
                     {

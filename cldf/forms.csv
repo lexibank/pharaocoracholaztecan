@@ -113,7 +113,8 @@ Cora-15-mujer-1,,Cora,15-mujer,ɨíta’a/úka,ɨíta’a,ɨ i t aˀa,,Pharao202
 Cora-15-mujer-2,,Cora,15-mujer,ɨíta’a/úka,úka,u k a,,Pharao2020,,,^ ú k a $,default
 Huichol-15-mujer-1,,Huichol,15-mujer,‘uka/,‘uka,ʔ u k a,,Pharao2020,,,^ ‘ u k a $,default
 ProtoNahua-15-mujer-1,,ProtoNahua,15-mujer,*siwa:-,siwa:-,s i w aː,,Pharao2020,,,^ s i w a: -$,default
-Tepiman-15-mujer-1,,Tepiman,15-mujer,*okisi/*honiga,okisi_honiga,o k i s i <<_>> h o n i g a,,Pharao2020,,,^ o k i s i <_> h o n i g a $,default
+Tepiman-15-mujer-1,,Tepiman,15-mujer,*okisi/*honiga,okisi,o k i s i,,Pharao2020,,,^ o k i s i $,default
+Tepiman-15-mujer-2,,Tepiman,15-mujer,*okisi/*honiga,honiga,h o n i g a,,Pharao2020,,,^ h o n i g a $,default
 Cahita-15-mujer-1,,Cahita,15-mujer,*huubi,huubi,h uː b i,,Pharao2020,,,^ h uu b i $,default
 Tarahumaran-15-mujer-1,,Tarahumaran,15-mujer,*upí,upí,u p i,,Pharao2020,,,^ u p í $,default
 ProtoUtoAztecan-15-mujer-1,,ProtoUtoAztecan,15-mujer,**sinwa PUA/**uka- PUA,sinwa PUA,s i n w a + <<P>> <<U>> <<A>>,,Pharao2020,,,^ s i n w a + <P> <U> <A> $,default
@@ -794,7 +795,7 @@ ProtoUtoAztecan-98-nombre-1,,ProtoUtoAztecan,98-nombre,**tɨ(n)wa PUA,tɨwa PUA,
 Cora-99-ano-1,,Cora,99-ano,ruu-sí,ruu-sí,r uː + s i,,Pharao2020,,,^ r uu - s í $,default
 Huichol-99-ano-1,,Huichol,99-ano,wi-yari,wi-yari,w i + j a r i,,Pharao2020,,,^ w i - ya r i $,default
 ProtoNahua-99-ano-1,,ProtoNahua,99-ano,*šiwi-,šiwi-,ʃ i w i,,Pharao2020,,,^ š i w i -$,default
-Tepiman-99-ano-1,,Tepiman,99-ano,oidha <wiya,oidha,o i d h a,,Pharao2020,,,^ oi d h a $,default
+Tepiman-99-ano-1,,Tepiman,99-ano,oidha <wiya,oidha,o i dh a,,Pharao2020,,,^ oidha $,default
 Cahita-99-ano-1,,Cahita,99-ano,wasuk-,wasuk-,w a s u k,,Pharao2020,,,^ w a s u k -$,default
 Tarahumaran-99-ano-1,,Tarahumaran,99-ano,pamí,pamí,p a m i,,Pharao2020,,,^ p a m í $,default
 ProtoCoracholNahua-99-ano-1,,ProtoCoracholNahua,99-ano,**si-wi,si-wi,s i + w i,,Pharao2020,,,^ s i - w i $,default
