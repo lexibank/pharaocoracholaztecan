@@ -5,77 +5,104 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 612 | ✓ | ✓ |
-| i | 409 | ✓ | ✓ |
-| k | 269 | ✓ | ✓ |
+| a | 567 | ✓ | ✓ |
+| i | 400 | ✓ | ✓ |
+| k | 273 | ✓ | ✓ |
 | t | 239 | ✓ | ✓ |
-| e | 230 | ✓ | ✓ |
-| o | 171 | ✓ | ✓ |
-| u | 162 | ✓ | ✓ |
-| w | 151 | ✓ | ✓ |
+| e | 213 | ✓ | ✓ |
+| o | 153 | ✓ | ✓ |
+| w | 149 | ✓ | ✓ |
 | s | 142 | ✓ | ✓ |
-| h | 123 | ✓ | ✓ |
+| u | 136 | ✓ | ✓ |
 | n | 123 | ✓ | ✓ |
+| h | 122 | ✓ | ✓ |
 | m | 116 | ✓ | ✓ |
-| ʔ | 111 | ✓ | ✓ |
-| ɨ | 106 | ✓ | ✓ |
-| p | 101 | ✓ | ✓ |
+| ɨ | 101 | ✓ | ✓ |
+| j | 95 | ✓ | ✓ |
+| p | 95 | ✓ | ✓ |
 | <<A>> | 93 | ? | ? |
 | <<U>> | 93 | ? | ? |
-| j | 93 | ✓ | ✓ |
-| r | 89 | ✓ | ✓ |
+| r | 90 | ✓ | ✓ |
 | ts | 73 | ✓ | ✓ |
 | <<P>> | 62 | ? | ? |
+| ʔ | 56 | ✓ | ✓ |
 | + | 44 | ✓ | ✓ |
 | kʷ | 33 | ✓ | ✓ |
 | l | 33 | ✓ | ✓ |
 | <<S>> | 31 | ? | ? |
+| eː | 30 | ✓ | ✓ |
 | aː | 27 | ✓ | ✓ |
-| eː | 27 | ✓ | ✓ |
 | tʃ | 27 | ✓ | ✓ |
 | v | 24 | ✓ | ✓ |
 | g | 23 | ✓ | ✓ |
 | b | 22 | ✓ | ✓ |
+| ai | 20 | ✓ | ✓ |
 | ʂ | 19 | ✓ | ✓ |
 | <<<>> | 17 | ? | ? |
-| ai | 17 | ✓ | ✓ |
+| aˀa | 16 | ✓ | ✓ |
 | d | 15 | ✓ | ✓ |
-| iː | 14 | ✓ | ✓ |
+| iː | 15 | ✓ | ✓ |
 | tɬ | 14 | ✓ | ✓ |
 | uː | 14 | ✓ | ✓ |
 | mʷ | 13 | ✓ | ✓ |
 | ʃ | 11 | ✓ | ✓ |
 | oː | 10 | ✓ | ✓ |
+| oˀo | 9 | ✓ | ✓ |
+| uˀu | 9 | ✓ | ✓ |
+| eˀe | 8 | ✓ | ✓ |
 | ɨː | 7 | ✓ | ✓ |
+| NULL | 6 | ? | ? |
+| au | 6 | ✓ | ✓ |
 | bʷ | 6 | ✓ | ✓ |
 | ŋ | 4 | ✓ | ✓ |
 | <<è>> | 3 | ? | ? |
+| aw | 3 | ? | ? |
+| ei | 3 | ✓ | ✓ |
+| iˀi | 3 | ✓ | ✓ |
+| pp | 3 | ✓ | ✓ |
 | pʷ | 3 | ✓ | ✓ |
+| uʔ | 3 | ? | ? |
+| ɨˀɨ | 3 | ✓ | ✓ |
 | ʟ | 3 | ✓ | ✓ |
+| aʔ | 2 | ? | ? |
 | <<,>> | 1 | ? | ? |
 | <<T>> | 1 | ? | ? |
 | <<V>> | 1 | ? | ? |
+| <<_>> | 1 | ? | ? |
+| eʔ | 1 | ? | ? |
+| iʔ | 1 | ? | ? |
 | tʃʷ | 1 | ✓ | ✓ |
 
-(51 rows)
+(67 rows)
 
 
 
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|:--------------------|:-----------|:----------|:-------|
-| Huichol-79-lluvia-1 | Huichol | 79-lluvia | wiyeri |
+|------|------------|-----------|--------|
 
-(1 rows)
+(0 rows)
 
 
 
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------|:----------------|:----------------|:---------|:---------------------------------------------|
+|:----------------------------------|:-------------------|:----------------|:-------------|:---------------------------------------------|
+| Cora-12-seco-1 | Cora | 12-seco | -wa¢i- | <s> NULL </s> w a ts i |
+| Cora-2-muchos-1 | Cora | 2-muchos | mu’i’í | m <s> uʔ </s> iˀi |
+| Cora-29-carne-1 | Cora | 29-carne | wa’í-raa | w <s> aʔ </s> i + r aː |
+| Cora-33-huevo-1 | Cora | 33-huevo | ta’ú | t <s> aʔ </s> u |
+| Cora-55-tomar-1 | Cora | 55-tomar | -í’i- | <s> NULL </s> iˀi |
+| Cora-64-matar-1 | Cora | 64-matar | he’ika | h <s> eʔ </s> i k a |
+| Cora-66-caminar-1 | Cora | 66-caminar | -yeiwe | <s> NULL </s> j w e |
+| Cora-67-come-1 | Cora | 67-come | -bé’ene | <s> NULL </s> b eˀe n e |
 | Cora-69-sentado-2 | Cora | 69-sentado | < | <s> <<<>> </s> |
+| Cora-70-parado-1 | Cora | 70-parado | -téhebee | <s> NULL </s> t e h e b eː |
+| Huichol-33-huevo-1 | Huichol | 33-huevo | tawari | t <s> aw </s> a r i |
+| ProtoCoracholNahua-33-huevo-1 | ProtoCoracholNahua | 33-huevo | tawari | t <s> aw </s> a r i |
+| ProtoNahua-17-persona-1 | ProtoNahua | 17-persona | -te:- | <s> NULL </s> t eː |
 | ProtoNahua-28-sangre-2 | ProtoNahua | 28-sangre | <pauso | <s> <<<>> </s> p a u s o |
 | ProtoNahua-38-cabeza-3 | ProtoNahua | 38-cabeza | < | <s> <<<>> </s> |
 | ProtoNahua-39-oreja-2 | ProtoNahua | 39-oreja | <nakasV | <s> <<<>> </s> n a k a s <s> <<V>> </s> |
@@ -86,8 +113,6 @@
 | ProtoNahua-70-parado-3 | ProtoNahua | 70-parado | kèká | k <s> <<è>> </s> k a |
 | ProtoNahua-76-cielo-2 | ProtoNahua | 76-cielo | < | <s> <<<>> </s> |
 | ProtoNahua-76-cielo-3 | ProtoNahua | 76-cielo | ƛèwíka | tɬ <s> <<è>> </s> w i k a |
-| ProtoNahua-83-tierra-2 | ProtoNahua | 83-tierra | < | <s> <<<>> </s> |
-| ProtoNahua-84-sal-2 | ProtoNahua | 84-sal | < | <s> <<<>> </s> |
 | ProtoUtoAztecan-11-pesado-2 | ProtoUtoAztecan | 11-pesado | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-12-seco-2 | ProtoUtoAztecan | 12-seco | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-13-friohacefrio-2 | ProtoUtoAztecan | 13-friohacefrio | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
@@ -99,6 +124,7 @@
 | ProtoUtoAztecan-18-pez-2 | ProtoUtoAztecan | 18-pez | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-18-pez-4 | ProtoUtoAztecan | 18-pez | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-19-pajaro-2 | ProtoUtoAztecan | 19-pajaro | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
+| ProtoUtoAztecan-2-muchos-1 | ProtoUtoAztecan | 2-muchos | mu’i:- | m <s> uʔ </s> iː |
 | ProtoUtoAztecan-2-muchos-2 | ProtoUtoAztecan | 2-muchos | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-20-perro-2 | ProtoUtoAztecan | 20-perro | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-21-piojo-2 | ProtoUtoAztecan | 21-piojo | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
@@ -152,6 +178,7 @@
 | ProtoUtoAztecan-69-sentado-2 | ProtoUtoAztecan | 69-sentado | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-71-dar-2 | ProtoUtoAztecan | 71-dar | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-72-cantar-2 | ProtoUtoAztecan | 72-cantar | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
+| ProtoUtoAztecan-73-sol-1 | ProtoUtoAztecan | 73-sol | tawa | t <s> aw </s> a |
 | ProtoUtoAztecan-73-sol-2 | ProtoUtoAztecan | 73-sol | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-74-luna-2 | ProtoUtoAztecan | 74-luna | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-75-estrella-2 | ProtoUtoAztecan | 75-estrella | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
@@ -159,22 +186,10 @@
 | ProtoUtoAztecan-77-agua-2 | ProtoUtoAztecan | 77-agua | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-77-agua-4 | ProtoUtoAztecan | 77-agua | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-78-viento-2 | ProtoUtoAztecan | 78-viento | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-79-lluvia-2 | ProtoUtoAztecan | 79-lluvia | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-79-lluvia-4 | ProtoUtoAztecan | 79-lluvia | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-81-piedra-2 | ProtoUtoAztecan | 81-piedra | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-81-piedra-4 | ProtoUtoAztecan | 81-piedra | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-82-arena-2 | ProtoUtoAztecan | 82-arena | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-83-tierra-2 | ProtoUtoAztecan | 83-tierra | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-83-tierra-4 | ProtoUtoAztecan | 83-tierra | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-84-sal-2 | ProtoUtoAztecan | 84-sal | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-84-sal-6 | ProtoUtoAztecan | 84-sal | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-85-nube-3 | ProtoUtoAztecan | 85-nube | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-85-nube-5 | ProtoUtoAztecan | 85-nube | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-87-fuego-2 | ProtoUtoAztecan | 87-fuego | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-9-nuevo-2 | ProtoUtoAztecan | 9-nuevo | SUA | <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s> |
 | ProtoUtoAztecan-9-nuevo-4 | ProtoUtoAztecan | 9-nuevo | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| ProtoUtoAztecan-90-camino-2 | ProtoUtoAztecan | 90-camino | PUA | <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s> |
-| Tepiman-81-piedra-2 | Tepiman | 81-piedra | < | <s> <<<>> </s> |
+| Tarahumaran-30-piel-1 | Tarahumaran | 30-piel | wi’¢i | w <s> iʔ </s> ts i |
+| Tepiman-15-mujer-1 | Tepiman | 15-mujer | okisi_honiga | o k i s i <s> <<_>> </s> h o n i g a |
 
 (100 rows)
 

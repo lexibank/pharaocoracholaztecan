@@ -1,7 +1,7 @@
 LEXEME	REPLACEMENT	Comment
 mu’i:- PUA	mu’i:	Invalid multi-word string: mu’i:- PUA (1 cases)
 heme tubar	heme	Invalid multi-word string: heme tubar (1 cases)
-wo- SUA	wo	Invalid multi-word string: wo- SUA (1 cases)
+wo- SUA	wo	wo- SUA (1 cases)
 wɨL- SUA	wɨL	Invalid multi-word string: wɨL- SUA (1 cases)
 hukwa SUA	hukwa	Invalid multi-word string: hukwa SUA (2 cases)
 pɨttɨ PUA	pɨttɨ	Invalid multi-word string: pɨttɨ PUA (1 cases)
@@ -85,3 +85,7 @@ tòsá PUA	tòsá	Invalid multi-word string: tòsá PUA (2 cases)
 yuppa PUA	yuppa	Invalid multi-word string: yuppa PUA (2 cases)
 tɨwa PUA	tɨwa	Invalid multi-word string: tɨwa PUA (1 cases)
 oidha <wiya	oidha	Invalid multi-word string: oidha <wiya (1 cases)
+¢on-tekoma	kwaː	
+huká/huti?(Ortega 1973)/	ɨhti	
+*okisi/*honiga	okisi_honiga
+tyevi tevi

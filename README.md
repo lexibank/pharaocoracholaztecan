@@ -20,20 +20,20 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 82%](https://img.shields.io/badge/BIPA-82%25-yellowgreen.svg "BIPA: 82%")
-![CLTS SoundClass: 82%](https://img.shields.io/badge/CLTS%20SoundClass-82%25-yellowgreen.svg "CLTS SoundClass: 82%")
+![BIPA: 76%](https://img.shields.io/badge/BIPA-76%25-yellow.svg "BIPA: 76%")
+![CLTS SoundClass: 76%](https://img.shields.io/badge/CLTS%20SoundClass-76%25-yellow.svg "CLTS SoundClass: 76%")
 
 - **Varieties:** 8
 - **Concepts:** 100
-- **Lexemes:** 951
+- **Lexemes:** 949
 - **Sources:** 1
-- **Synonymy:** 1.31
-- **Cognacy:** 758 cognates in 250 cognate sets (96 singletons)
+- **Synonymy:** 1.30
+- **Cognacy:** 756 cognates in 249 cognate sets (95 singletons)
 - **Cognate Diversity:** 0.18
-- **Invalid lexemes:** 1
-- **Tokens:** 4,033
-- **Segments:** 51 (9 BIPA errors, 9 CTLS sound class errors, 42 CLTS modified)
-- **Inventory size (avg):** 29.50
+- **Invalid lexemes:** 0
+- **Tokens:** 3,940
+- **Segments:** 67 (16 BIPA errors, 16 CTLS sound class errors, 51 CLTS modified)
+- **Inventory size (avg):** 34.00
 
 # Contributors
 
