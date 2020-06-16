@@ -25,15 +25,15 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 
 - **Varieties:** 8
 - **Concepts:** 100
-- **Lexemes:** 949
+- **Lexemes:** 807
 - **Sources:** 1
-- **Synonymy:** 1.30
-- **Cognacy:** 756 cognates in 249 cognate sets (95 singletons)
-- **Cognate Diversity:** 0.18
+- **Synonymy:** 1.12
+- **Cognacy:** 749 cognates in 249 cognate sets (99 singletons)
+- **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 3,940
+- **Tokens:** 4,091
 - **Segments:** 67 (16 BIPA errors, 16 CTLS sound class errors, 51 CLTS modified)
-- **Inventory size (avg):** 34.00
+- **Inventory size (avg):** 34.25
 
 # Contributors
 
