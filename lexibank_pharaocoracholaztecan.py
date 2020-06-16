@@ -20,7 +20,7 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     form_spec = FormSpec(
             separators="/ ",
-            first_form_only=True,
+            first_form_only=False,
             replacements=[("*", "")]
             )
 
@@ -84,7 +84,14 @@ class Dataset(BaseDataset):
                     cognatesets = cogsets.get(
                             cognates[i][j+1].strip(),
                             [cognates[i][j+1].strip().upper()])
-                    for cognate in cognatesets:
+                    for lexeme, cognate in zip(
+                            args.writer.add_forms_from_value(
+                                Value=cell.strip(),
+                                Language_ID=languages[language],
+                                Parameter_ID=concepts[line[1]],
+                                Source=['Pharao2020']
+                                ),
+                            cognatesets):
                         if cognate in ['?', '-']:
                             cid = counter
                             counter += 1
@@ -99,16 +106,10 @@ class Dataset(BaseDataset):
                         if languages[language] == 'ProtoUtoAztecan' and 'SUA' \
                                 in cell.strip():
                                     language = 'SUA'
-                        for lexeme in args.writer.add_forms_from_value(
-                                Value=cell.strip(),
-                                Language_ID=languages[language],
-                                Parameter_ID=concepts[line[1]],
-                                Source=['Pharao2020']
-                                ):
-                            args.writer.add_cognate(
-                                    lexeme,
-                                    Cognateset_ID=cid,
-                                    Source=['Pharao2020'])
+                        args.writer.add_cognate(
+                                lexeme,
+                                Cognateset_ID=cid,
+                                Source=['Pharao2020'])
 
 
 

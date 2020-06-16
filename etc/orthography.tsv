@@ -1,4 +1,6 @@
 Grapheme	IPA	CLTS	Frequency	Examples
+^	NULL
+$	NULL
 ?	NULL	?	4	?bástakɨra’i?, ?tabí?
 ^-	NULL
 -$	NULL
@@ -48,7 +50,7 @@ ii	iː	long unrounded close front vowel	6	biite, gii, ii
 iu	i u	from unrounded close front to rounded close back diphthong	1	sɨéheniu’ukari
 iy	i	unrounded close front vowel	1	siyó-
 iya	i j a	unrounded close front vowel	12	bwiya, iya, iyari
-iye	i j e	unrounded close front vowel	1	wiyeri
+iye	ihttps://digling.org/calc/profile/ j e	unrounded close front vowel	1	wiyeri
 ií	i	unrounded close front vowel	1	iínee
 iɨ	i ɨ	from unrounded close front to unrounded close central diphthong	2	vasiɨȿa’a, ¢iɨraye
 k	k	voiceless velar stop consonant	200	?bástakɨra’i?, ake, baakot
