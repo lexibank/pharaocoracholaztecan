@@ -6,7 +6,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 550	Cahita	Acostado	bó’oka	bó’oka	b oˀo k a	162	- - - - - b oˀo - - - - - k a
 551	Tarahumaran	Acostado	po’i	po’i	p o ʔ i	162	- - - - - p o - - - - - ʔ i
 552	ProtoCoracholNahua	Acostado	**wáukà	wáukà	w au k a	162	- - - - - w au - - - - - k a
-553	ProtoUtoAztecan	Acostado	**wo SUA	wo SUA	w o + <<S>> <<U>> <<A>>	162	- - - - - w o + <<S>> <<U>> <<A>> - - -
+553	ProtoSouthernUtoAztecan	Acostado	**wo SUA	wo SUA	w o + <<S>> <<U>> <<A>>	162	- - - - - w o + <<S>> <<U>> <<A>> - - -
 614	Cora	Agua	hah	hah	h a h	184	h a - - - h
 615	Huichol	Agua	ha	ha	h a	184	h a - - - -
 616	ProtoNahua	Agua	*a:-	a:-	aː	184	- aː - - - -
@@ -14,7 +14,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 618	Cahita	Agua	báa	báa	b aː	184	b aː - - - -
 619	Tarahumaran	Agua	pawí	pawí	p a w i	184	p a - w i -
 620	ProtoCoracholNahua	Agua	**ha:	ha:	h aː	184	h aː - - - -
-621	ProtoUtoAztecan	Agua	*pa: PUA/*wa SUA	pa: PUA	p aː + <<P>> <<U>> <<A>>	184	p aː + <<P>> <<U>> <<A>>
+621	ProtoSouthernUtoAztecan	Agua	*pa: PUA/*wa SUA	pa: PUA	p aː + <<P>> <<U>> <<A>>	184	p aː + <<P>> <<U>> <<A>>
 622	ProtoUtoAztecan	Agua	*pa: PUA/*wa SUA	wa SUA	w a + <<S>> <<U>> <<A>>	0	w a + <<S>> <<U>> <<A>>
 756	Cora	Amarillo	taúmwa	taúmwa	t a u mʷ a	229	t a u mʷ a
 757	Huichol	Amarillo	taʂaiye	taʂaiye	t a ʂ ai j e	230	t a ʂ ai j e
@@ -22,14 +22,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 759	Tepiman	Amarillo	oam	oam	o a m	232	o a m
 760	Cahita	Amarillo	sawá	sawá	s a w a	233	s a w a
 761	Tarahumaran	Amarillo	sawa-	sawa-	s a w a	233	s a w a
-762	ProtoUtoAztecan	Amarillo	*kosawa SUA?	kosawa SUA?	k o s a w a + <<S>> <<U>> <<A>>	231	k o s a w a + <<S>> <<U>> <<A>>
+762	ProtoSouthernUtoAztecan	Amarillo	*kosawa SUA?	kosawa SUA?	k o s a w a + <<S>> <<U>> <<A>>	231	k o s a w a + <<S>> <<U>> <<A>>
 181	Cora	Arbol	kɨyé	kɨyé	k ɨ	60	k ɨ - - - - - - - - - -
 182	Huichol	Arbol	kɨye	kɨye	k ɨ j e	60	k ɨ - j e - - - - - - -
 183	ProtoNahua	Arbol	*kwaw-	kwaw-	kʷ a w	60	kʷ a - w - - - - - - - -
 184	Tepiman	Arbol	*ku’agi	ku’agi	k u ʔ a g i	60	k u ʔ - a - g i - - - -
 185	Cahita	Arbol	*kútta	kútta	k u t t a	60	k u t t a - - - - - - -
 186	Tarahumaran	Arbol	kuu	kuu	k uː	60	k uː - - - - - - - - - -
-187	ProtoUtoAztecan	Arbol	**kua-wi SUA	kua-wi SUA	k u a + w i + <<S>> <<U>> <<A>>	60	k u - - a + w i + <<S>> <<U>> <<A>>
+187	ProtoSouthernUtoAztecan	Arbol	**kua-wi SUA	kua-wi SUA	k u a + w i + <<S>> <<U>> <<A>>	60	k u - - a + w i + <<S>> <<U>> <<A>>
 714	Huichol	Arder/quemar	tai-riya	tai-riya	t ai + r i j a	214	t ai - - - + r i j a
 715	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛatia	tɬ a t i a	214	tɬ a t i a - - - - -
 716	ProtoNahua	Arder/quemar	*ƛatia/*ƛaƛa	ƛaƛa	tɬ a tɬ a	214	tɬ a tɬ - a - - - - -
@@ -37,15 +37,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 718	Cahita	Arder/quemar	táha	táha	t a h a	214	t a h - a - - - - -
 719	Tarahumaran	Arder/quemar	tahá	tahá	t a h a	214	t a h - a - - - - -
 720	ProtoCoracholNahua	Arder/quemar	**taitia	taitia	t ai t i a	214	t ai t i a - - - - -
-657	Cora	Arena	seh	seh	s e h	197	s e - h - - - - -
-658	Huichol	Arena	ʂiekari	ʂiekari	ʂ i e k a r i	197	ʂ i e k a - - r i
-659	ProtoNahua	Arena	*ša:l-	ša:l-	ʃ aː l	197	ʃ aː - l - - - - -
+657	Cora	Arena	seh	seh	s e h	197	s e - h - - -
+658	Huichol	Arena	ʂiekari	ʂiekari	ʂ i e k a r i	197	ʂ i e k a r i
+659	ProtoNahua	Arena	*ša:l-	ša:l-	ʃ aː l	197	ʃ aː - l - - -
 660	Tepiman	Arena	orai	orai	o r ai	198	o r ai
-661	Cahita	Arena	sée’e	sée’e	s eː ʔ e	197	s eː - ʔ e - - - -
-662	Tarahumaran	Arena	saté/seté	saté	s a t e	197	s a - t e - - - -
+661	Cahita	Arena	sée’e	sée’e	s eː ʔ e	197	s eː - ʔ e - -
+662	Tarahumaran	Arena	saté/seté	saté	s a t e	197	s a - t e - -
 663	Tarahumaran	Arena	saté/seté	seté	s e t e	0	s e t e
-664	ProtoCoracholNahua	Arena	**sihar-	sihar-	s i h a r	197	s i - h a - - r -
-665	ProtoUtoAztecan	Arena	*siCa SUA/sihat tubar	siCa SUA	s i ts a + <<S>> <<U>> <<A>>	197	s i - ts a + <<S>> <<U>> <<A>>
+664	ProtoCoracholNahua	Arena	**sihar-	sihar-	s i h a r	197	s i - h a r -
+665	ProtoSouthernUtoAztecan	Arena	*siCa SUA/sihat tubar	siCa_SUA	s i ts a	197	s i - ts a - -
 666	ProtoUtoAztecan	Arena	*siCa SUA/sihat tubar	sihat tubar	s i h a t + t u b a r	0	s i h a t + t u b a r
 794	Cora	Año	ruu-sí	ruu-sí	r uː + s i	243	r uː + s i - - - - -
 795	Huichol	Año	wi-yari	wi-yari	w i + j a r i	244	w - i - - + j a r i
@@ -128,7 +128,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 725	Cahita	Camino	vó’o	vó’o	v oˀo	216	- v oˀo - - - - - -
 726	Tarahumaran	Camino	powé	powé	p o w e	216	- p o w e - - - -
 727	ProtoCoracholNahua	Camino	**ho-ye	ho-ye	h o + j e	216	- h o - - + j e -
-728	ProtoUtoAztecan	Camino	**po PUA//**wo SUA	po PUA	p o + <<P>> <<U>> <<A>>	216	- p o - - + <<P>> <<U>> <<A>>
+728	ProtoSouthernUtoAztecan	Camino	**po PUA//**wo SUA	po PUA	p o + <<P>> <<U>> <<A>>	216	- p o - - + <<P>> <<U>> <<A>>
 729	ProtoUtoAztecan	Camino	**po PUA//**wo SUA	wo SUA	w o + <<S>> <<U>> <<A>>	0	w o + <<S>> <<U>> <<A>>
 576	Cora	Cantar	čwíka	čwíka	tʃʷ i k a	172	tʃʷ i k - - - - - a
 577	Huichol	Cantar	kwikariya	kwikariya	kʷ i k a r i j a	172	kʷ i k a - r i j a
@@ -157,14 +157,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 734	Cahita	Cerro	káwi	káwi	k a w i	220	k a w i
 735	Tarahumaran	Cerro	kawí	kawí	k a w i	220	k a w i
 736	ProtoCoracholNahua	Cerro	**te-pɨ:ti	te-pɨ:ti	t e + p ɨː t i	221	t e + p ɨː t i
-737	ProtoUtoAztecan	Cerro	**hu-ya SUA	hu-ya SUA	h u + j a + <<S>> <<U>> <<A>>	217	h u - - + j a + <<S>> <<U>> <<A>> - - - - - -
+737	ProtoSouthernUtoAztecan	Cerro	**hu-ya SUA	hu-ya SUA	h u + j a + <<S>> <<U>> <<A>>	217	h u - - + j a + <<S>> <<U>> <<A>> - - - - - -
 607	Cora	Cielo	tahapwá	tahapwá	t a h a pʷ a	181	t a h a pʷ a
 608	Huichol	Cielo	muyuawi¢ie	muyuawi¢ie	m u j u a w i ts i e	182	m u j u a w i ts i e
 609	ProtoNahua	Cielo	*ilwika- < ƛèwíka	ilwika- < ƛèwíka	i l w i k a + + <<<>> + tɬ <<è>> w i k a	183	i l w i k a + + <<<>> + tɬ <<è>> w i k a - - - -
 610	Tepiman	Cielo	tɨvagi	tɨvagi	t ɨ v a g i	183	- - - - - - - - - - t ɨ v a g i - - - -
 611	Cahita	Cielo	téeka	téeka	t eː k a	183	- - - - - - - - - - t - - eː k a - - - -
 612	Tarahumaran	Cielo	teweká	teweká	t e w e k a	183	- - - - - - - - - - t e w e k a - - - -
-613	ProtoUtoAztecan	Cielo	**tawika SUA	tawika SUA	t a w i k a + <<S>> <<U>> <<A>>	183	- - - - - - - - - - t a w i k a + <<S>> <<U>> <<A>>
+613	ProtoSouthernUtoAztecan	Cielo	**tawika SUA	tawika SUA	t a w i k a + <<S>> <<U>> <<A>>	183	- - - - - - - - - - t a w i k a + <<S>> <<U>> <<A>>
 275	Cora	Cola	kwasí	kwasí	kʷ a s i	91	kʷ a - s i - - - -
 276	Huichol	Cola	kwaʂi	kwaʂi	kʷ a ʂ i	91	kʷ a - ʂ i - - - -
 277	ProtoNahua	Cola	*kwitlapil-/(*kwaš-/kweš ‘skirt/taparrabo*)	kwitlapil-	kʷ i t l a p i l	92	kʷ i t l a p i l
@@ -178,7 +178,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 542	Tepiman	Come	*yɨwa	yɨwa	j ɨ w a	160	j ɨ w - a
 543	Cahita	Come	yépsa	yépsa	j e p s a	160	j e p s a
 544	Tarahumaran	Come	noite	noite	n o i t e	161	n o i t e
-545	ProtoUtoAztecan	Come	**yiwa SUA	yiwa SUA	j i w a + <<S>> <<U>> <<A>>	158	j i w a + <<S>> <<U>> <<A>>
+545	ProtoSouthernUtoAztecan	Come	**yiwa SUA	yiwa SUA	j i w a + <<S>> <<U>> <<A>>	158	j i w a + <<S>> <<U>> <<A>>
 450	Cora	Comer	kwá	kwá	kʷ a	135	kʷ a - - - -
 451	Huichol	Comer	kwai-ya	kwai-ya	kʷ ai + j a	135	kʷ ai + j a -
 452	ProtoNahua	Comer	*kwa:	kwa:	kʷ aː	135	kʷ aː - - - -
@@ -228,14 +228,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 346	Tepiman	Diente	tama	tama	t a m a	108	t a m a - - - -
 347	Cahita	Diente	támi	támi	t a m i	108	t a m i - - - -
 348	Tarahumaran	Diente	tamé	tamé	t a m e	108	t a m e - - - -
-349	ProtoUtoAztecan	Diente	**tame SUA	tame SUA	t a m e + <<S>> <<U>> <<A>>	108	t a m e + <<S>> <<U>> <<A>>
+349	ProtoSouthernUtoAztecan	Diente	**tame SUA	tame SUA	t a m e + <<S>> <<U>> <<A>>	108	t a m e + <<S>> <<U>> <<A>>
 499	Cora	Dormir	ku¢i	ku¢i	k u ts i	146	k u - ts i - - - - -
 500	Huichol	Dormir	ku¢i	ku¢i	k u ts i	146	k u - ts i - - - - -
 501	ProtoNahua	Dormir	*koči	koči	k o tʃ i	146	k o - tʃ i - - - - -
 502	Tepiman	Dormir	koosig	koosig	k oː s i g	146	k oː - s i g - - - -
 503	Cahita	Dormir	kotče	kotče	k o t tʃ e	146	k o t tʃ e - - - - -
 504	Tarahumaran	Dormir	ko¢i-	ko¢i-	k o ts i	146	k o - ts i - - - - -
-505	ProtoUtoAztecan	Dormir	**ko¢i SUA	ko¢i SUA	k o ts i + <<S>> <<U>> <<A>>	146	k o - ts i - + <<S>> <<U>> <<A>>
+505	ProtoSouthernUtoAztecan	Dormir	**ko¢i SUA	ko¢i SUA	k o ts i + <<S>> <<U>> <<A>>	146	k o - ts i - + <<S>> <<U>> <<A>>
 28	Cora	Dos	wá’apwa	wá’apwa	w aˀa pʷ a	7	w aˀa pʷ a
 29	Huichol	Dos	huuta	huuta	h uː t a	7	h uː t a
 30	ProtoNahua	Dos	*o:me	o:me	oː m e	7	- oː m e
@@ -243,7 +243,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 32	Cahita	Dos	*woyi	woyi	w o j i	7	w o j i
 33	Tarahumaran	Dos	*woka	woka	w o k a	7	w o k a
 34	ProtoCoracholNahua	Dos	**wapu-	wapu-	w a p u	7	w a p u
-35	ProtoUtoAztecan	Dos	*wo- SUA/(*wapulai ‘different/other’ cahita)	wo- SUA	w o + + <<S>> <<U>> <<A>>	8	w o + + <<S>> <<U>> <<A>>
+35	ProtoSouthernUtoAztecan	Dos	*wo- SUA/(*wapulai ‘different/other’ cahita)	wo- SUA	w o + + <<S>> <<U>> <<A>>	8	w o + + <<S>> <<U>> <<A>>
 598	Cora	Estrella	sú’ura’abe	sú’ura’abe	s uˀu r aˀa b e	178	s uˀu r aˀa b e - - - -
 599	Huichol	Estrella	ʂurawe	ʂurawe	ʂ u r a w e	178	ʂ u r a w e - - - -
 600	ProtoNahua	Estrella	*sital-	sital-	s i t a l	178	s i t a l - - - - -
@@ -277,7 +277,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 40	Cahita	Grande	*bweru	bweru	bʷ e r u	9	bʷ e r u - - - - -
 41	Tarahumaran	Grande	*weru	weru	w e r u	9	w e r u - - - - -
 42	ProtoCoracholNahua	Grande	*we:-	we:-	w eː	9	w eː - - - - - - -
-43	ProtoUtoAztecan	Grande	*wɨL- SUA	wɨL- SUA	w ɨ ʟ + + <<S>> <<U>> <<A>>	9	w ɨ ʟ - + + <<S>> <<U>> <<A>>
+43	ProtoSouthernUtoAztecan	Grande	*wɨL- SUA	wɨL- SUA	w ɨ ʟ + + <<S>> <<U>> <<A>>	9	w ɨ ʟ - + + <<S>> <<U>> <<A>>
 249	Cora	Grasa	neéčira’a	neéčira’a	n eː tʃ i r aˀa	84	n eː tʃ i r - - aˀa
 250	Huichol	Grasa	wi:ya	wi:ya	w iː j a	85	- w iː j a - - - -
 251	ProtoNahua	Grasa	*čiyawa-	čiyawa-	tʃ i j a w a	84	- - tʃ i j a w a
@@ -300,7 +300,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 197	Tepiman	Hoja	*haga	haga	h a g a	65	- h a g a - - - -
 198	Cahita	Hoja	sáwa	sáwa	s a w a	65	- s a w a - - - -
 199	Tarahumaran	Hoja	sawá	sawá	s a w a	65	- s a w a - - - -
-200	ProtoUtoAztecan	Hoja	**sàmwá SUA	sàmwá SUA	s a mʷ a + <<S>> <<U>> <<A>>	65	- s a mʷ a + <<S>> <<U>> <<A>>
+200	ProtoSouthernUtoAztecan	Hoja	**sàmwá SUA	sàmwá SUA	s a mʷ a + <<S>> <<U>> <<A>>	65	- s a mʷ a + <<S>> <<U>> <<A>>
 121	Cora	Hombre	taáta/téteka/ukira¢i ‘old man’	taáta	t a t a	40	- t a t a - - - - - - - - - - -
 122	Cora	Hombre	taáta/téteka/ukira¢i ‘old man’	téteka	t e t e k a	0	t e t e k a
 123	Cora	Hombre	taáta/téteka/ukira¢i ‘old man’	ukira¢i ‘old man’	u k i r a ts i + ʔ o l d + m a n ʔ	0	u k i r a ts i + ʔ o l d + m a n ʔ
@@ -312,8 +312,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 129	Tarahumaran	Hombre	*tihoe/*owi	tihoe	t i h o e	41	t i h o - e - - - - - - - - - - - -
 130	Tarahumaran	Hombre	*tihoe/*owi	owi	o w i	0	o w i
 131	ProtoCoracholNahua	Hombre	**oki¢i	oki¢i	o k i ts i	40	o k i ts i - - - - - - - - - - -
-132	ProtoUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oki¢i ‘girl’ SUA	o k i ts i + ʔ g i r l ʔ + <<S>> <<U>> <<A>>	40	o k i ts i + ʔ g i r l ʔ + <<S>> <<U>> <<A>>
-133	ProtoUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oka¢i ‘woman’ PUA	o k a ts i + ʔ w o m a n ʔ + <<P>> <<U>> <<A>>	41	- o k a ts i + ʔ w o m a n ʔ + <<P>> <<U>> <<A>>
+132	ProtoSouthernUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oki¢i ‘girl’ SUA	o k i ts i + ʔ g i r l ʔ + <<S>> <<U>> <<A>>	40	o k i ts i + ʔ g i r l ʔ + <<S>> <<U>> <<A>>
+133	ProtoSouthernUtoAztecan	Hombre	**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA	oka¢i ‘woman’ PUA	o k a ts i + ʔ w o m a n ʔ + <<P>> <<U>> <<A>>	41	- o k a ts i + ʔ w o m a n ʔ + <<P>> <<U>> <<A>>
 242	Cora	Hueso	karíh	karíh	k a r i h	82	k a r i h
 243	Huichol	Hueso	u:me	u:me	uː m e	83	- - uː m e - - - -
 244	ProtoNahua	Hueso	*omi-	omi-	o m i	83	- - o m i - - - -
@@ -330,7 +330,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 263	Tarahumaran	Huevo	kawá	kawá	k a w a	88	k a w a
 264	ProtoCoracholNahua	Huevo	**tawari ’egg/turkey hen’	tawari ’egg	t aw a r i + ʔ e g g	86	t aw - a r - i + ʔ - e g g - - - - - - -
 265	ProtoCoracholNahua	Huevo	**tawari ’egg/turkey hen’	turkey hen’	t u r k e j + h e n ʔ	0	t u r k e j + h e n ʔ
-266	ProtoUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	tapari ’turkey hen’	t a p a r i + ʔ t u r k e j + h e n ʔ	86	t a p a r - i + ʔ t u r k e j + h e n ʔ
+266	ProtoSouthernUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	tapari ’turkey hen’	t a p a r i + ʔ t u r k e j + h e n ʔ	86	t a p a r - i + ʔ t u r k e j + h e n ʔ
 267	ProtoUtoAztecan	Huevo	**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA	topa ’turkey hen’ Tepiman, SUA	t o p a + ʔ t u r k e j + h e n ʔ + <<T>> e p i m a n <<,>> + <<S>> <<U>> <<A>>	0	t o p a + ʔ t u r k e j + h e n ʔ + <<T>> e p i m a n <<,>> + <<S>> <<U>> <<A>>
 692	Cora	Humo	kɨɨ¢í	kɨɨ¢í	k ɨː ts i	207	k ɨː - - ts i
 693	Huichol	Humo	kɨ¢i	kɨ¢i	k ɨ ts i	207	k ɨ - - ts i
@@ -344,7 +344,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 352	ProtoNahua	Lengua	*nenepil	nenepil	n e n e p i l	109	n e n e - p i l
 353	Tepiman	Lengua	nɨɨni	nɨɨni	n ɨː n i	109	n ɨː n i - - - -
 354	Cahita	Lengua	níni	níni	n i n i	109	n i n i - - - -
-355	ProtoUtoAztecan	Lengua	*nenɨ SUA	nenɨ SUA	n e n ɨ + <<S>> <<U>> <<A>>	109	n e n ɨ + <<S>> <<U>> <<A>>
+355	ProtoSouthernUtoAztecan	Lengua	*nenɨ SUA	nenɨ SUA	n e n ɨ + <<S>> <<U>> <<A>>	109	n e n ɨ + <<S>> <<U>> <<A>>
 631	Cora	Llúvia	biite	biite	b iː t e	188	b iː t - - e - - - -
 632	Huichol	Llúvia	wiyeri	wiyeri	w i j e r i	188	w i j e r i - - - -
 633	ProtoNahua	Llúvia	*kiyawi-	kiyawi-	k i j a w i	188	k i j a w i - - - -
@@ -352,7 +352,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 635	Cahita	Llúvia	yúke	yúke	j u k e	189	j u k e
 636	Tarahumaran	Llúvia	yu’kí	yu’kí	j uʔ k i	189	j uʔ k i
 637	ProtoCoracholNahua	Llúvia	**wi	wi	w i	188	w i - - - - - - - -
-638	ProtoUtoAztecan	Llúvia	*yuku SUA/**wi PUA	yuku SUA	j u k u + <<S>> <<U>> <<A>>	188	- - j u k u + <<S>> <<U>> <<A>>
+638	ProtoSouthernUtoAztecan	Llúvia	*yuku SUA/**wi PUA	yuku SUA	j u k u + <<S>> <<U>> <<A>>	188	- - j u k u + <<S>> <<U>> <<A>>
 639	ProtoUtoAztecan	Llúvia	*yuku SUA/**wi PUA	wi PUA	w i + <<P>> <<U>> <<A>>	0	w i + <<P>> <<U>> <<A>>
 591	Cora	Luna	maskɨrai	maskɨrai	m a s k ɨ r ai	177	m a s k ɨ r ai - - - -
 592	Huichol	Luna	me¢a	me¢a	m e ts a	177	m e ts - - - a - - - -
@@ -360,7 +360,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 594	Tepiman	Luna	masaada	masaada	m a s aː d a	177	m a s - aː d a - - - -
 595	Cahita	Luna	mé¢a	mé¢a	m e ts a	177	m e ts - - - a - - - -
 596	Tarahumaran	Luna	me¢á	me¢á	m e ts a	177	m e ts - - - a - - - -
-597	ProtoUtoAztecan	Luna	**mé¢a SUA	mé¢a SUA	m e ts a + <<S>> <<U>> <<A>>	177	m e ts - - - a + <<S>> <<U>> <<A>>
+597	ProtoSouthernUtoAztecan	Luna	**mé¢a SUA	mé¢a SUA	m e ts a + <<S>> <<U>> <<A>>	177	m e ts - - - a + <<S>> <<U>> <<A>>
 383	Cora	Mano	mwahka’a	mwahka’a	mʷ a h k aˀa	117	mʷ a - h k aˀa
 384	Huichol	Mano	mama	mama	m a m a	117	m a - - m a
 385	ProtoNahua	Mano	*ma:-	ma:-	m aː	117	m aː - - - -
@@ -424,8 +424,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 330	Cahita	Nariz	yéka	yéka	j e k a	104	j e k a - - - - - - - - - - - -
 331	Tarahumaran	Nariz	yaká	yaká	j a k a	104	j a k a - - - - - - - - - - - -
 332	ProtoCoracholNahua	Nariz	**¢ori-	¢ori-	ts o r i	103	ts o r i - - - - - - - -
-333	ProtoUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka SUA	j e k a + <<S>> <<U>> <<A>>	103	j e k a + <<S>> <<U>> <<A>> - - - -
-334	ProtoUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	¢o ‘snout’ SUA	ts o + ʔ s n o u t ʔ + <<S>> <<U>> <<A>>	104	- - ts o + ʔ s n o u t ʔ + <<S>> <<U>> <<A>>
+333	ProtoSouthernUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	yeka SUA	j e k a + <<S>> <<U>> <<A>>	103	j e k a + <<S>> <<U>> <<A>> - - - -
+334	ProtoSouthernUtoAztecan	Nariz	**yeka SUA/**¢o ‘snout’ SUA	¢o ‘snout’ SUA	ts o + ʔ s n o u t ʔ + <<S>> <<U>> <<A>>	104	- - ts o + ʔ s n o u t ʔ + <<S>> <<U>> <<A>>
 771	Cora	Negro	sú’umwara’a	sú’umwara’a	s uˀu mʷ a r aˀa	236	s uˀu mʷ a r aˀa
 772	Huichol	Negro	yɨwi	yɨwi	j ɨ w i	237	j ɨ w i - - - -
 773	ProtoNahua	Negro	*ƛil-tik <tɨri/(yowak ‘noche’)	ƛil-tik <tɨri	tɬ i l + t i k + <<<>> t ɨ r i	238	tɬ i l + t i k - + <<<>> t ɨ r i
@@ -487,8 +487,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 66	Tarahumaran	Nuevo	kaweruma	kaweruma	k a w e r u m a	22	k a w e r u m a
 67	ProtoCoracholNahua	Nuevo	**hɨnkwa-ki/**pɨnkwa-k	hɨnkwa-ki	h ɨ n kʷ a + k i	19	h ɨ n kʷ a + k i - - - -
 68	ProtoCoracholNahua	Nuevo	**hɨnkwa-ki/**pɨnkwa-k	pɨnkwa-k	p ɨ n kʷ a + k	0	p ɨ n kʷ a + k
-69	ProtoUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa SUA	h u kʷ a + <<S>> <<U>> <<A>>	19	h u - kʷ a - - - + <<S>> <<U>> <<A>>
-70	ProtoUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	pɨtuwa PUA	p ɨ t u w a + <<P>> <<U>> <<A>>	20	p ɨ t u w a + <<P>> <<U>> <<A>>
+69	ProtoSouthernUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	hukwa SUA	h u kʷ a + <<S>> <<U>> <<A>>	19	h u - kʷ a - - - + <<S>> <<U>> <<A>>
+70	ProtoSouthernUtoAztecan	Nuevo	**hukwa SUA/**pɨtuwa PUA	pɨtuwa PUA	p ɨ t u w a + <<P>> <<U>> <<A>>	20	p ɨ t u w a + <<P>> <<U>> <<A>>
 317	Cora	Ojo	hɨ’ɨsí	hɨ’ɨsí	h ɨˀɨ s i	102	h ɨˀɨ s i
 318	Huichol	Ojo	hɨʂi	hɨʂi	h ɨ ʂ i	102	h ɨ ʂ i
 319	ProtoNahua	Ojo	*i:š	i:š	iː ʃ	102	- iː ʃ -
@@ -505,7 +505,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 405	Cahita	Ombligo	síiku	síiku	s i i k u	123	- - - - - s i - - - - i k u - - - -
 406	Tarahumaran	Ombligo	sikú	sikú	s i k u	123	- - - - - s i - - - - - k u - - - -
 407	ProtoCoracholNahua	Ombligo	**siku-**tempo¢i	siku-tempo¢i	s i k u + t e m p o ts i	123	s i k u + t e m p - - o ts i - - - -
-408	ProtoUtoAztecan	Ombligo	**siku SUA	siku SUA	s i k u + <<S>> <<U>> <<A>>	123	- - - - - s i - - - - - k u + <<S>> <<U>> <<A>>
+408	ProtoSouthernUtoAztecan	Ombligo	**siku SUA	siku SUA	s i k u + <<S>> <<U>> <<A>>	123	- - - - - s i - - - - - k u + <<S>> <<U>> <<A>>
 309	Cora	Oreja	nasáih	nasáih	n a s a i h	101	- - - - - - - n a - s a - i h -
 310	Huichol	Oreja	naka	naka	n a k a	101	- - - - - - - n a - k a - - - -
 311	ProtoNahua	Oreja	*nakas <*nakasV	nakas <nakasV	n a k a s + <<<>> n a k a s <<V>>	101	n a k a s + <<<>> n a - k a - - s <<V>>
@@ -541,7 +541,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 161	Cahita	Perro	ču’u	ču’u	tʃ uˀu	54	tʃ uˀu - -
 162	Tarahumaran	Perro	*koči	koči	k o tʃ i	55	k o tʃ i
 163	ProtoCoracholNahua	Perro	**¢ukui	¢ukui	ts u k u i	53	- ts u k u - - i -
-164	ProtoUtoAztecan	Perro	**¢u SUA	¢u SUA	ts u + <<S>> <<U>> <<A>>	53	- ts - - u + <<S>> <<U>> <<A>>
+164	ProtoSouthernUtoAztecan	Perro	**¢u SUA	¢u SUA	ts u + <<S>> <<U>> <<A>>	53	- ts - - u + <<S>> <<U>> <<A>>
 134	Cora	Persona	tyevi (Stubbs)	tyevi	t j e v i	43	- t j e v i
 135	Huichol	Persona	tewi	tewi	t e w i	43	- t - e w i
 136	ProtoNahua	Persona	-te:-(ka)	-te:-	NULL t eː	43	NULL t - eː - -
@@ -562,8 +562,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 145	Cahita	Pez	*kuču	kuču	k u tʃ u	47	k u tʃ u - - - -
 146	Tarahumaran	Pez	kočú/*musi	kočú	k o tʃ u	47	k o tʃ u - - - -
 147	Tarahumaran	Pez	kočú/*musi	musi	m u s i	0	m u s i
-148	ProtoUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi SUA	m u s i + <<S>> <<U>> <<A>>	47	m u s i + <<S>> <<U>> <<A>>
-149	ProtoUtoAztecan	Pez	**musi SUA/**ki¢u PUA	ki¢u PUA	k i ts u + <<P>> <<U>> <<A>>	48	k i ts u + <<P>> <<U>> <<A>>
+148	ProtoSouthernUtoAztecan	Pez	**musi SUA/**ki¢u PUA	musi SUA	m u s i + <<S>> <<U>> <<A>>	47	m u s i + <<S>> <<U>> <<A>>
+149	ProtoSouthernUtoAztecan	Pez	**musi SUA/**ki¢u PUA	ki¢u PUA	k i ts u + <<P>> <<U>> <<A>>	48	k i ts u + <<P>> <<U>> <<A>>
 364	Cora	Pie	čepa	čepa	tʃ e p a	112	- - - - - - tʃ e p a
 365	Huichol	Pie	ɨka	ɨka	ɨ k a	112	- - - ɨ - - k - - a
 366	ProtoNahua	Pie	*ikši <**kèsi/kàsi	ikši <kèsi	i k ʃ i + <<<>> k <<è>> s i	112	i k ʃ i + <<<>> k <<è>> s i
@@ -582,7 +582,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 652	Cahita	Piedra	téta	téta	t e t a	195	t e t a - - - -
 653	Tarahumaran	Piedra	teté	teté	t e t e	195	t e t e - - - -
 654	ProtoCoracholNahua	Piedra	**te	te	t e	195	t e - - - - - -
-655	ProtoUtoAztecan	Piedra	**te SUA/**tɨ- PUA	te SUA	t e + <<S>> <<U>> <<A>>	195	t e - - + <<S>> <<U>> <<A>>
+655	ProtoSouthernUtoAztecan	Piedra	**te SUA/**tɨ- PUA	te SUA	t e + <<S>> <<U>> <<A>>	195	t e - - + <<S>> <<U>> <<A>>
 656	ProtoUtoAztecan	Piedra	**te SUA/**tɨ- PUA	tɨ- PUA	t ɨ + + <<P>> <<U>> <<A>>	0	t ɨ + + <<P>> <<U>> <<A>>
 234	Cora	Piel	nabíh	nabíh	n a b i h	78	n a b i h
 235	Huichol	Piel	nawi	nawi	n a w i	78	n a w i -
@@ -624,7 +624,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 206	Cahita	Raíz	náwa	náwa	n a w a	66	n a - w a - - - - - - -
 207	Tarahumaran	Raíz	nawá	nawá	n a w a	66	n a - w a - - - - - - -
 208	ProtoCoracholNahua	Raíz	*(i)neri-wa	neri-wa	n e r i + w a	66	n e r - i - - - - + w a
-209	ProtoUtoAztecan	Raíz	**nawa SUA	nawa SUA	n a w a + <<S>> <<U>> <<A>>	66	n a - w a + <<S>> <<U>> <<A>> - - -
+209	ProtoSouthernUtoAztecan	Raíz	**nawa SUA	nawa SUA	n a w a + <<S>> <<U>> <<A>>	66	n a - w a + <<S>> <<U>> <<A>> - - -
 375	Cora	Rodilla	tunú	tunú	t u n u	114	t u - n - u - - - -
 376	Huichol	Rodilla	ʂatɨ	ʂatɨ	ʂ a t ɨ	115	ʂ a t ɨ
 377	ProtoNahua	Rodilla	*ƛankwa:-	ƛankwa:-	tɬ a n kʷ aː	114	tɬ a - n kʷ aː - - - -
@@ -684,7 +684,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 215	Tarahumaran	Semilla	pah¢i/tarí	pah¢i	p a h ts i	68	p a h ts i - - - - -
 216	Tarahumaran	Semilla	pah¢i/tarí	tarí	t a r i	0	t a r i
 217	ProtoCoracholNahua	Semilla	**ha¢i	ha¢i	h a ts i	68	h a - ts i - - - - -
-218	ProtoUtoAztecan	Semilla	**pa¢i PUA/**wa¢I SUA	pa¢i PUA	p a ts i + <<P>> <<U>> <<A>>	68	p a - ts i - + <<P>> <<U>> <<A>>
+218	ProtoSouthernUtoAztecan	Semilla	**pa¢i PUA/**wa¢I SUA	pa¢i PUA	p a ts i + <<P>> <<U>> <<A>>	68	p a - ts i - + <<P>> <<U>> <<A>>
 219	ProtoUtoAztecan	Semilla	**pa¢i PUA/**wa¢I SUA	wa¢I SUA	w a ts i + <<S>> <<U>> <<A>>	0	w a ts i + <<S>> <<U>> <<A>>
 554	Cora	Sentado	auhká < wauhká/(yeih sentar)	auhká < wauhká	au h k a + <<<>> + w au h k a	164	au h k a + <<<>> + w au h k a
 555	Huichol	Sentado	ka/(yáa)	ka	k a	165	k a
@@ -693,7 +693,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 558	Cahita	Sentado	yésasa	yésasa	j e s a s a	166	j e s a - - s a
 559	Tarahumaran	Sentado	yasipá	yasipá	j a s i p a	166	j a s i - - p a
 560	ProtoCoracholNahua	Sentado	**yeih	yeih	j ei h	166	j ei h - - - - -
-561	ProtoUtoAztecan	Sentado	**yasi SUA	yasi SUA	j a s i + <<S>> <<U>> <<A>>	166	j a s i + <<S>> <<U>> <<A>>
+561	ProtoSouthernUtoAztecan	Sentado	**yasi SUA	yasi SUA	j a s i + <<S>> <<U>> <<A>>	166	j a s i + <<S>> <<U>> <<A>>
 583	Cora	Sol	sɨkah	sɨkah	s ɨ k a h	174	s ɨ k a h
 584	Huichol	Sol	tau	tau	t au	175	t au - - - - - -
 585	ProtoNahua	Sol	*to:nal-	to:nal-	t oː n a l	175	t oː n a - - - l
@@ -783,7 +783,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 627	Tepiman	Viento	hɨvɨri	hɨvɨri	h ɨ v ɨ r i	187	h ɨ v ɨ r i
 628	Cahita	Viento	héeka	héeka	h eː k a	186	- - h - eː k a - - - -
 629	Tarahumaran	Viento	eká	eká	e k a	186	- - - - e k a - - - -
-630	ProtoUtoAztecan	Viento	/**heka SUA/	heka SUA	h e k a + <<S>> <<U>> <<A>>	186	- - h - e k a + <<S>> <<U>> <<A>>
+630	ProtoSouthernUtoAztecan	Viento	/**heka SUA/	heka SUA	h e k a + <<S>> <<U>> <<A>>	186	- - h - e k a + <<S>> <<U>> <<A>>
 521	Cora	Volar	wará’ara’isiin	wará’ara’isiin	w a r aˀa r a ʔ i s iː n	151	w a r aˀa r a ʔ i s iː n
 522	Huichol	Volar	wiya	wiya	w i j a	152	w i j a
 523	ProtoNahua	Volar	*paƛani	paƛani	p a tɬ a n i	153	p a tɬ a n i
@@ -797,8 +797,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	COGID	ALIGNMENT
 468	Tepiman	Vomitar	wihot	wihot	w i h o t	139	- - w i h o - - - t -
 469	Cahita	Vomitar	bísata	bísata	b i s a t a	139	- - b i s a - - - t a
 470	Tarahumaran	Vomitar	kopéso	kopéso	k o p e s o	139	k o p e s o - - - - -
-471	ProtoUtoAztecan	Vomitar	**piso PUA/*hara SUA	piso PUA	p i s o + <<P>> <<U>> <<A>>	138	p i s o + <<P>> <<U>> <<A>>
-472	ProtoUtoAztecan	Vomitar	**piso PUA/*hara SUA	hara SUA	h a r a + <<S>> <<U>> <<A>>	139	h a r - - a + <<S>> <<U>> <<A>> -
+471	ProtoSouthernUtoAztecan	Vomitar	**piso PUA/*hara SUA	piso PUA	p i s o + <<P>> <<U>> <<A>>	138	p i s o + <<P>> <<U>> <<A>>
+472	ProtoSouthernUtoAztecan	Vomitar	**piso PUA/*hara SUA	hara SUA	h a r a + <<S>> <<U>> <<A>>	139	h a r - - a + <<S>> <<U>> <<A>> -
 52	Cora	largo	teé	teé	t eː	17	- - t eː - - -
 53	Huichol	largo	e-te:wi	e-te:wi	e + t eː w i	17	e + t eː w i -
 54	ProtoNahua	largo	*we:ya-k	we:ya-k	w eː j a + k	18	w eː j a + k
