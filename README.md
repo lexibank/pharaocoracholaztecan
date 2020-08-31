@@ -31,7 +31,7 @@ Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovec
 - **Cognacy:** 750 cognates in 250 cognate sets (100 singletons)
 - **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 4,085
+- **Tokens:** 4,076
 - **Segments:** 67 (15 BIPA errors, 15 CTLS sound class errors, 52 CLTS modified)
 - **Inventory size (avg):** 34.25
 
