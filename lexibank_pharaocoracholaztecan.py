@@ -11,7 +11,7 @@ from clldutils.misc import slug
 
 @attr.s
 class CustomConcept(Concept):
-    Spanish = attr.ib(default=None)
+    Spanish_Gloss = attr.ib(default=None)
     Number = attr.ib(default=None)
 
 class Dataset(BaseDataset):
@@ -41,17 +41,20 @@ class Dataset(BaseDataset):
         # load cognates
         cognates = self.raw_dir.read_csv('cognates.tsv', delimiter='\t')[1:]
         concepts = {}
-        for concept in self.concepts:
+        for concept in self.conceptlists[0].concepts.values():
             idx = '{0}-{1}'.format(
-                        concept['NUMBER'],
-                        slug(concept['SPANISH']))
+                        concept.number,
+                        slug(concept.english))
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept['SPANISH'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
-            concepts[concept['SPANISH']] = idx
-            concepts[concept['SPANISH'].lower()] = idx
+                    Name=concept.english,
+                    Spanish_Gloss = concept.attributes['spanish'],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
+                    )
+            for gloss in concept.attributes['gloss_in_data']:
+                print(gloss)
+                concepts[gloss] = idx
         concepts['Frio/(hace frio)'] = concepts['Frio (hace frio)']
         args.log.info('added concepts')
 
@@ -82,6 +85,7 @@ class Dataset(BaseDataset):
         for i, line in progressbar(enumerate(table[1:])):
             for j, (language, cell) in enumerate(zip(table[0][2:], line[2:])):
                 if cell.strip():
+                    
                     cognatesets = cogsets.get(
                             cognates[i][j+1].strip(),
                             [cognates[i][j+1].strip().upper()])

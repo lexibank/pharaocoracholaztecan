@@ -8,6 +8,9 @@ This dataset is licensed under a CCBY-NC license
 
 Available online at https://magnuspharao.files.wordpress.com/2019/06/familiaovecinoscoracholnahuadata.pdf
 
+
+Conceptlists in Concepticon:
+- [PharaoHansen-2020-100](https://concepticon.clld.org/contributions/PharaoHansen-2020-100)
 ## Notes
 
 
