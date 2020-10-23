@@ -21,6 +21,7 @@ class Dataset(BaseDataset):
     form_spec = FormSpec(
             separators="/",
             first_form_only=False,
+            brackets = {'’': '’', '(': ')'}, 
             replacements=[("*", "")]
             )
 
@@ -87,7 +88,7 @@ class Dataset(BaseDataset):
 
                     for lexeme, cognate in zip(
                             args.writer.add_forms_from_value(
-                                Value=cell.strip(),
+                                Value=cell,
                                 Language_ID=languages[language],
                                 Parameter_ID=concepts[line[1]],
                                 Source=['Pharao2020']

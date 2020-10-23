@@ -16,9 +16,6 @@
                 "au": [
                     "au"
                 ],
-                "a\u02c0a": [
-                    "a\u02c0a"
-                ],
                 "a\u02d0": [
                     "a\u02d0"
                 ],
@@ -40,9 +37,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -54,9 +48,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -84,9 +75,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -124,9 +112,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -141,9 +126,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -164,47 +146,37 @@
             "sclass_errors": [],
             "segments": {
                 "+": 1,
-                "a": 82,
-                "a\u02c0a": 1,
+                "a": 79,
                 "a\u02d0": 2,
                 "b": 10,
                 "b\u02b7": 6,
                 "e": 35,
-                "e\u02c0e": 1,
                 "e\u02d0": 5,
                 "h": 10,
                 "i": 43,
                 "i\u02d0": 2,
                 "j": 10,
-                "k": 37,
+                "k": 36,
                 "l": 5,
-                "m": 19,
+                "m": 18,
                 "n": 14,
-                "o": 19,
-                "o\u02c0o": 3,
+                "o": 22,
                 "p": 9,
-                "r": 7,
+                "r": 6,
                 "s": 25,
                 "t": 31,
                 "ts": 5,
                 "t\u0283": 6,
-                "u": 19,
-                "u\u02c0u": 1,
+                "u": 20,
                 "u\u02d0": 2,
                 "v": 4,
                 "w": 19,
-                "\u0294": 5
+                "\u0294": 1
             }
         },
         "Cora": {
-            "bipa_errors": [
-                "<<<>>",
-                "u\u0294",
-                "NULL",
-                "e\u0294",
-                "a\u0294"
-            ],
-            "general_errors": 10,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -217,9 +189,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -242,9 +211,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -256,9 +222,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -286,9 +249,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -326,9 +286,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -343,9 +300,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -363,66 +317,47 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "<<<>>",
-                "u\u0294",
-                "NULL",
-                "e\u0294",
-                "a\u0294"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 9,
-                "<<<>>": 1,
-                "NULL": 5,
-                "a": 80,
+                "+": 6,
+                "a": 83,
                 "ai": 3,
-                "au": 2,
-                "a\u0294": 2,
-                "a\u02c0a": 11,
-                "a\u02d0": 1,
-                "b": 8,
+                "au": 1,
+                "b": 7,
                 "d": 1,
-                "e": 24,
-                "e\u0294": 1,
-                "e\u02c0e": 6,
+                "e": 28,
                 "e\u02d0": 8,
-                "h": 32,
-                "i": 40,
-                "i\u02c0i": 2,
-                "i\u02d0": 3,
+                "h": 31,
+                "i": 33,
+                "i\u02d0": 2,
                 "j": 3,
-                "k": 31,
+                "k": 26,
                 "k\u02b7": 5,
                 "l": 2,
                 "m": 7,
-                "m\u02b7": 11,
-                "n": 22,
+                "m\u02b7": 10,
+                "n": 20,
                 "o": 2,
                 "p": 9,
-                "p\u02b7": 3,
-                "r": 23,
-                "s": 21,
+                "p\u02b7": 2,
+                "r": 16,
+                "s": 19,
                 "t": 27,
                 "ts": 10,
                 "t\u0283": 3,
                 "t\u0283\u02b7": 1,
-                "u": 18,
-                "u\u0294": 1,
-                "u\u02c0u": 7,
+                "u": 21,
                 "u\u02d0": 1,
                 "v": 1,
-                "w": 10,
-                "\u0268": 16,
-                "\u0268\u02c0\u0268": 3,
+                "w": 8,
+                "\u0268": 19,
                 "\u0268\u02d0": 1,
-                "\u0294": 7
+                "\u0294": 1
             }
         },
         "Huichol": {
-            "bipa_errors": [
-                "aw"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -435,9 +370,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -460,9 +392,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -474,9 +403,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -504,9 +430,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -544,9 +467,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -561,9 +481,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -581,16 +498,12 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "aw"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 6,
-                "a": 69,
+                "a": 71,
                 "ai": 8,
                 "au": 1,
-                "aw": 1,
-                "a\u02c0a": 1,
                 "e": 40,
                 "ei": 1,
                 "e\u02d0": 4,
@@ -607,22 +520,19 @@
                 "s": 1,
                 "t": 26,
                 "ts": 13,
-                "u": 16,
-                "u\u02c0u": 1,
+                "u": 17,
                 "u\u02d0": 3,
                 "v": 2,
-                "w": 17,
+                "w": 18,
                 "\u0268": 23,
                 "\u0268\u02d0": 1,
                 "\u0282": 19,
-                "\u0294": 2
+                "\u0294": 1
             }
         },
         "ProtoCoracholNahua": {
-            "bipa_errors": [
-                "aw"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -635,9 +545,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -660,9 +567,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -674,9 +578,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -704,9 +605,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -744,9 +642,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -761,9 +656,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -781,51 +673,41 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "aw"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 14,
-                "a": 25,
+                "+": 12,
+                "a": 26,
                 "ai": 2,
                 "au": 3,
-                "aw": 1,
                 "a\u02d0": 2,
-                "e": 14,
+                "e": 11,
                 "ei": 2,
                 "e\u02d0": 2,
-                "g": 2,
-                "h": 9,
+                "h": 8,
                 "i": 25,
                 "i\u02d0": 1,
-                "j": 7,
-                "k": 14,
+                "j": 6,
+                "k": 13,
                 "k\u02b7": 3,
                 "m": 3,
                 "m\u02b7": 1,
-                "n": 7,
+                "n": 6,
                 "o": 7,
                 "p": 5,
-                "r": 6,
+                "r": 5,
                 "s": 12,
-                "t": 15,
+                "t": 14,
                 "ts": 8,
-                "u": 6,
+                "u": 5,
                 "u\u02d0": 2,
-                "w": 11,
+                "w": 12,
                 "\u0268": 4,
-                "\u0268\u02d0": 1,
-                "\u0294": 2
+                "\u0268\u02d0": 1
             }
         },
         "ProtoNahua": {
-            "bipa_errors": [
-                "<<<>>",
-                "NULL",
-                "<<V>>",
-                "<<\u00e8>>"
-            ],
-            "general_errors": 16,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -838,9 +720,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -863,9 +742,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -877,9 +753,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -907,9 +780,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -947,9 +817,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -964,9 +831,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -984,60 +848,41 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "<<<>>",
-                "NULL",
-                "<<V>>",
-                "<<\u00e8>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 45,
-                "<<<>>": 11,
-                "<<V>>": 1,
-                "<<\u00e8>>": 3,
-                "NULL": 1,
-                "a": 80,
+                "+": 22,
+                "a": 70,
                 "a\u02d0": 13,
                 "d": 1,
-                "e": 39,
+                "e": 36,
                 "e\u02d0": 11,
-                "h": 15,
-                "i": 76,
+                "h": 10,
+                "i": 73,
                 "i\u02d0": 4,
-                "j": 26,
-                "k": 58,
+                "j": 25,
+                "k": 49,
                 "k\u02b7": 12,
-                "l": 22,
+                "l": 21,
                 "m": 22,
-                "n": 22,
-                "o": 31,
+                "n": 20,
+                "o": 27,
                 "o\u02d0": 9,
-                "p": 15,
-                "r": 4,
-                "s": 20,
-                "t": 42,
+                "p": 13,
+                "r": 2,
+                "s": 16,
+                "t": 38,
                 "ts": 11,
-                "t\u026c": 13,
+                "t\u026c": 11,
                 "t\u0283": 14,
-                "u": 5,
-                "w": 28,
-                "\u0268": 2,
+                "u": 1,
+                "w": 27,
                 "\u0283": 11,
-                "\u0294": 6
+                "\u0294": 2
             }
         },
         "ProtoUtoAztecan": {
-            "bipa_errors": [
-                "<<,>>",
-                "aw",
-                "<<S>>",
-                "u\u0294",
-                "<<A>>",
-                "<<P>>",
-                "<<U>>",
-                "<<T>>"
-            ],
-            "general_errors": 280,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1050,9 +895,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -1075,9 +917,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -1089,9 +928,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -1119,9 +955,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -1159,9 +992,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -1176,9 +1006,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -1196,65 +1023,43 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "<<,>>",
-                "aw",
-                "<<S>>",
-                "u\u0294",
-                "<<A>>",
-                "<<P>>",
-                "<<U>>",
-                "<<T>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 114,
-                "<<,>>": 1,
-                "<<A>>": 92,
-                "<<P>>": 62,
-                "<<S>>": 30,
-                "<<T>>": 1,
-                "<<U>>": 92,
-                "a": 104,
-                "aw": 1,
+                "+": 96,
+                "a": 94,
                 "a\u02d0": 2,
                 "b": 2,
-                "e": 20,
+                "e": 14,
                 "g": 1,
-                "h": 15,
-                "i": 60,
-                "i\u02d0": 1,
-                "j": 14,
-                "k": 45,
-                "k\u02b7": 8,
+                "h": 13,
+                "i": 55,
+                "j": 12,
+                "k": 42,
+                "k\u02b7": 7,
                 "l": 2,
-                "m": 20,
+                "m": 18,
                 "m\u02b7": 1,
-                "n": 16,
-                "o": 28,
-                "o\u02c0o": 2,
-                "p": 28,
+                "n": 12,
+                "o": 26,
+                "p": 25,
                 "pp": 3,
-                "r": 10,
-                "s": 24,
-                "t": 40,
-                "ts": 18,
+                "r": 7,
+                "s": 23,
+                "t": 36,
+                "ts": 17,
                 "t\u026c": 1,
-                "u": 33,
-                "u\u0294": 1,
+                "u": 32,
                 "u\u02d0": 2,
-                "w": 33,
+                "w": 31,
                 "\u014b": 4,
                 "\u0268": 25,
-                "\u0294": 18,
+                "\u0294": 3,
                 "\u029f": 2
             }
         },
         "Tarahumaran": {
-            "bipa_errors": [
-                "u\u0294",
-                "i\u0294"
-            ],
-            "general_errors": 2,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1267,9 +1072,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -1292,9 +1094,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -1306,9 +1105,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -1336,9 +1132,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -1376,9 +1169,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -1393,9 +1183,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -1413,46 +1200,34 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "u\u0294",
-                "i\u0294"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "a": 72,
+                "a": 68,
                 "ai": 1,
-                "a\u02c0a": 1,
-                "e": 38,
-                "e\u02c0e": 1,
+                "e": 39,
                 "g": 1,
                 "h": 11,
-                "i": 45,
-                "i\u0294": 1,
-                "i\u02c0i": 1,
-                "j": 5,
-                "k": 30,
+                "i": 41,
+                "j": 4,
+                "k": 29,
                 "l": 2,
                 "m": 16,
-                "n": 11,
+                "n": 10,
                 "o": 31,
-                "o\u02c0o": 1,
-                "p": 22,
-                "r": 13,
+                "p": 20,
+                "r": 12,
                 "s": 25,
                 "t": 27,
-                "ts": 7,
+                "ts": 6,
                 "t\u0283": 3,
-                "u": 19,
-                "u\u0294": 1,
+                "u": 20,
                 "u\u02d0": 1,
-                "w": 25,
-                "\u0294": 9
+                "w": 25
             }
         },
         "Tepiman": {
-            "bipa_errors": [
-                "<<<>>"
-            ],
-            "general_errors": 4,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1465,9 +1240,6 @@
                 ],
                 "au": [
                     "au"
-                ],
-                "a\u02c0a": [
-                    "a\u02c0a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
@@ -1490,9 +1262,6 @@
                 "ei": [
                     "ei"
                 ],
-                "e\u02c0e": [
-                    "e\u02c0e"
-                ],
                 "e\u02d0": [
                     "e\u02d0"
                 ],
@@ -1504,9 +1273,6 @@
                 ],
                 "i": [
                     "i"
-                ],
-                "i\u02c0i": [
-                    "i\u02c0i"
                 ],
                 "i\u02d0": [
                     "i\u02d0"
@@ -1534,9 +1300,6 @@
                 ],
                 "o": [
                     "o"
-                ],
-                "o\u02c0o": [
-                    "o\u02c0o"
                 ],
                 "o\u02d0": [
                     "o\u02d0"
@@ -1574,9 +1337,6 @@
                 "u": [
                     "u"
                 ],
-                "u\u02c0u": [
-                    "u\u02c0u"
-                ],
                 "u\u02d0": [
                     "u\u02d0"
                 ],
@@ -1591,9 +1351,6 @@
                 ],
                 "\u0268": [
                     "\u0268"
-                ],
-                "\u0268\u02c0\u0268": [
-                    "\u0268\u02c0\u0268"
                 ],
                 "\u0268\u02d0": [
                     "\u0268\u02d0"
@@ -1611,773 +1368,49 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "<<<>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 3,
-                "<<<>>": 4,
-                "a": 54,
+                "a": 49,
                 "ai": 6,
-                "a\u02c0a": 2,
                 "a\u02d0": 7,
                 "b": 2,
                 "d": 12,
                 "dh": 1,
                 "e": 3,
-                "g": 19,
-                "h": 18,
-                "i": 49,
+                "g": 17,
+                "h": 17,
+                "i": 43,
                 "i\u02d0": 2,
-                "j": 7,
+                "j": 3,
                 "k": 32,
                 "m": 13,
-                "n": 16,
-                "o": 34,
-                "o\u02c0o": 3,
+                "n": 15,
+                "o": 35,
                 "o\u02d0": 1,
-                "p": 5,
+                "p": 4,
                 "r": 7,
-                "s": 13,
-                "t": 30,
+                "s": 12,
+                "t": 29,
                 "ts": 1,
                 "t\u0283": 1,
-                "u": 20,
+                "u": 19,
                 "u\u02d0": 3,
                 "v": 17,
-                "w": 6,
-                "\u0268": 31,
+                "w": 4,
+                "\u0268": 29,
                 "\u0268\u02d0": 4,
-                "\u0294": 7,
                 "\u029f": 1
             }
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Cora-12-seco-1",
-                "Cora",
-                "12-seco",
-                "-wa\u00a2i-",
-                "<s> NULL </s> w a ts i"
-            ],
-            [
-                "Cora-2-muchos-1",
-                "Cora",
-                "2-muchos",
-                "mu\u2019i\u2019\u00ed",
-                "m <s> u\u0294 </s> i\u02c0i"
-            ],
-            [
-                "Cora-29-carne-1",
-                "Cora",
-                "29-carne",
-                "wa\u2019\u00ed-raa",
-                "w <s> a\u0294 </s> i + r a\u02d0"
-            ],
-            [
-                "Cora-33-huevo-1",
-                "Cora",
-                "33-huevo",
-                "ta\u2019\u00fa",
-                "t <s> a\u0294 </s> u"
-            ],
-            [
-                "Cora-55-tomar-1",
-                "Cora",
-                "55-tomar",
-                "-\u00ed\u2019i-",
-                "<s> NULL </s> i\u02c0i"
-            ],
-            [
-                "Cora-64-matar-1",
-                "Cora",
-                "64-matar",
-                "he\u2019ika",
-                "h <s> e\u0294 </s> i k a"
-            ],
-            [
-                "Cora-66-caminar-1",
-                "Cora",
-                "66-caminar",
-                "-yeiwe",
-                "<s> NULL </s> j w e"
-            ],
-            [
-                "Cora-67-come-1",
-                "Cora",
-                "67-come",
-                "-b\u00e9\u2019ene",
-                "<s> NULL </s> b e\u02c0e n e"
-            ],
-            [
-                "Cora-69-sentado-1",
-                "Cora",
-                "69-sentado",
-                "auhk\u00e1 < wauhk\u00e1",
-                "au h k a + <s> <<<>> </s> + w au h k a"
-            ],
-            [
-                "Cora-70-parado-1",
-                "Cora",
-                "70-parado",
-                "-t\u00e9hebee",
-                "<s> NULL </s> t e h e b e\u02d0"
-            ],
-            [
-                "Huichol-33-huevo-1",
-                "Huichol",
-                "33-huevo",
-                "tawari",
-                "t <s> aw </s> a r i"
-            ],
-            [
-                "ProtoCoracholNahua-33-huevo-1",
-                "ProtoCoracholNahua",
-                "33-huevo",
-                "tawari \u2019egg",
-                "t <s> aw </s> a r i + \u0294 e g g"
-            ],
-            [
-                "ProtoNahua-17-persona-1",
-                "ProtoNahua",
-                "17-persona",
-                "-te:-",
-                "<s> NULL </s> t e\u02d0"
-            ],
-            [
-                "ProtoNahua-28-sangre-1",
-                "ProtoNahua",
-                "28-sangre",
-                "yes <pauso",
-                "j e s + <s> <<<>> </s> p a u s o"
-            ],
-            [
-                "ProtoNahua-38-cabeza-2",
-                "ProtoNahua",
-                "38-cabeza",
-                "kwa:- < kuha kupa",
-                "k\u02b7 a\u02d0 + + <s> <<<>> </s> + k u h a + k u p a"
-            ],
-            [
-                "ProtoNahua-39-oreja-1",
-                "ProtoNahua",
-                "39-oreja",
-                "nakas <nakasV",
-                "n a k a s + <s> <<<>> </s> n a k a s <s> <<V>> </s>"
-            ],
-            [
-                "ProtoNahua-46-pie-1",
-                "ProtoNahua",
-                "46-pie",
-                "ik\u0161i <k\u00e8si",
-                "i k \u0283 i + <s> <<<>> </s> k <s> <<\u00e8>> </s> s i"
-            ],
-            [
-                "ProtoNahua-49-barriga-1",
-                "ProtoNahua",
-                "49-barriga",
-                "ihte- < h\u00f2t\u00e9",
-                "i h t e + + <s> <<<>> </s> + h o t e"
-            ],
-            [
-                "ProtoNahua-68-acostado-1",
-                "ProtoNahua",
-                "68-acostado",
-                "ok < h\u00f3-k\u00e0",
-                "o k + <s> <<<>> </s> + h o + k a"
-            ],
-            [
-                "ProtoNahua-70-parado-1",
-                "ProtoNahua",
-                "70-parado",
-                "ihkak < k\u00e8k\u00e1",
-                "i h k a k + <s> <<<>> </s> + k <s> <<\u00e8>> </s> k a"
-            ],
-            [
-                "ProtoNahua-76-cielo-1",
-                "ProtoNahua",
-                "76-cielo",
-                "ilwika- < \u019b\u00e8w\u00edka",
-                "i l w i k a + + <s> <<<>> </s> + t\u026c <s> <<\u00e8>> </s> w i k a"
-            ],
-            [
-                "ProtoUtoAztecan-11-pesado-1",
-                "ProtoUtoAztecan",
-                "11-pesado",
-                "p\u0268tt\u0268 PUA",
-                "p \u0268 t t \u0268 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-12-seco-1",
-                "ProtoUtoAztecan",
-                "12-seco",
-                "waki PUA",
-                "w a k i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-13-friohacefrio-1",
-                "ProtoUtoAztecan",
-                "13-friohacefrio",
-                "sep- PUA",
-                "s e p + + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-15-mujer-1",
-                "ProtoUtoAztecan",
-                "15-mujer",
-                "sinwa PUA",
-                "s i n w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-15-mujer-2",
-                "ProtoUtoAztecan",
-                "15-mujer",
-                "uka- PUA",
-                "u k a + + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-16-hombre-1",
-                "ProtoUtoAztecan",
-                "16-hombre",
-                "oki\u00a2i \u2018girl\u2019 SUA",
-                "o k i ts i + \u0294 g i r l \u0294 + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-16-hombre-2",
-                "ProtoUtoAztecan",
-                "16-hombre",
-                "oka\u00a2i \u2018woman\u2019 PUA",
-                "o k a ts i + \u0294 w o m a n \u0294 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-17-persona-2",
-                "ProtoUtoAztecan",
-                "17-persona",
-                "t\u0268wi PUA",
-                "t \u0268 w i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-18-pez-1",
-                "ProtoUtoAztecan",
-                "18-pez",
-                "musi SUA",
-                "m u s i + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-18-pez-2",
-                "ProtoUtoAztecan",
-                "18-pez",
-                "ki\u00a2u PUA",
-                "k i ts u + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-19-pajaro-1",
-                "ProtoUtoAztecan",
-                "19-pajaro",
-                "wi\u00a2iki PUA",
-                "w i ts i k i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-2-muchos-1",
-                "ProtoUtoAztecan",
-                "2-muchos",
-                "mu\u2019i:- PUA",
-                "m <s> u\u0294 </s> i\u02d0 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-20-perro-1",
-                "ProtoUtoAztecan",
-                "20-perro",
-                "\u00a2u SUA",
-                "ts u + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-21-piojo-1",
-                "ProtoUtoAztecan",
-                "21-piojo",
-                "at\u0268 PUA",
-                "a t \u0268 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-22-vibora-1",
-                "ProtoUtoAztecan",
-                "22-vibora",
-                "kowa PUA",
-                "k o w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-23-arbol-1",
-                "ProtoUtoAztecan",
-                "23-arbol",
-                "kua-wi SUA",
-                "k u a + w i + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-24-corteza-1",
-                "ProtoUtoAztecan",
-                "24-corteza",
-                "po\u2019owa PUA",
-                "p o\u02c0o w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-25-hoja-1",
-                "ProtoUtoAztecan",
-                "25-hoja",
-                "s\u00e0mw\u00e1 SUA",
-                "s a m\u02b7 a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-26-raiz-1",
-                "ProtoUtoAztecan",
-                "26-raiz",
-                "nawa SUA",
-                "n a w a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-27-semilla-1",
-                "ProtoUtoAztecan",
-                "27-semilla",
-                "pa\u00a2i PUA",
-                "p a ts i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-27-semilla-2",
-                "ProtoUtoAztecan",
-                "27-semilla",
-                "wa\u00a2I SUA",
-                "w a ts i + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-28-sangre-1",
-                "ProtoUtoAztecan",
-                "28-sangre",
-                "pau PUA",
-                "p a u + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-30-piel-1",
-                "ProtoUtoAztecan",
-                "30-piel",
-                "po\u2019owa PUA",
-                "p o\u02c0o w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-31-hueso-1",
-                "ProtoUtoAztecan",
-                "31-hueso",
-                "ohom\u0268 PUA",
-                "o h o m \u0268 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-32-grasa-1",
-                "ProtoUtoAztecan",
-                "32-grasa",
-                "wip PUA",
-                "w i p + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-33-huevo-2",
-                "ProtoUtoAztecan",
-                "33-huevo",
-                "topa \u2019turkey hen\u2019 Tepiman, SUA",
-                "t o p a + \u0294 t u r k e j + h e n \u0294 + <s> <<T>> </s> e p i m a n <s> <<,>> </s> + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-35-cola-1",
-                "ProtoUtoAztecan",
-                "35-cola",
-                "kwasi PUA",
-                "k\u02b7 a s i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-36-pluma-1",
-                "ProtoUtoAztecan",
-                "36-pluma",
-                "ana PUA",
-                "a n a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-36-pluma-2",
-                "ProtoUtoAztecan",
-                "36-pluma",
-                "piwi PUA",
-                "p i w i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-36-pluma-3",
-                "ProtoUtoAztecan",
-                "36-pluma",
-                "k\u0268\u00a2a PUA",
-                "k \u0268 ts a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-37-cabello-1",
-                "ProtoUtoAztecan",
-                "37-cabello",
-                "\u00a2omi PUA",
-                "ts o m i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-37-cabello-2",
-                "ProtoUtoAztecan",
-                "37-cabello",
-                "kuppa PUA",
-                "k u pp a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-38-cabeza-1",
-                "ProtoUtoAztecan",
-                "38-cabeza",
-                "muu PUA",
-                "m u\u02d0 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-39-oreja-1",
-                "ProtoUtoAztecan",
-                "39-oreja",
-                "nakka PUA",
-                "n a k k a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-4-dos-1",
-                "ProtoUtoAztecan",
-                "4-dos",
-                "wo- SUA",
-                "w o + + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-41-nariz-1",
-                "ProtoUtoAztecan",
-                "41-nariz",
-                "yeka SUA",
-                "j e k a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-41-nariz-2",
-                "ProtoUtoAztecan",
-                "41-nariz",
-                "\u00a2o \u2018snout\u2019 SUA",
-                "ts o + \u0294 s n o u t \u0294 + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-43-diente-1",
-                "ProtoUtoAztecan",
-                "43-diente",
-                "tame SUA",
-                "t a m e + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-44-lengua-1",
-                "ProtoUtoAztecan",
-                "44-lengua",
-                "nen\u0268 SUA",
-                "n e n \u0268 + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-47-rodilla-1",
-                "ProtoUtoAztecan",
-                "47-rodilla",
-                "ta\u014ba PUA",
-                "t a \u014b a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-47-rodilla-2",
-                "ProtoUtoAztecan",
-                "47-rodilla",
-                "to\u014ba PUA",
-                "t o \u014b a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-48-mano-1",
-                "ProtoUtoAztecan",
-                "48-mano",
-                "ma PUA",
-                "m a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-49-barriga-1",
-                "ProtoUtoAztecan",
-                "49-barriga",
-                "poka PUA",
-                "p o k a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-5-grande-1",
-                "ProtoUtoAztecan",
-                "5-grande",
-                "w\u0268L- SUA",
-                "w \u0268 \u029f + + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-50-ombligo-1",
-                "ProtoUtoAztecan",
-                "50-ombligo",
-                "siku SUA",
-                "s i k u + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-51-cuello-1",
-                "ProtoUtoAztecan",
-                "51-cuello",
-                "kusi-pa PUA",
-                "k u s i + p a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-54-higado-1",
-                "ProtoUtoAztecan",
-                "54-higado",
-                "n\u0268ma PUA",
-                "n \u0268 m a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-55-tomar-1",
-                "ProtoUtoAztecan",
-                "55-tomar",
-                "hipi PUA",
-                "h i p i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-56-comer-1",
-                "ProtoUtoAztecan",
-                "56-comer",
-                "kwa PUA",
-                "k\u02b7 a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-57-morder-1",
-                "ProtoUtoAztecan",
-                "57-morder",
-                "k\u0268\u00a2a PUA",
-                "k \u0268 ts a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-58-vomitar-1",
-                "ProtoUtoAztecan",
-                "58-vomitar",
-                "piso PUA",
-                "p i s o + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-58-vomitar-2",
-                "ProtoUtoAztecan",
-                "58-vomitar",
-                "hara SUA",
-                "h a r a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-60-oir-1",
-                "ProtoUtoAztecan",
-                "60-oir",
-                "kahi PUA",
-                "k a h i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-60-oir-2",
-                "ProtoUtoAztecan",
-                "60-oir",
-                "nakka \u2019ear\u2019 PUA",
-                "n a k k a + \u0294 e a r \u0294 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-62-dormir-1",
-                "ProtoUtoAztecan",
-                "62-dormir",
-                "ko\u00a2i SUA",
-                "k o ts i + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-63-morir-1",
-                "ProtoUtoAztecan",
-                "63-morir",
-                "muki PUA",
-                "m u k i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-65-volar-2",
-                "ProtoUtoAztecan",
-                "65-volar",
-                "pata PUA",
-                "p a t a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-66-caminar-2",
-                "ProtoUtoAztecan",
-                "66-caminar",
-                "ya\u2019i PUA",
-                "j a \u0294 i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-67-come-1",
-                "ProtoUtoAztecan",
-                "67-come",
-                "yiwa SUA",
-                "j i w a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-68-acostado-1",
-                "ProtoUtoAztecan",
-                "68-acostado",
-                "wo SUA",
-                "w o + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-69-sentado-1",
-                "ProtoUtoAztecan",
-                "69-sentado",
-                "yasi SUA",
-                "j a s i + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-71-dar-1",
-                "ProtoUtoAztecan",
-                "71-dar",
-                "maka PUA",
-                "m a k a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-72-cantar-1",
-                "ProtoUtoAztecan",
-                "72-cantar",
-                "kwika PUA",
-                "k\u02b7 i k a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-73-sol-1",
-                "ProtoUtoAztecan",
-                "73-sol",
-                "tawa PUA",
-                "t <s> aw </s> a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-74-luna-1",
-                "ProtoUtoAztecan",
-                "74-luna",
-                "m\u00e9\u00a2a SUA",
-                "m e ts a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-75-estrella-1",
-                "ProtoUtoAztecan",
-                "75-estrella",
-                "suu PUA",
-                "s u\u02d0 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-76-cielo-1",
-                "ProtoUtoAztecan",
-                "76-cielo",
-                "tawika SUA",
-                "t a w i k a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-77-agua-1",
-                "ProtoUtoAztecan",
-                "77-agua",
-                "pa: PUA",
-                "p a\u02d0 + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-77-agua-2",
-                "ProtoUtoAztecan",
-                "77-agua",
-                "wa SUA",
-                "w a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-78-viento-1",
-                "ProtoUtoAztecan",
-                "78-viento",
-                "heka SUA",
-                "h e k a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-79-lluvia-1",
-                "ProtoUtoAztecan",
-                "79-lluvia",
-                "yuku SUA",
-                "j u k u + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-79-lluvia-2",
-                "ProtoUtoAztecan",
-                "79-lluvia",
-                "wi PUA",
-                "w i + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-81-piedra-1",
-                "ProtoUtoAztecan",
-                "81-piedra",
-                "te SUA",
-                "t e + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-81-piedra-2",
-                "ProtoUtoAztecan",
-                "81-piedra",
-                "t\u0268- PUA",
-                "t \u0268 + + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-9-nuevo-1",
-                "ProtoUtoAztecan",
-                "9-nuevo",
-                "hukwa SUA",
-                "h u k\u02b7 a + <s> <<S>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-9-nuevo-2",
-                "ProtoUtoAztecan",
-                "9-nuevo",
-                "p\u0268tuwa PUA",
-                "p \u0268 t u w a + <s> <<P>> </s> <s> <<U>> </s> <s> <<A>> </s>"
-            ],
-            [
-                "Tarahumaran-30-piel-1",
-                "Tarahumaran",
-                "30-piel",
-                "wi\u2019\u00a2i",
-                "w <s> i\u0294 </s> ts i"
-            ],
-            [
-                "Tarahumaran-79-lluvia-1",
-                "Tarahumaran",
-                "79-lluvia",
-                "yu\u2019k\u00ed",
-                "j <s> u\u0294 </s> k i"
-            ],
-            [
-                "Tepiman-81-piedra-1",
-                "Tepiman",
-                "81-piedra",
-                "hoda < soya?",
-                "h o d a + <s> <<<>> </s> + s o j a"
-            ]
-        ],
-        "bad_words_count": 122,
-        "bipa_errors": [
-            "<<<>>",
-            "<<,>>",
-            "aw",
-            "i\u0294",
-            "u\u0294",
-            "<<S>>",
-            "NULL",
-            "<<\u00e8>>",
-            "<<A>>",
-            "<<P>>",
-            "<<T>>",
-            "e\u0294",
-            "<<U>>",
-            "<<V>>",
-            "a\u0294"
-        ],
-        "general_errors": 314,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 34.25,
+        "inventory_size": 28.25,
         "replacements": {
             "+": [
                 "+"
@@ -2390,9 +1423,6 @@
             ],
             "au": [
                 "au"
-            ],
-            "a\u02c0a": [
-                "a\u02c0a"
             ],
             "a\u02d0": [
                 "a\u02d0"
@@ -2415,9 +1445,6 @@
             "ei": [
                 "ei"
             ],
-            "e\u02c0e": [
-                "e\u02c0e"
-            ],
             "e\u02d0": [
                 "e\u02d0"
             ],
@@ -2429,9 +1456,6 @@
             ],
             "i": [
                 "i"
-            ],
-            "i\u02c0i": [
-                "i\u02c0i"
             ],
             "i\u02d0": [
                 "i\u02d0"
@@ -2459,9 +1483,6 @@
             ],
             "o": [
                 "o"
-            ],
-            "o\u02c0o": [
-                "o\u02c0o"
             ],
             "o\u02d0": [
                 "o\u02d0"
@@ -2499,9 +1520,6 @@
             "u": [
                 "u"
             ],
-            "u\u02c0u": [
-                "u\u02c0u"
-            ],
             "u\u02d0": [
                 "u\u02d0"
             ],
@@ -2516,9 +1534,6 @@
             ],
             "\u0268": [
                 "\u0268"
-            ],
-            "\u0268\u02c0\u0268": [
-                "\u0268\u02c0\u0268"
             ],
             "\u0268\u02d0": [
                 "\u0268\u02d0"
@@ -2536,90 +1551,53 @@
                 "\u029f"
             ]
         },
-        "sclass_errors": [
-            "<<<>>",
-            "<<,>>",
-            "aw",
-            "i\u0294",
-            "u\u0294",
-            "<<S>>",
-            "NULL",
-            "<<\u00e8>>",
-            "<<A>>",
-            "<<P>>",
-            "<<T>>",
-            "e\u0294",
-            "<<U>>",
-            "<<V>>",
-            "a\u0294"
-        ],
+        "sclass_errors": [],
         "segments": {
-            "+": 192,
-            "<<,>>": 1,
-            "<<<>>": 16,
-            "<<A>>": 92,
-            "<<P>>": 62,
-            "<<S>>": 30,
-            "<<T>>": 1,
-            "<<U>>": 92,
-            "<<V>>": 1,
-            "<<\u00e8>>": 3,
-            "NULL": 6,
-            "a": 566,
+            "+": 143,
+            "a": 540,
             "ai": 20,
-            "au": 6,
-            "aw": 3,
-            "a\u0294": 2,
-            "a\u02c0a": 16,
-            "a\u02d0": 27,
-            "b": 22,
+            "au": 5,
+            "a\u02d0": 26,
+            "b": 21,
             "b\u02b7": 6,
             "d": 14,
             "dh": 1,
-            "e": 213,
+            "e": 206,
             "ei": 3,
-            "e\u0294": 1,
-            "e\u02c0e": 8,
             "e\u02d0": 30,
-            "g": 23,
-            "h": 121,
-            "i": 399,
-            "i\u0294": 1,
-            "i\u02c0i": 3,
-            "i\u02d0": 15,
-            "j": 95,
-            "k": 272,
-            "k\u02b7": 33,
-            "l": 33,
-            "m": 116,
-            "m\u02b7": 13,
-            "n": 123,
-            "o": 152,
-            "o\u02c0o": 9,
+            "g": 19,
+            "h": 111,
+            "i": 374,
+            "i\u02d0": 13,
+            "j": 86,
+            "k": 252,
+            "k\u02b7": 32,
+            "l": 32,
+            "m": 113,
+            "m\u02b7": 12,
+            "n": 112,
+            "o": 150,
             "o\u02d0": 10,
-            "p": 95,
+            "p": 87,
             "pp": 3,
-            "p\u02b7": 3,
-            "r": 90,
-            "s": 141,
-            "t": 238,
-            "ts": 73,
-            "t\u026c": 14,
+            "p\u02b7": 2,
+            "r": 75,
+            "s": 133,
+            "t": 228,
+            "ts": 71,
+            "t\u026c": 12,
             "t\u0283": 27,
             "t\u0283\u02b7": 1,
-            "u": 136,
-            "u\u0294": 3,
-            "u\u02c0u": 9,
+            "u": 135,
             "u\u02d0": 14,
             "v": 24,
-            "w": 149,
+            "w": 144,
             "\u014b": 4,
-            "\u0268": 101,
-            "\u0268\u02c0\u0268": 3,
+            "\u0268": 100,
             "\u0268\u02d0": 7,
             "\u0282": 19,
             "\u0283": 11,
-            "\u0294": 56,
+            "\u0294": 8,
             "\u029f": 3
         }
     }

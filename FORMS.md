@@ -9,7 +9,7 @@ The value-to-form processing is divided into two steps, implemented as methods:
 
 These methods use the attributes of a `FormSpec` instance to configure their behaviour.
 
-- `brackets`: `{'(': ')'}`
+- `brackets`: `{'(': ')', '’': '’'}`
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
 - `separators`: `/`
   Iterable of single character tokens that should be recognized as word separator
@@ -28,5 +28,5 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
 
 ### Replacement of invalid lexemes
 
-Source lexemes may be impossible to interpret correctly. 92 such lexemes are listed
+Source lexemes may be impossible to interpret correctly. 106 such lexemes are listed
 in [`etc/lexemes.csv`](etc/lexemes.csv) and replaced as specified in this file.
