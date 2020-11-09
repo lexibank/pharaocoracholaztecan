@@ -53,7 +53,6 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept.concepticon_gloss
                     )
             for gloss in concept.attributes['gloss_in_data']:
-                print(gloss)
                 concepts[gloss] = idx
         concepts['Frio/(hace frio)'] = concepts['Frio (hace frio)']
         args.log.info('added concepts')
