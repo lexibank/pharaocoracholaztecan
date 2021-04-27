@@ -21,7 +21,7 @@ class Dataset(BaseDataset):
         separators="/",
         first_form_only=False,
         brackets={"’": "’", "(": ")"},
-        replacements=[("*", "")],
+        replacements=[("*", ""), (" ", "_")],
     )
 
     def cmd_makecldf(self, args):
