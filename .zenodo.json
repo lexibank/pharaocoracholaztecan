@@ -22,5 +22,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Pharao Hansen, Magnus (2020): \u00bfFamilia o vecinos? Investigando la relaci\u00f3n entre el proto-n\u00e1huatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-N\u00e1huatl and Proto-Corachol]. IN: Lenguas yutoaztecas: historia, estructuras y contacto ling\u00fc\u00edstico. Homenaje a Karen Dakin. Rosa Ya\u00f1ez (ed.) Guadalajara: Universidad de Guadalajara.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Pharao Hansen, Magnus (2020): \u00bfFamilia o vecinos? Investigando la relaci\u00f3n entre el proto-n\u00e1huatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-N\u00e1huatl and Proto-Corachol]. IN: Lenguas yutoaztecas: historia, estructuras y contacto ling\u00fc\u00edstico. Homenaje a Karen Dakin. Rosa Ya\u00f1ez (ed.) Guadalajara: Universidad de Guadalajara.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

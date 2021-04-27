@@ -14,7 +14,9 @@ setup(
     py_modules=["lexibank_pharaocoracholaztecan"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["pharaocoracholaztecan=lexibank_pharaocoracholaztecan:Dataset"]},
-    install_requires=["pylexibank>=2.1"],
+    entry_points={
+        "lexibank.dataset": ["pharaocoracholaztecan=lexibank_pharaocoracholaztecan:Dataset"]
+    },
+    install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
