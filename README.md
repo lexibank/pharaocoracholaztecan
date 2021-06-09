@@ -1,8 +1,16 @@
 # CLDF dataset derived from Pharao Hansen's "Investigation of the Relation between Proto-Náhuatl and Proto-Corachol" from 2020
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/pharaocoracholaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/pharaocoracholaztecan/actions?query=workflow%3ACLDF-validation)
 
-> Pharao Hansen, Magnus (2020): ¿Familia o vecinos? Investigando la relación entre el proto-náhuatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-Náhuatl and Proto-Corachol]. IN: Lenguas yutoaztecas: historia, estructuras y contacto lingüístico. Homenaje a Karen Dakin. Rosa Yañez (ed.) Guadalajara: Universidad de Guadalajara.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Pharao Hansen, Magnus (2020): ¿Familia o vecinos? Investigando la relación entre el proto-náhuatl y el proto-corachol [Family or neighbors? Investigating the relation between Proto-Náhuatl and Proto-Corachol]. IN: Lenguas yutoaztecas: historia, estructuras y contacto lingüístico. Homenaje a Karen Dakin. Rosa Yañez (ed.) Guadalajara: Universidad de Guadalajara.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -41,3 +49,10 @@ Magnus Pharao Hansen | @Magnus | data collector | Author
 Johann-Mattis List | @lingulist | lexibank code | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
