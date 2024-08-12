@@ -16,6 +16,8 @@ class CustomConcept(Concept):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "pharaocoracholaztecan"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     form_spec = FormSpec(
         separators="/",
