@@ -33,7 +33,7 @@ Tepiman-4-two-1,,Tepiman,4-two,*gok,gok,g o k,,Pharao2020,,,^ g o k $,default
 Cahita-4-two-1,,Cahita,4-two,*woyi,woyi,w o j i,,Pharao2020,,,^ w oyi $,default
 Tarahumaran-4-two-1,,Tarahumaran,4-two,*woka,woka,w o k a,,Pharao2020,,,^ w o k a $,default
 ProtoCoracholNahua-4-two-1,,ProtoCoracholNahua,4-two,**wapu-,wapu-,w a p u,,Pharao2020,,,^ w a p u -$,default
-ProtoUtoAztecan-4-two-1,,ProtoSouthernUtoAztecan,4-two,*wo- SUA/(*wapulai ‘different/other’ cahita),wo-_SUA,w o,,Pharao2020,,,^ w o -_SUA $,default
+ProtoUtoAztecan-4-two-1,,ProtoSouthernUtoAztecan,4-two,*wo- SUA/(*wapulai ‘different/other’ cahita),wo-,w o,,Pharao2020,,,^ w o -$,default
 Cora-5-big-1,,Cora,5-big,bé’e,bé,b e,,Pharao2020,,,^ b é $,default
 Huichol-5-big-1,,Huichol,5-big,e-nena/(waiya ‘gordo’),e-nena,e + n e n a,,Pharao2020,,,^ e - n e n a $,default
 ProtoNahua-5-big-1,,ProtoNahua,5-big,*we:yi,we:yi,w eː j i,,Pharao2020,,,^ w e:yi $,default
@@ -41,7 +41,7 @@ Tepiman-5-big-1,,Tepiman,5-big,*gɨ,gɨ,g ɨ,,Pharao2020,,,^ g ɨ $,default
 Cahita-5-big-1,,Cahita,5-big,*bweru,bweru,bʷ e r u,,Pharao2020,,,^ bw e r u $,default
 Tarahumaran-5-big-1,,Tarahumaran,5-big,*weru,weru,w e r u,,Pharao2020,,,^ w e r u $,default
 ProtoCoracholNahua-5-big-1,,ProtoCoracholNahua,5-big,*we:-,we:-,w eː,,Pharao2020,,,^ w e: -$,default
-ProtoUtoAztecan-5-big-1,,ProtoSouthernUtoAztecan,5-big,*wɨL- SUA,wɨL-_SUA,w ɨ ʟ,,Pharao2020,,,^ w ɨ L -_SUA $,default
+ProtoUtoAztecan-5-big-1,,ProtoSouthernUtoAztecan,5-big,*wɨL- SUA,wɨL-,w ɨ ʟ,,Pharao2020,,,^ w ɨ L -$,default
 Cora-6-old-1,,Cora,6-old,?bástakɨra’i?,?bástakɨra,b a s t a k ɨ r a,,Pharao2020,,,^ ? b á s t a k ɨ r a $,default
 Huichol-6-old-1,,Huichol,6-old,ukira¢i,ukira¢i,u k i r a ts i,,Pharao2020,,,^ u k i r a ¢ i $,default
 ProtoNahua-6-old-1,,ProtoNahua,6-old,*we:we:,we:we:,w eː w eː,,Pharao2020,,,^ w e: w e: $,default
@@ -67,8 +67,8 @@ Cahita-9-new-1,,Cahita,9-new,*bemela,bemela,b e m e l a,,Pharao2020,,,^ b e m e 
 Tarahumaran-9-new-1,,Tarahumaran,9-new,kaweruma,kaweruma,k a w e r u m a,,Pharao2020,,,^ k a w e r u m a $,default
 ProtoCoracholNahua-9-new-1,,ProtoCoracholNahua,9-new,**hɨnkwa-ki/**pɨnkwa-k,hɨnkwa-ki,h ɨ n kʷ a + k i,,Pharao2020,,,^ h ɨ n kw a - k i $,default
 ProtoCoracholNahua-9-new-2,,ProtoCoracholNahua,9-new,**hɨnkwa-ki/**pɨnkwa-k,pɨnkwa-k,p ɨ n kʷ a + k,,Pharao2020,,,^ p ɨ n kw a - k $,default
-ProtoUtoAztecan-9-new-1,,ProtoSouthernUtoAztecan,9-new,**hukwa SUA/**pɨtuwa PUA,hukwa_SUA,h u kʷ a,,Pharao2020,,,^ h u kw a _SUA$,default
-ProtoUtoAztecan-9-new-2,,ProtoSouthernUtoAztecan,9-new,**hukwa SUA/**pɨtuwa PUA,pɨtuwa_PUA,p ɨ t u w a,,Pharao2020,,,^ p ɨ t u w a _PUA$,default
+ProtoUtoAztecan-9-new-1,,ProtoSouthernUtoAztecan,9-new,**hukwa SUA/**pɨtuwa PUA,hukwa,h u kʷ a,,Pharao2020,,,^ h u kw a $,default
+ProtoUtoAztecan-9-new-2,,ProtoSouthernUtoAztecan,9-new,**hukwa SUA/**pɨtuwa PUA,pɨtuwa,p ɨ t u w a,,Pharao2020,,,^ p ɨ t u w a $,default
 Cora-10-good-1,,Cora,10-good,naá,naá,n a,,Pharao2020,,,^ n aá $,default
 Huichol-10-good-1,,Huichol,10-good,aiȿɨa,aiȿɨa,ai ʂ ɨ a,,Pharao2020,,,^ ai ȿ ɨa $,default
 ProtoNahua-10-good-1,,ProtoNahua,10-good,*kwal-,kwal-,kʷ a l,,Pharao2020,,,^ kw a l -$,default
@@ -80,7 +80,7 @@ ProtoNahua-11-heavy-1,,ProtoNahua,11-heavy,*yeti-k,yeti-k,j e t i + k,,Pharao202
 Tepiman-11-heavy-1,,Tepiman,11-heavy,*vɨti,vɨti,v ɨ t i,,Pharao2020,,,^ v ɨ t i $,default
 Cahita-11-heavy-1,,Cahita,11-heavy,*vette,vette,v e t t e,,Pharao2020,,,^ v e tt e $,default
 Tarahumaran-11-heavy-1,,Tarahumaran,11-heavy,*pehté,pehté,p e h t e,,Pharao2020,,,^ p e h t é $,default
-ProtoUtoAztecan-11-heavy-1,,ProtoUtoAztecan,11-heavy,*pɨttɨ PUA,pɨttɨ_PUA,p ɨ t t ɨ,,Pharao2020,,,^ p ɨ tt ɨ _PUA$,default
+ProtoUtoAztecan-11-heavy-1,,ProtoUtoAztecan,11-heavy,*pɨttɨ PUA,pɨttɨ,p ɨ t t ɨ,,Pharao2020,,,^ p ɨ tt ɨ $,default
 Cora-12-dry-1,,Cora,12-dry,-wa¢i-,wa¢i,w a ts i,,Pharao2020,,,^ w a ¢ i $,default
 Huichol-12-dry-1,,Huichol,12-dry,vasiɨȿa’a,vasiɨȿa,v a s i ɨ ʂ a,,Pharao2020,,,^ v a s iɨ ȿ a $,default
 ProtoNahua-12-dry-1,,ProtoNahua,12-dry,*wak-ki/*wa:¢-,wak-ki,w a k + k i,,Pharao2020,,,^ w a k - k i $,default
@@ -90,7 +90,7 @@ Cahita-12-dry-1,,Cahita,12-dry,*wakia,wakia,w a k i a,,Pharao2020,,,^ w a k ia $
 Tarahumaran-12-dry-1,,Tarahumaran,12-dry,*wakia,wakia,w a k i a,,Pharao2020,,,^ w a k ia $,default
 ProtoCoracholNahua-12-dry-1,,ProtoCoracholNahua,12-dry,*wa-k/*wa-¢,wa-k,w a + k,,Pharao2020,,,^ w a - k $,default
 ProtoCoracholNahua-12-dry-2,,ProtoCoracholNahua,12-dry,*wa-k/*wa-¢,wa-¢,w a + ts,,Pharao2020,,,^ w a - ¢ $,default
-ProtoUtoAztecan-12-dry-1,,ProtoUtoAztecan,12-dry,*waki PUA,waki_PUA,w a k i,,Pharao2020,,,^ w a k i _PUA$,default
+ProtoUtoAztecan-12-dry-1,,ProtoUtoAztecan,12-dry,*waki PUA,waki,w a k i,,Pharao2020,,,^ w a k i $,default
 Cora-13-colditscold-1,,Cora,13-colditscold,kɨmwáhara/wa-see,kɨmwáhara,k ɨ mʷ a h a r a,,Pharao2020,,,^ k ɨ mw á h a r a $,default
 Cora-13-colditscold-2,,Cora,13-colditscold,kɨmwáhara/wa-see,wa-see,w a + s eː,,Pharao2020,,,^ w a - s ee $,default
 Huichol-13-colditscold-1,,Huichol,13-colditscold,haɨtɨ,haɨtɨ,h a ɨ t ɨ,,Pharao2020,,,^ h aɨ t ɨ $,default
@@ -99,7 +99,7 @@ ProtoNahua-13-colditscold-2,,ProtoNahua,13-colditscold,*i¢ti-k/*se:wa,se:wa,s e
 Tepiman-13-colditscold-1,,Tepiman,13-colditscold,*hepi,hepi,h e p i,,Pharao2020,,,^ h e p i $,default
 Cahita-13-colditscold-1,,Cahita,13-colditscold,*sewe/,sewe,s e w e,,Pharao2020,,,^ s e w e $,default
 Tarahumaran-13-colditscold-1,,Tarahumaran,13-colditscold,*sepi,sepi,s e p i,,Pharao2020,,,^ s e p i $,default
-ProtoUtoAztecan-13-colditscold-1,,ProtoUtoAztecan,13-colditscold,*sep- PUA,sep-_PUA,s e p,,Pharao2020,,,^ s e p -_PUA $,default
+ProtoUtoAztecan-13-colditscold-1,,ProtoUtoAztecan,13-colditscold,*sep- PUA,sep-,s e p,,Pharao2020,,,^ s e p -$,default
 Cora-14-hot-1,,Cora,14-hot,pɨstí/(sɨka ‘sun’),pɨstí,p ɨ s t i,,Pharao2020,,,^ p ɨ s t í $,default
 Huichol-14-hot-1,,Huichol,14-hot,ʂɨka,ʂɨka,ʂ ɨ k a,,Pharao2020,,,^ ʂ ɨ k a $,default
 ProtoNahua-14-hot-1,,ProtoNahua,14-hot,*toto:ni-k,toto:ni-k,t o t oː n i + k,,Pharao2020,,,^ t o t o: n i - k $,default
@@ -116,8 +116,8 @@ Tepiman-15-woman-1,,Tepiman,15-woman,*okisi/*honiga,okisi,o k i s i,,Pharao2020,
 Tepiman-15-woman-2,,Tepiman,15-woman,*okisi/*honiga,honiga,h o n i g a,,Pharao2020,,,^ h o n i g a $,default
 Cahita-15-woman-1,,Cahita,15-woman,*huubi,huubi,h uː b i,,Pharao2020,,,^ h uu b i $,default
 Tarahumaran-15-woman-1,,Tarahumaran,15-woman,*upí,upí,u p i,,Pharao2020,,,^ u p í $,default
-ProtoUtoAztecan-15-woman-1,,ProtoUtoAztecan,15-woman,**sinwa PUA/**uka- PUA,sinwa_PUA,s i n w a,,Pharao2020,,,^ s i n w a _PUA$,default
-ProtoUtoAztecan-15-woman-2,,ProtoUtoAztecan,15-woman,**sinwa PUA/**uka- PUA,uka-_PUA,u k a,,Pharao2020,,,^ u k a -_PUA $,default
+ProtoUtoAztecan-15-woman-1,,ProtoUtoAztecan,15-woman,**sinwa PUA/**uka- PUA,sinwa,s i n w a,,Pharao2020,,,^ s i n w a $,default
+ProtoUtoAztecan-15-woman-2,,ProtoUtoAztecan,15-woman,**sinwa PUA/**uka- PUA,uka-,u k a,,Pharao2020,,,^ u k a -$,default
 Cora-16-man-1,,Cora,16-man,taáta/téteka/ukira¢i ‘old man’,taáta,t a t a,,Pharao2020,,,^ t aá t a $,default
 Cora-16-man-2,,Cora,16-man,taáta/téteka/ukira¢i ‘old man’,téteka,t e t e k a,,Pharao2020,,,^ t é t e k a $,default
 Cora-16-man-3,,Cora,16-man,taáta/téteka/ukira¢i ‘old man’,ukira¢i_‘old_man,u k i r a ts i,,Pharao2020,,,^ u k i r a ¢ i _‘old_man $,default
@@ -129,13 +129,13 @@ Cahita-16-man-1,,Cahita,16-man,?/taká  ‘cuerpo’,taká__‘cuerpo,t a k a,,P
 Tarahumaran-16-man-1,,Tarahumaran,16-man,*tihoe/*owi,tihoe,t i h o e,,Pharao2020,,,^ t i h oe $,default
 Tarahumaran-16-man-2,,Tarahumaran,16-man,*tihoe/*owi,owi,o w i,,Pharao2020,,,^ o w i $,default
 ProtoCoracholNahua-16-man-1,,ProtoCoracholNahua,16-man,**oki¢i,oki¢i,o k i ts i,,Pharao2020,,,^ o k i ¢ i $,default
-ProtoUtoAztecan-16-man-1,,ProtoSouthernUtoAztecan,16-man,**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA,oki¢i_‘girl_PUA,o k i ts i,,Pharao2020,,,^ o k i ¢ i _‘girl _PUA$,default
+ProtoUtoAztecan-16-man-1,,ProtoSouthernUtoAztecan,16-man,**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA,oki¢i_‘girl,o k i ts i,,Pharao2020,,,^ o k i ¢ i _‘girl $,default
 Cora-17-person-1,,Cora,17-person,tyevi (Stubbs),tyevi_,t j e v i,,Pharao2020,,,^ t ye v i _$,default
 Huichol-17-person-1,,Huichol,17-person,tewi,tewi,t e w i,,Pharao2020,,,^ t e w i $,default
 ProtoNahua-17-person-1,,ProtoNahua,17-person,-te:-(ka),-te:-,t eː,,Pharao2020,,,^- t e: -$,default
 Cahita-17-person-1,,Cahita,17-person,*yore/,yore,j o r e,,Pharao2020,,,^ yo r e $,default
 ProtoUtoAztecan-17-person-1,,ProtoUtoAztecan,17-person,**ta:wi/*tɨwi PUA,ta:wi,t aː w i,,Pharao2020,,,^ t a: w i $,default
-ProtoUtoAztecan-17-person-2,,ProtoUtoAztecan,17-person,**ta:wi/*tɨwi PUA,tɨwi_PUA,t ɨ w i,,Pharao2020,,,^ t ɨ w i _PUA$,default
+ProtoUtoAztecan-17-person-2,,ProtoUtoAztecan,17-person,**ta:wi/*tɨwi PUA,tɨwi,t ɨ w i,,Pharao2020,,,^ t ɨ w i $,default
 Cora-18-fish-1,,Cora,18-fish,wá’i/,wá,w a,,Pharao2020,,,^ w á $,default
 Huichol-18-fish-1,,Huichol,18-fish,ke¢ɨ,ke¢ɨ,k e ts ɨ,,Pharao2020,,,^ k e ¢ ɨ $,default
 ProtoNahua-18-fish-1,,ProtoNahua,18-fish,*miči-/*toopoh?,miči-,m i tʃ i,,Pharao2020,,,^ m i č i -$,default
@@ -144,14 +144,14 @@ Tepiman-18-fish-1,,Tepiman,18-fish,*vatopa,vatopa,v a t o p a,,Pharao2020,,,^ v 
 Cahita-18-fish-1,,Cahita,18-fish,*kuču,kuču,k u tʃ u,,Pharao2020,,,^ k u č u $,default
 Tarahumaran-18-fish-1,,Tarahumaran,18-fish,kočú/*musi,kočú,k o tʃ u,,Pharao2020,,,^ k o č ú $,default
 Tarahumaran-18-fish-2,,Tarahumaran,18-fish,kočú/*musi,musi,m u s i,,Pharao2020,,,^ m u s i $,default
-ProtoUtoAztecan-18-fish-1,,ProtoSouthernUtoAztecan,18-fish,**musi SUA/**ki¢u PUA,musi_SUA,m u s i,,Pharao2020,,,^ m u s i _SUA$,default
-ProtoUtoAztecan-18-fish-2,,ProtoSouthernUtoAztecan,18-fish,**musi SUA/**ki¢u PUA,ki¢u_PUA,k i ts u,,Pharao2020,,,^ k i ¢ u _PUA$,default
+ProtoUtoAztecan-18-fish-1,,ProtoSouthernUtoAztecan,18-fish,**musi SUA/**ki¢u PUA,musi,m u s i,,Pharao2020,,,^ m u s i $,default
+ProtoUtoAztecan-18-fish-2,,ProtoSouthernUtoAztecan,18-fish,**musi SUA/**ki¢u PUA,ki¢u,k i ts u,,Pharao2020,,,^ k i ¢ u $,default
 Cora-19-bird-1,,Cora,19-bird,pína’a,pína,p i n a,,Pharao2020,,,^ p í n a $,default
 Huichol-19-bird-1,,Huichol,19-bird,wi:ki,wi:ki,w iː k i,,Pharao2020,,,^ w i: k i $,default
 ProtoNahua-19-bird-1,,ProtoNahua,19-bird,"*toto-/(*wi¢i-ki ‘colibrí’, awiwi¢kaƛ ‘swallow’)",toto-,t o t o,,Pharao2020,,,^ t o t o -$,default
 Tepiman-19-bird-1,,Tepiman,19-bird,*uuhigi,uuhigi,uː h i g i,,Pharao2020,,,^ uu h i g i $,default
 Cahita-19-bird-1,,Cahita,19-bird,*wiikit,wiikit,w iː k i t,,Pharao2020,,,^ w ii k i t $,default
-ProtoUtoAztecan-19-bird-1,,ProtoUtoAztecan,19-bird,*wi¢iki PUA,wi¢iki_PUA,w i ts i k i,,Pharao2020,,,^ w i ¢ i k i _PUA$,default
+ProtoUtoAztecan-19-bird-1,,ProtoUtoAztecan,19-bird,*wi¢iki PUA,wi¢iki,w i ts i k i,,Pharao2020,,,^ w i ¢ i k i $,default
 Cora-20-dog-1,,Cora,20-dog,¢ɨ’ɨ,¢ɨ,ts ɨ,,Pharao2020,,,^ ¢ ɨ $,default
 Huichol-20-dog-1,,Huichol,20-dog,¢ɨkɨ,¢ɨkɨ,ts ɨ k ɨ,,Pharao2020,,,^ ¢ ɨ k ɨ $,default
 ProtoNahua-20-dog-1,,ProtoNahua,20-dog,*i¢kwin/*čiči,i¢kwin,i ts kʷ i n,,Pharao2020,,,^ i ¢ kw i n $,default
@@ -160,7 +160,7 @@ Tepiman-20-dog-1,,Tepiman,20-dog,*gosi,gosi,g o s i,,Pharao2020,,,^ g o s i $,de
 Cahita-20-dog-1,,Cahita,20-dog,ču’u,ču,tʃ u,,Pharao2020,,,^ č u $,default
 Tarahumaran-20-dog-1,,Tarahumaran,20-dog,*koči,koči,k o tʃ i,,Pharao2020,,,^ k o č i $,default
 ProtoCoracholNahua-20-dog-1,,ProtoCoracholNahua,20-dog,**¢ukui,¢ukui,ts u k u i,,Pharao2020,,,^ ¢ u k ui $,default
-ProtoUtoAztecan-20-dog-1,,ProtoSouthernUtoAztecan,20-dog,**¢u SUA,¢u_SUA,ts u,,Pharao2020,,,^ ¢ u _SUA$,default
+ProtoUtoAztecan-20-dog-1,,ProtoSouthernUtoAztecan,20-dog,**¢u SUA,¢u,ts u,,Pharao2020,,,^ ¢ u $,default
 Cora-21-louse-1,,Cora,21-louse,até,até,a t e,,Pharao2020,,,^ a t é $,default
 Huichol-21-louse-1,,Huichol,21-louse,ate,ate,a t e,,Pharao2020,,,^ a t e $,default
 ProtoNahua-21-louse-1,,ProtoNahua,21-louse,*atemi,atemi,a t e m i,,Pharao2020,,,^ a t e m i $,default
@@ -168,7 +168,7 @@ Tepiman-21-louse-1,,Tepiman,21-louse,*aatɨ,aatɨ,aː t ɨ,,Pharao2020,,,^ aa t 
 Cahita-21-louse-1,,Cahita,21-louse,étte,étte,e t t e,,Pharao2020,,,^ é tt e $,default
 Tarahumaran-21-louse-1,,Tarahumaran,21-louse,ehté,ehté,e h t e,,Pharao2020,,,^ e h t é $,default
 ProtoCoracholNahua-21-louse-1,,ProtoCoracholNahua,21-louse,**ate,ate,a t e,,Pharao2020,,,^ a t e $,default
-ProtoUtoAztecan-21-louse-1,,ProtoUtoAztecan,21-louse,**atɨ PUA,atɨ_PUA,a t ɨ,,Pharao2020,,,^ a t ɨ _PUA$,default
+ProtoUtoAztecan-21-louse-1,,ProtoUtoAztecan,21-louse,**atɨ PUA,atɨ,a t ɨ,,Pharao2020,,,^ a t ɨ $,default
 Cora-22-snake-1,,Cora,22-snake,kú’uku’u,kúu,k uː,,Pharao2020,,,^ k úu $,default
 Huichol-22-snake-1,,Huichol,22-snake,kuu,kuu,k uː,,Pharao2020,,,^ k uu $,default
 ProtoNahua-22-snake-1,,ProtoNahua,22-snake,*ko:wa-,ko:wa-,k oː w a,,Pharao2020,,,^ k o: w a -$,default
@@ -176,14 +176,14 @@ Tepiman-22-snake-1,,Tepiman,22-snake,*ko’o,ko,k o,,Pharao2020,,,^ k o $,defaul
 Cahita-22-snake-1,,Cahita,22-snake,baakot,baakot,b aː k o t,,Pharao2020,,,^ b aa k o t $,default
 Tarahumaran-22-snake-1,,Tarahumaran,22-snake,sinoi/(kuhuá ‘snake sp.’),sinoi,s i n o i,,Pharao2020,,,^ s i n oi $,default
 ProtoCoracholNahua-22-snake-1,,ProtoCoracholNahua,22-snake,**ku,ku,k u,,Pharao2020,,,^ k u $,default
-ProtoUtoAztecan-22-snake-1,,ProtoUtoAztecan,22-snake,**kowa PUA,kowa_PUA,k o w a,,Pharao2020,,,^ k o w a _PUA$,default
+ProtoUtoAztecan-22-snake-1,,ProtoUtoAztecan,22-snake,**kowa PUA,kowa,k o w a,,Pharao2020,,,^ k o w a $,default
 Cora-23-tree-1,,Cora,23-tree,kɨyé,kɨyé,k ɨ,,Pharao2020,,,^ k ɨyé $,default
 Huichol-23-tree-1,,Huichol,23-tree,kɨye,kɨye,k ɨ j e,,Pharao2020,,,^ k ɨye $,default
 ProtoNahua-23-tree-1,,ProtoNahua,23-tree,*kwaw-,kwaw-,kʷ a w,,Pharao2020,,,^ kw a w -$,default
 Tepiman-23-tree-1,,Tepiman,23-tree,*ku’agi,ku,k u,,Pharao2020,,,^ k u $,default
 Cahita-23-tree-1,,Cahita,23-tree,*kútta,kútta,k u t t a,,Pharao2020,,,^ k ú tt a $,default
 Tarahumaran-23-tree-1,,Tarahumaran,23-tree,kuu,kuu,k uː,,Pharao2020,,,^ k uu $,default
-ProtoUtoAztecan-23-tree-1,,ProtoSouthernUtoAztecan,23-tree,**kua-wi SUA,kua-wi_SUA,k u a + w i,,Pharao2020,,,^ k ua - w i _SUA$,default
+ProtoUtoAztecan-23-tree-1,,ProtoSouthernUtoAztecan,23-tree,**kua-wi SUA,kua-wi,k u a + w i,,Pharao2020,,,^ k ua - w i $,default
 Cora-24-bark-1,,Cora,24-bark,ku¢apé,ku¢apé,k u ts a p e,,Pharao2020,,,^ k u ¢ a p é $,default
 Huichol-24-bark-1,,Huichol,24-bark,kunieri,kunieri,k u n i e r i,,Pharao2020,,,^ k u n ie r i $,default
 ProtoNahua-24-bark-1,,ProtoNahua,24-bark,*e:wa-yo,e:wa-yo,eː w a + j o,,Pharao2020,,,^ e: w a - yo $,default
@@ -196,7 +196,7 @@ ProtoNahua-25-leef-2,,ProtoNahua,25-leef,*iswa-/*šiwi-,šiwi-,ʃ i w i,,Pharao2
 Tepiman-25-leef-1,,Tepiman,25-leef,*haga,haga,h a g a,,Pharao2020,,,^ h a g a $,default
 Cahita-25-leef-1,,Cahita,25-leef,sáwa,sáwa,s a w a,,Pharao2020,,,^ s á w a $,default
 Tarahumaran-25-leef-1,,Tarahumaran,25-leef,sawá,sawá,s a w a,,Pharao2020,,,^ s a w á $,default
-ProtoUtoAztecan-25-leef-1,,ProtoSouthernUtoAztecan,25-leef,**sàmwá SUA,sàmwá_SUA,s a mʷ a,,Pharao2020,,,^ s à mw á _SUA$,default
+ProtoUtoAztecan-25-leef-1,,ProtoSouthernUtoAztecan,25-leef,**sàmwá SUA,sàmwá,s a mʷ a,,Pharao2020,,,^ s à mw á $,default
 Cora-26-root-1,,Cora,26-root,iínee,iínee,iː n eː,,Pharao2020,,,^ iínee $,default
 Huichol-26-root-1,,Huichol,26-root,nana/inieeri (Stubbs),nana,n a n a,,Pharao2020,,,^ n a n a $,default
 Huichol-26-root-2,,Huichol,26-root,nana/inieeri (Stubbs),inieeri_,i n i e e r i,,Pharao2020,,,^ i n ie e r i _$,default
@@ -205,7 +205,7 @@ Tepiman-26-root-1,,Tepiman,26-root,*tatka/,tatka,t a t k a,,Pharao2020,,,^ t a t
 Cahita-26-root-1,,Cahita,26-root,náwa,náwa,n a w a,,Pharao2020,,,^ n á w a $,default
 Tarahumaran-26-root-1,,Tarahumaran,26-root,nawá,nawá,n a w a,,Pharao2020,,,^ n a w á $,default
 ProtoCoracholNahua-26-root-1,,ProtoCoracholNahua,26-root,*(i)neri-wa,neri-wa,n e r i + w a,,Pharao2020,,,^ n e r i - w a $,default
-ProtoUtoAztecan-26-root-1,,ProtoSouthernUtoAztecan,26-root,**nawa SUA,nawa_SUA,n a w a,,Pharao2020,,,^ n a w a _SUA$,default
+ProtoUtoAztecan-26-root-1,,ProtoSouthernUtoAztecan,26-root,**nawa SUA,nawa,n a w a,,Pharao2020,,,^ n a w a $,default
 Cora-27-seed-1,,Cora,27-seed,ha¢i,ha¢i,h a ts i,,Pharao2020,,,^ h a ¢ i $,default
 Huichol-27-seed-1,,Huichol,27-seed,ha¢i,ha¢i,h a ts i,,Pharao2020,,,^ h a ¢ i $,default
 ProtoNahua-27-seed-1,,ProtoNahua,27-seed,*ač-,ač-,a tʃ,,Pharao2020,,,^ a č -$,default
@@ -214,8 +214,8 @@ Cahita-27-seed-1,,Cahita,27-seed,ba¢ia,ba¢ia,b a ts i a,,Pharao2020,,,^ b a ¢
 Tarahumaran-27-seed-1,,Tarahumaran,27-seed,pah¢i/tarí,pah¢i,p a h ts i,,Pharao2020,,,^ p a h ¢ i $,default
 Tarahumaran-27-seed-2,,Tarahumaran,27-seed,pah¢i/tarí,tarí,t a r i,,Pharao2020,,,^ t a r í $,default
 ProtoCoracholNahua-27-seed-1,,ProtoCoracholNahua,27-seed,**ha¢i,ha¢i,h a ts i,,Pharao2020,,,^ h a ¢ i $,default
-ProtoUtoAztecan-27-seed-1,,ProtoSouthernUtoAztecan,27-seed,**pa¢i PUA/**wa¢I SUA,pa¢i_PUA,p a ts i,,Pharao2020,,,^ p a ¢ i _PUA$,default
-ProtoUtoAztecan-27-seed-2,,ProtoUtoAztecan,27-seed,**pa¢i PUA/**wa¢I SUA,wa¢I_SUA,w a ts i,,Pharao2020,,,^ w a ¢ I _SUA$,default
+ProtoUtoAztecan-27-seed-1,,ProtoSouthernUtoAztecan,27-seed,**pa¢i PUA/**wa¢I SUA,pa¢i,p a ts i,,Pharao2020,,,^ p a ¢ i $,default
+ProtoUtoAztecan-27-seed-2,,ProtoUtoAztecan,27-seed,**pa¢i PUA/**wa¢I SUA,wa¢I,w a ts i,,Pharao2020,,,^ w a ¢ I $,default
 Cora-28-blood-1,,Cora,28-blood,su’úre’e,sue,s u e,,Pharao2020,,,^ s u e $,default
 Huichol-28-blood-1,,Huichol,28-blood,ʂuriya,ʂuriya,ʂ u r i j a,,Pharao2020,,,^ ʂ u r iya $,default
 ProtoNahua-28-blood-1,,ProtoNahua,28-blood,*yes <**pauso,yes_<pauso,j e s,,Pharao2020,,,^ ye s _<pauso $,default
@@ -223,7 +223,7 @@ Tepiman-28-blood-1,,Tepiman,28-blood,ɨra,ɨra,ɨ r a,,Pharao2020,,,^ ɨ r a $,d
 Cahita-28-blood-1,,Cahita,28-blood,ohbo,ohbo,o h b o,,Pharao2020,,,^ o h b o $,default
 Tarahumaran-28-blood-1,,Tarahumaran,28-blood,elá,elá,e l a,,Pharao2020,,,^ e l á $,default
 ProtoCoracholNahua-28-blood-1,,ProtoCoracholNahua,28-blood,**so,so,s o,,Pharao2020,,,^ s o $,default
-ProtoUtoAztecan-28-blood-1,,ProtoUtoAztecan,28-blood,**pau PUA/,pau_PUA,p a u,,Pharao2020,,,^ p au _PUA$,default
+ProtoUtoAztecan-28-blood-1,,ProtoUtoAztecan,28-blood,**pau PUA/,pau,p a u,,Pharao2020,,,^ p au $,default
 Cora-29-meat-1,,Cora,29-meat,wa’í-raa,wa,w a,,Pharao2020,,,^ w a $,default
 Huichol-29-meat-1,,Huichol,29-meat,wai,wai,w ai,,Pharao2020,,,^ w ai $,default
 ProtoNahua-29-meat-1,,ProtoNahua,29-meat,*naka-,naka-,n a k a,,Pharao2020,,,^ n a k a -$,default
@@ -243,7 +243,7 @@ ProtoNahua-31-bone-1,,ProtoNahua,31-bone,*omi-,omi-,o m i,,Pharao2020,,,^ o m i 
 Tepiman-31-bone-1,,Tepiman,31-bone,*o’oyi,o,o,,Pharao2020,,,^ o $,default
 Cahita-31-bone-1,,Cahita,31-bone,*ota,ota,o t a,,Pharao2020,,,^ o t a $,default
 Tarahumaran-31-bone-1,,Tarahumaran,31-bone,*o’,o,o,,Pharao2020,,,^ o $,default
-ProtoUtoAztecan-31-bone-1,,ProtoUtoAztecan,31-bone,**ohomɨ PUA,ohomɨ_PUA,o h o m ɨ,,Pharao2020,,,^ o h o m ɨ _PUA$,default
+ProtoUtoAztecan-31-bone-1,,ProtoUtoAztecan,31-bone,**ohomɨ PUA,ohomɨ,o h o m ɨ,,Pharao2020,,,^ o h o m ɨ $,default
 Cora-32-grease-1,,Cora,32-grease,neéčira’a,neéčira,n eː tʃ i r a,,Pharao2020,,,^ n eé č i r a $,default
 Huichol-32-grease-1,,Huichol,32-grease,wi:ya,wi:ya,w iː j a,,Pharao2020,,,^ w i:ya $,default
 ProtoNahua-32-grease-1,,ProtoNahua,32-grease,*čiyawa-,čiyawa-,tʃ i j a w a,,Pharao2020,,,^ č iya w a -$,default
@@ -251,7 +251,7 @@ Tepiman-32-grease-1,,Tepiman,32-grease,*gii,gii,g iː,,Pharao2020,,,^ g ii $,def
 Cahita-32-grease-1,,Cahita,32-grease,áwira,áwira,a w i r a,,Pharao2020,,,^ á w i r a $,default
 Tarahumaran-32-grease-1,,Tarahumaran,32-grease,wi’í,wi,w i,,Pharao2020,,,^ w i $,default
 ProtoCoracholNahua-32-grease-1,,ProtoCoracholNahua,32-grease,**¢iya-,¢iya-,ts i j a,,Pharao2020,,,^ ¢ iya -$,default
-ProtoUtoAztecan-32-grease-1,,ProtoUtoAztecan,32-grease,**wip PUA,wip_PUA,w i p,,Pharao2020,,,^ w i p _PUA$,default
+ProtoUtoAztecan-32-grease-1,,ProtoUtoAztecan,32-grease,**wip PUA,wip,w i p,,Pharao2020,,,^ w i p $,default
 Cora-33-egg-1,,Cora,33-egg,ta’ú,ta,t a,,Pharao2020,,,^ t a $,default
 Huichol-33-egg-1,,Huichol,33-egg,tawari,tawari,t a w a r i,,Pharao2020,,,^ tawa r i $,default
 ProtoNahua-33-egg-1,,ProtoNahua,33-egg,*toto:lte-/*toto:lin ’turkey hen’,toto:lte-,t o t oː l t e,,Pharao2020,,,^ t o t o: l t e -$,default
@@ -261,7 +261,7 @@ Cahita-33-egg-1,,Cahita,33-egg,káwá,káwá,k a w a,,Pharao2020,,,^ k á w á $
 Tarahumaran-33-egg-1,,Tarahumaran,33-egg,kawá,kawá,k a w a,,Pharao2020,,,^ k a w á $,default
 ProtoCoracholNahua-33-egg-1,,ProtoCoracholNahua,33-egg,**tawari ’egg/turkey hen’,tawari_,t a w a r i,,Pharao2020,,,^ tawa r i _$,default
 ProtoUtoAztecan-33-egg-1,,ProtoSouthernUtoAztecan,33-egg,"**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA",tapari_,t a p a r i,,Pharao2020,,,^ t a p a r i _$,default
-ProtoUtoAztecan-33-egg-2,,ProtoUtoAztecan,33-egg,"**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA","topa__Tepiman,_SUA","t o p a <<_>> <<_>> <<T>> e p i m a n <<,>>",,Pharao2020,,,"^ t o p a <_> <_> <T> e p i m a n <,> _SUA$",default
+ProtoUtoAztecan-33-egg-2,,ProtoUtoAztecan,33-egg,"**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA",topa_,t o p a,,Pharao2020,,,^ t o p a _$,default
 Cora-34-horn-1,,Cora,34-horn,e’ewá,e,e,,Pharao2020,,,^ e $,default
 Huichol-34-horn-1,,Huichol,34-horn,awa,awa,a w a,,Pharao2020,,,^ a w a $,default
 ProtoNahua-34-horn-1,,ProtoNahua,34-horn,*kwa:kwaw-,kwa:kwaw-,kʷ aː kʷ a w,,Pharao2020,,,^ kw a: kw a w -$,default
@@ -275,7 +275,7 @@ ProtoNahua-35-tail-1,,ProtoNahua,35-tail,*kwitlapil-/(*kwaš-/kweš ‘skirt/tap
 Tepiman-35-tail-1,,Tepiman,35-tail,bahi,bahi,b a h i,,Pharao2020,,,^ b a h i $,default
 Cahita-35-tail-1,,Cahita,35-tail,bwasia,bwasia,bʷ a s i a,,Pharao2020,,,^ bw a s ia $,default
 Tarahumaran-35-tail-1,,Tarahumaran,35-tail,wahsi,wahsi,w a h s i,,Pharao2020,,,^ w a hs i $,default
-ProtoUtoAztecan-35-tail-1,,ProtoUtoAztecan,35-tail,**kwasi PUA,kwasi_PUA,kʷ a s i,,Pharao2020,,,^ kw a s i _PUA$,default
+ProtoUtoAztecan-35-tail-1,,ProtoUtoAztecan,35-tail,**kwasi PUA,kwasi,kʷ a s i,,Pharao2020,,,^ kw a s i $,default
 Cora-36-feather-1,,Cora,36-feather,aná,aná,a n a,,Pharao2020,,,^ a n á $,default
 Huichol-36-feather-1,,Huichol,36-feather,ana,ana,a n a,,Pharao2020,,,^ a n a $,default
 ProtoNahua-36-feather-1,,ProtoNahua,36-feather,*ihwi-/*ke¢al-,ihwi-,i h w i,,Pharao2020,,,^ i hw i -$,default
@@ -283,17 +283,17 @@ ProtoNahua-36-feather-2,,ProtoNahua,36-feather,*ihwi-/*ke¢al-,ke¢al-,k e ts a 
 Tepiman-36-feather-1,,Tepiman,36-feather,á’ana,á,a,,Pharao2020,,,^ á $,default
 Cahita-36-feather-1,,Cahita,36-feather,mássa,mássa,m a s s a,,Pharao2020,,,^ m á ss a $,default
 Tarahumaran-36-feather-1,,Tarahumaran,36-feather,masá,masá,m a s a,,Pharao2020,,,^ m a s á $,default
-ProtoUtoAztecan-36-feather-1,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,ana_PUA,a n a,,Pharao2020,,,^ a n a _PUA$,default
-ProtoUtoAztecan-36-feather-2,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,piwi_PUA,p i w i,,Pharao2020,,,^ p i w i _PUA$,default
-ProtoUtoAztecan-36-feather-3,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,kɨ¢a_PUA,k ɨ ts a,,Pharao2020,,,^ k ɨ ¢ a _PUA$,default
+ProtoUtoAztecan-36-feather-1,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,ana,a n a,,Pharao2020,,,^ a n a $,default
+ProtoUtoAztecan-36-feather-2,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,piwi,p i w i,,Pharao2020,,,^ p i w i $,default
+ProtoUtoAztecan-36-feather-3,,ProtoUtoAztecan,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,kɨ¢a,k ɨ ts a,,Pharao2020,,,^ k ɨ ¢ a $,default
 Cora-37-hair-1,,Cora,37-hair,kɨpwá,kɨpwá,k ɨ pʷ a,,Pharao2020,,,^ k ɨ pw á $,default
 Huichol-37-hair-1,,Huichol,37-hair,kɨpa,kɨpa,k ɨ p a,,Pharao2020,,,^ k ɨ p a $,default
 ProtoNahua-37-hair-1,,ProtoNahua,37-hair,*¢on-/(*ikpa hilo),¢on-,ts o n,,Pharao2020,,,^ ¢ o n -$,default
 Cahita-37-hair-1,,Cahita,37-hair,cóoni,cóoni,ts o o n i,,Pharao2020,,,^ c ó o n i $,default
 Tarahumaran-37-hair-1,,Tarahumaran,37-hair,kupá,kupá,k u p a,,Pharao2020,,,^ k u p á $,default
 ProtoCoracholNahua-37-hair-1,,ProtoCoracholNahua,37-hair,**kɨpá,kɨpá,k ɨ p a,,Pharao2020,,,^ k ɨ p á $,default
-ProtoUtoAztecan-37-hair-1,,ProtoUtoAztecan,37-hair,**¢omi PUA/**kuppa PUA,¢omi_PUA,ts o m i,,Pharao2020,,,^ ¢ o m i _PUA$,default
-ProtoUtoAztecan-37-hair-2,,ProtoUtoAztecan,37-hair,**¢omi PUA/**kuppa PUA,kuppa_PUA,k u pp a,,Pharao2020,,,^ kuppa _PUA$,default
+ProtoUtoAztecan-37-hair-1,,ProtoUtoAztecan,37-hair,**¢omi PUA/**kuppa PUA,¢omi,ts o m i,,Pharao2020,,,^ ¢ o m i $,default
+ProtoUtoAztecan-37-hair-2,,ProtoUtoAztecan,37-hair,**¢omi PUA/**kuppa PUA,kuppa,k u pp a,,Pharao2020,,,^ kuppa $,default
 Cora-38-head-1,,Cora,38-head,mu’ú,mu,m u,,Pharao2020,,,^ m u $,default
 Huichol-38-head-1,,Huichol,38-head,mu’u,mu,m u,,Pharao2020,,,^ m u $,default
 ProtoNahua-38-head-1,,ProtoNahua,38-head,*¢on-tekoma-/*kwa:- < **kuha **kupa,¢on-tekoma-,ts o n + t e k o m a,,Pharao2020,,,^ ¢ o n - t e k o m a -$,default
@@ -301,7 +301,7 @@ ProtoNahua-38-head-2,,ProtoNahua,38-head,*¢on-tekoma-/*kwa:- < **kuha **kupa,kw
 Tepiman-38-head-1,,Tepiman,38-head,*mo’o,mo,m o,,Pharao2020,,,^ m o $,default
 Cahita-38-head-1,,Cahita,38-head,kova,kova,k o v a,,Pharao2020,,,^ k o v a $,default
 Tarahumaran-38-head-1,,Tarahumaran,38-head,mo’o,mo,m o,,Pharao2020,,,^ m o $,default
-ProtoUtoAztecan-38-head-1,,ProtoUtoAztecan,38-head,**muu PUA/*kuppa,muu_PUA,m uː,,Pharao2020,,,^ m uu _PUA$,default
+ProtoUtoAztecan-38-head-1,,ProtoUtoAztecan,38-head,**muu PUA/*kuppa,muu,m uː,,Pharao2020,,,^ m uu $,default
 ProtoUtoAztecan-38-head-2,,ProtoUtoAztecan,38-head,**muu PUA/*kuppa,kuppa,k u pp a,,Pharao2020,,,^ kuppa $,default
 Cora-39-ear-1,,Cora,39-ear,nasáih,nasáih,n a s a i h,,Pharao2020,,,^ n a s ái h $,default
 Huichol-39-ear-1,,Huichol,39-ear,naka,naka,n a k a,,Pharao2020,,,^ n a k a $,default
@@ -310,7 +310,7 @@ Tepiman-39-ear-1,,Tepiman,39-ear,naaka,naaka,n aː k a,,Pharao2020,,,^ n aa k a 
 Cahita-39-ear-1,,Cahita,39-ear,náka,náka,n a k a,,Pharao2020,,,^ n á k a $,default
 Tarahumaran-39-ear-1,,Tarahumaran,39-ear,naká,naká,n a k a,,Pharao2020,,,^ n a k á $,default
 ProtoCoracholNahua-39-ear-1,,ProtoCoracholNahua,39-ear,**nákàsa,nákàsa,n a k a s a,,Pharao2020,,,^ n á k à s a $,default
-ProtoUtoAztecan-39-ear-1,,ProtoUtoAztecan,39-ear,**nakka PUA,nakka_PUA,n a k k a,,Pharao2020,,,^ n a kk a _PUA$,default
+ProtoUtoAztecan-39-ear-1,,ProtoUtoAztecan,39-ear,**nakka PUA,nakka,n a k k a,,Pharao2020,,,^ n a kk a $,default
 Cora-40-eye-1,,Cora,40-eye,hɨ’ɨsí,hɨ,h ɨ,,Pharao2020,,,^ h ɨ $,default
 Huichol-40-eye-1,,Huichol,40-eye,hɨʂi,hɨʂi,h ɨ ʂ i,,Pharao2020,,,^ h ɨ ʂ i $,default
 ProtoNahua-40-eye-1,,ProtoNahua,40-eye,*i:š,i:š,iː ʃ,,Pharao2020,,,^ i: š $,default
@@ -327,7 +327,7 @@ Tepiman-41-nose-1,,Tepiman,41-nose,daak,daak,d aː k,,Pharao2020,,,^ d aa k $,de
 Cahita-41-nose-1,,Cahita,41-nose,yéka,yéka,j e k a,,Pharao2020,,,^ yé k a $,default
 Tarahumaran-41-nose-1,,Tarahumaran,41-nose,yaká,yaká,j a k a,,Pharao2020,,,^ ya k á $,default
 ProtoCoracholNahua-41-nose-1,,ProtoCoracholNahua,41-nose,**¢ori-,¢ori-,ts o r i,,Pharao2020,,,^ ¢ o r i -$,default
-ProtoUtoAztecan-41-nose-1,,ProtoSouthernUtoAztecan,41-nose,**yeka SUA/**¢o ‘snout’ SUA,yeka_SUA,j e k a,,Pharao2020,,,^ ye k a _SUA$,default
+ProtoUtoAztecan-41-nose-1,,ProtoSouthernUtoAztecan,41-nose,**yeka SUA/**¢o ‘snout’ SUA,yeka,j e k a,,Pharao2020,,,^ ye k a $,default
 ProtoUtoAztecan-41-nose-2,,ProtoSouthernUtoAztecan,41-nose,**yeka SUA/**¢o ‘snout’ SUA,¢o_‘snout,ts o,,Pharao2020,,,^ ¢ o _‘snout $,default
 Cora-42-mouth-1,,Cora,42-mouth,teni,teni,t e n i,,Pharao2020,,,^ t e n i $,default
 Huichol-42-mouth-1,,Huichol,42-mouth,teta,teta,t e t a,,Pharao2020,,,^ t e t a $,default
@@ -343,13 +343,13 @@ ProtoNahua-43-tooth-1,,ProtoNahua,43-tooth,*ƛa:n-,ƛa:n-,tɬ aː n,,Pharao2020,
 Tepiman-43-tooth-1,,Tepiman,43-tooth,tama,tama,t a m a,,Pharao2020,,,^ t a m a $,default
 Cahita-43-tooth-1,,Cahita,43-tooth,támi,támi,t a m i,,Pharao2020,,,^ t á m i $,default
 Tarahumaran-43-tooth-1,,Tarahumaran,43-tooth,tamé,tamé,t a m e,,Pharao2020,,,^ t a m é $,default
-ProtoUtoAztecan-43-tooth-1,,ProtoSouthernUtoAztecan,43-tooth,**tame SUA,tame_SUA,t a m e,,Pharao2020,,,^ t a m e _SUA$,default
+ProtoUtoAztecan-43-tooth-1,,ProtoSouthernUtoAztecan,43-tooth,**tame SUA,tame,t a m e,,Pharao2020,,,^ t a m e $,default
 Cora-44-tongue-1,,Cora,44-tongue,nanuri,nanuri,n a n u r i,,Pharao2020,,,^ n a n u r i $,default
 Huichol-44-tongue-1,,Huichol,44-tongue,neni,neni,n e n i,,Pharao2020,,,^ n e n i $,default
 ProtoNahua-44-tongue-1,,ProtoNahua,44-tongue,*nenepil,nenepil,n e n e p i l,,Pharao2020,,,^ n e n e p i l $,default
 Tepiman-44-tongue-1,,Tepiman,44-tongue,nɨɨni,nɨɨni,n ɨː n i,,Pharao2020,,,^ n ɨɨ n i $,default
 Cahita-44-tongue-1,,Cahita,44-tongue,níni,níni,n i n i,,Pharao2020,,,^ n í n i $,default
-ProtoUtoAztecan-44-tongue-1,,ProtoSouthernUtoAztecan,44-tongue,*nenɨ SUA,nenɨ_SUA,n e n ɨ,,Pharao2020,,,^ n e n ɨ _SUA$,default
+ProtoUtoAztecan-44-tongue-1,,ProtoSouthernUtoAztecan,44-tongue,*nenɨ SUA,nenɨ,n e n ɨ,,Pharao2020,,,^ n e n ɨ $,default
 Cora-45-fingernailtoenail-1,,Cora,45-fingernailtoenail,kú¢ape’e,kú¢ape,k u ts a p e,,Pharao2020,,,^ k ú ¢ a p e $,default
 Huichol-45-fingernailtoenail-1,,Huichol,45-fingernailtoenail,ʂɨte,ʂɨte,ʂ ɨ t e,,Pharao2020,,,^ ʂ ɨ t e $,default
 ProtoNahua-45-fingernailtoenail-1,,ProtoNahua,45-fingernailtoenail,*iste,iste,i s t e,,Pharao2020,,,^ i s t e $,default
@@ -375,8 +375,8 @@ ProtoNahua-47-knee-1,,ProtoNahua,47-knee,*ƛankwa:-,ƛankwa:-,tɬ a n kʷ aː,,P
 Tepiman-47-knee-1,,Tepiman,47-knee,tóono,tóono,t o o n o,,Pharao2020,,,^ t ó o n o $,default
 Cahita-47-knee-1,,Cahita,47-knee,tóno,tóno,t o n o,,Pharao2020,,,^ t ó n o $,default
 Tarahumaran-47-knee-1,,Tarahumaran,47-knee,¢opokori,¢opokori,ts o p o k o r i,,Pharao2020,,,^ ¢ o p o k o r i $,default
-ProtoUtoAztecan-47-knee-1,,ProtoUtoAztecan,47-knee,**taŋa PUA/**toŋa PUA,taŋa_PUA,t a ŋ a,,Pharao2020,,,^ t a ŋ a _PUA$,default
-ProtoUtoAztecan-47-knee-2,,ProtoUtoAztecan,47-knee,**taŋa PUA/**toŋa PUA,toŋa_PUA,t o ŋ a,,Pharao2020,,,^ t o ŋ a _PUA$,default
+ProtoUtoAztecan-47-knee-1,,ProtoUtoAztecan,47-knee,**taŋa PUA/**toŋa PUA,taŋa,t a ŋ a,,Pharao2020,,,^ t a ŋ a $,default
+ProtoUtoAztecan-47-knee-2,,ProtoUtoAztecan,47-knee,**taŋa PUA/**toŋa PUA,toŋa,t o ŋ a,,Pharao2020,,,^ t o ŋ a $,default
 Cora-48-hand-1,,Cora,48-hand,mwahka’a,mwahka,mʷ a h k a,,Pharao2020,,,^ mw a h k a $,default
 Huichol-48-hand-1,,Huichol,48-hand,mama,mama,m a m a,,Pharao2020,,,^ m a m a $,default
 ProtoNahua-48-hand-1,,ProtoNahua,48-hand,*ma:-,ma:-,m aː,,Pharao2020,,,^ m a: -$,default
@@ -385,7 +385,7 @@ Cahita-48-hand-1,,Cahita,48-hand,mam,mam,m a m,,Pharao2020,,,^ m a m $,default
 Tarahumaran-48-hand-1,,Tarahumaran,48-hand,ma/seká,ma,m a,,Pharao2020,,,^ m a $,default
 Tarahumaran-48-hand-2,,Tarahumaran,48-hand,ma/seká,seká,s e k a,,Pharao2020,,,^ s e k á $,default
 ProtoCoracholNahua-48-hand-1,,ProtoCoracholNahua,48-hand,*ma:,ma:,m aː,,Pharao2020,,,^ m a: $,default
-ProtoUtoAztecan-48-hand-1,,ProtoUtoAztecan,48-hand,*ma PUA,ma_PUA,m a,,Pharao2020,,,^ m a _PUA$,default
+ProtoUtoAztecan-48-hand-1,,ProtoUtoAztecan,48-hand,*ma PUA,ma,m a,,Pharao2020,,,^ m a $,default
 Cora-49-belly-1,,Cora,49-belly,huká/huti?(Ortega 1973)/,ɨhti,ɨ h t i,,Pharao2020,,,^ ɨ h t i $,default
 Huichol-49-belly-1,,Huichol,49-belly,huka/(huriepa Grimes),huka,h u k a,,Pharao2020,,,^ h u k a $,default
 ProtoNahua-49-belly-1,,ProtoNahua,49-belly,*ihte- < *hòté,ihte-,i h t e,,Pharao2020,,,^ i h t e -$,default
@@ -393,7 +393,7 @@ Tepiman-49-belly-1,,Tepiman,49-belly,vóoka,vóoka,v o o k a,,Pharao2020,,,^ v �
 Cahita-49-belly-1,,Cahita,49-belly,tópa,tópa,t o p a,,Pharao2020,,,^ t ó p a $,default
 Tarahumaran-49-belly-1,,Tarahumaran,49-belly,topá,topá,t o p a,,Pharao2020,,,^ t o p á $,default
 ProtoCoracholNahua-49-belly-1,,ProtoCoracholNahua,49-belly,**hotie-,hotie-,h o t i e,,Pharao2020,,,^ h o t ie -$,default
-ProtoUtoAztecan-49-belly-1,,ProtoUtoAztecan,49-belly,**poka PUA/,poka_PUA,p o k a,,Pharao2020,,,^ p o k a _PUA$,default
+ProtoUtoAztecan-49-belly-1,,ProtoUtoAztecan,49-belly,**poka PUA/,poka,p o k a,,Pharao2020,,,^ p o k a $,default
 Cora-50-bellybutton-1,,Cora,50-bellybutton,sipu¢i,sipu¢i,s i p u ts i,,Pharao2020,,,^ s i p u ¢ i $,default
 Huichol-50-bellybutton-1,,Huichol,50-bellybutton,ʂɨtemu¢i,ʂɨtemu¢i,ʂ ɨ t e m u ts i,,Pharao2020,,,^ ʂ ɨ t e m u ¢ i $,default
 ProtoNahua-50-bellybutton-1,,ProtoNahua,50-bellybutton,*šik-/*tempo¢ ‘pursed lips’,šik-,ʃ i k,,Pharao2020,,,^ š i k -$,default
@@ -402,7 +402,7 @@ Tepiman-50-bellybutton-1,,Tepiman,50-bellybutton,hiko,hiko,h i k o,,Pharao2020,,
 Cahita-50-bellybutton-1,,Cahita,50-bellybutton,síiku,síiku,s i i k u,,Pharao2020,,,^ s íi k u $,default
 Tarahumaran-50-bellybutton-1,,Tarahumaran,50-bellybutton,sikú,sikú,s i k u,,Pharao2020,,,^ s i k ú $,default
 ProtoCoracholNahua-50-bellybutton-1,,ProtoCoracholNahua,50-bellybutton,**siku-**tempo¢i,siku-tempo¢i,s i k u + t e m p o ts i,,Pharao2020,,,^ s i k u - t e m p o ¢ i $,default
-ProtoUtoAztecan-50-bellybutton-1,,ProtoSouthernUtoAztecan,50-bellybutton,**siku SUA,siku_SUA,s i k u,,Pharao2020,,,^ s i k u _SUA$,default
+ProtoUtoAztecan-50-bellybutton-1,,ProtoSouthernUtoAztecan,50-bellybutton,**siku SUA,siku,s i k u,,Pharao2020,,,^ s i k u $,default
 Cora-51-neck-1,,Cora,51-neck,kɨhpí,kɨhpí,k ɨ h p i,,Pharao2020,,,^ k ɨ h p í $,default
 Huichol-51-neck-1,,Huichol,51-neck,kɨipi,kɨipi,k ɨ i p i,,Pharao2020,,,^ k ɨi p i $,default
 ProtoNahua-51-neck-1,,ProtoNahua,51-neck,*ke:č-pa-,ke:č-pa-,k eː tʃ + p a,,Pharao2020,,,^ k e: č - p a -$,default
@@ -410,7 +410,7 @@ Tepiman-51-neck-1,,Tepiman,51-neck,kusivo,kusivo,k u s i v o,,Pharao2020,,,^ k u
 Cahita-51-neck-1,,Cahita,51-neck,kútana//bi’am,kútana,k u t a n a,,Pharao2020,,,^ k ú t a n a $,default
 Cahita-51-neck-2,,Cahita,51-neck,kútana//bi’am,bi,b i,,Pharao2020,,,^ b i $,default
 Tarahumaran-51-neck-1,,Tarahumaran,51-neck,kuhtamó,kuhtamó,k u h t a m o,,Pharao2020,,,^ k u h t a m ó $,default
-ProtoUtoAztecan-51-neck-1,,ProtoUtoAztecan,51-neck,*kusi-pa PUA,kusi-pa_PUA,k u s i + p a,,Pharao2020,,,^ k u s i - p a _PUA$,default
+ProtoUtoAztecan-51-neck-1,,ProtoUtoAztecan,51-neck,*kusi-pa PUA,kusi-pa,k u s i + p a,,Pharao2020,,,^ k u s i - p a $,default
 Cora-52-breasts-1,,Cora,52-breasts,?tabí?,?tabí?,t a b i,,Pharao2020,,,^ ? t a b í ? $,default
 Huichol-52-breasts-1,,Huichol,52-breasts,¢i¢I (Grimes),¢i¢I_,ts i ts i,,Pharao2020,,,^ ¢ i ¢ I _$,default
 ProtoNahua-52-breasts-1,,ProtoNahua,52-breasts,*čičiwal,čičiwal,tʃ i tʃ i w a l,,Pharao2020,,,^ č i č i w a l $,default
@@ -435,7 +435,7 @@ ProtoNahua-54-liver-1,,ProtoNahua,54-liver,*yel-,yel-,j e l,,Pharao2020,,,^ ye l
 Tepiman-54-liver-1,,Tepiman,54-liver,nɨma,nɨma,n ɨ m a,,Pharao2020,,,^ n ɨ m a $,default
 Cahita-54-liver-1,,Cahita,54-liver,hémam,hémam,h e m a m,,Pharao2020,,,^ h é m a m $,default
 Tarahumaran-54-liver-1,,Tarahumaran,54-liver,ema,ema,e m a,,Pharao2020,,,^ e m a $,default
-ProtoUtoAztecan-54-liver-1,,ProtoUtoAztecan,54-liver,*nɨma PUA,nɨma_PUA,n ɨ m a,,Pharao2020,,,^ n ɨ m a _PUA$,default
+ProtoUtoAztecan-54-liver-1,,ProtoUtoAztecan,54-liver,*nɨma PUA,nɨma,n ɨ m a,,Pharao2020,,,^ n ɨ m a $,default
 Cora-55-drink-1,,Cora,55-drink,-í’i-,-í,i,,Pharao2020,,,^- í $,default
 Huichol-55-drink-1,,Huichol,55-drink,iya,iya,i j a,,Pharao2020,,,^ iya $,default
 ProtoNahua-55-drink-1,,ProtoNahua,55-drink,*i:,i:,iː,,Pharao2020,,,^ i: $,default
@@ -443,7 +443,7 @@ Tepiman-55-drink-1,,Tepiman,55-drink,ii,ii,iː,,Pharao2020,,,^ ii $,default
 Cahita-55-drink-1,,Cahita,55-drink,hee,hee,h eː,,Pharao2020,,,^ h ee $,default
 Tarahumaran-55-drink-1,,Tarahumaran,55-drink,hi,hi,h i,,Pharao2020,,,^ h i $,default
 ProtoCoracholNahua-55-drink-1,,ProtoCoracholNahua,55-drink,**i:,i:,iː,,Pharao2020,,,^ i: $,default
-ProtoUtoAztecan-55-drink-1,,ProtoUtoAztecan,55-drink,*hipi PUA,hipi_PUA,h i p i,,Pharao2020,,,^ h i p i _PUA$,default
+ProtoUtoAztecan-55-drink-1,,ProtoUtoAztecan,55-drink,*hipi PUA,hipi,h i p i,,Pharao2020,,,^ h i p i $,default
 Cora-56-eat-1,,Cora,56-eat,kwá,kwá,kʷ a,,Pharao2020,,,^ kw á $,default
 Huichol-56-eat-1,,Huichol,56-eat,kwai-ya,kwai-ya,kʷ ai + j a,,Pharao2020,,,^ kwai-ya $,default
 ProtoNahua-56-eat-1,,ProtoNahua,56-eat,*kwa:,kwa:,kʷ aː,,Pharao2020,,,^ kw a: $,default
@@ -451,7 +451,7 @@ Tepiman-56-eat-1,,Tepiman,56-eat,ko’a,ko,k o,,Pharao2020,,,^ k o $,default
 Cahita-56-eat-1,,Cahita,56-eat,bwa,bwa,bʷ a,,Pharao2020,,,^ bw a $,default
 Tarahumaran-56-eat-1,,Tarahumaran,56-eat,ko’a,ko,k o,,Pharao2020,,,^ k o $,default
 ProtoCoracholNahua-56-eat-1,,ProtoCoracholNahua,56-eat,**kwa,kwa,kʷ a,,Pharao2020,,,^ kw a $,default
-ProtoUtoAztecan-56-eat-1,,ProtoUtoAztecan,56-eat,*kwa PUA,kwa_PUA,kʷ a,,Pharao2020,,,^ kw a _PUA$,default
+ProtoUtoAztecan-56-eat-1,,ProtoUtoAztecan,56-eat,*kwa PUA,kwa,kʷ a,,Pharao2020,,,^ kw a $,default
 Cora-57-bite-1,,Cora,57-bite,čé,čé,tʃ e,,Pharao2020,,,^ č é $,default
 Huichol-57-bite-1,,Huichol,57-bite,kee,kee,k eː,,Pharao2020,,,^ k ee $,default
 ProtoNahua-57-bite-1,,ProtoNahua,57-bite,*ke¢oma,ke¢oma,k e ts o m a,,Pharao2020,,,^ k e ¢ o m a $,default
@@ -459,14 +459,14 @@ Tepiman-57-bite-1,,Tepiman,57-bite,kɨyi,kɨyi,k ɨ j i,,Pharao2020,,,^ k ɨyi $
 Cahita-57-bite-1,,Cahita,57-bite,keye,keye,k e j e,,Pharao2020,,,^ k eye $,default
 Tarahumaran-57-bite-1,,Tarahumaran,57-bite,ki¢u,ki¢u,k i ts u,,Pharao2020,,,^ k i ¢ u $,default
 ProtoCoracholNahua-57-bite-1,,ProtoCoracholNahua,57-bite,*ke,ke,k e,,Pharao2020,,,^ k e $,default
-ProtoUtoAztecan-57-bite-1,,ProtoUtoAztecan,57-bite,**kɨ¢a PUA,kɨ¢a_PUA,k ɨ ts a,,Pharao2020,,,^ k ɨ ¢ a _PUA$,default
+ProtoUtoAztecan-57-bite-1,,ProtoUtoAztecan,57-bite,**kɨ¢a PUA,kɨ¢a,k ɨ ts a,,Pharao2020,,,^ k ɨ ¢ a $,default
 Cora-58-vomit-1,,Cora,58-vomit,hara’a,hara,h a r a,,Pharao2020,,,^ h a r a $,default
 ProtoNahua-58-vomit-1,,ProtoNahua,58-vomit,*yesoƛa,yesoƛa,j e s o tɬ a,,Pharao2020,,,^ ye s o ƛ a $,default
 Tepiman-58-vomit-1,,Tepiman,58-vomit,wihot,wihot,w i h o t,,Pharao2020,,,^ w i h o t $,default
 Cahita-58-vomit-1,,Cahita,58-vomit,bísata,bísata,b i s a t a,,Pharao2020,,,^ b í s a t a $,default
 Tarahumaran-58-vomit-1,,Tarahumaran,58-vomit,kopéso,kopéso,k o p e s o,,Pharao2020,,,^ k o p é s o $,default
-ProtoUtoAztecan-58-vomit-1,,ProtoSouthernUtoAztecan,58-vomit,**piso PUA/*hara SUA,piso_PUA,p i s o,,Pharao2020,,,^ p i s o _PUA$,default
-ProtoUtoAztecan-58-vomit-2,,ProtoSouthernUtoAztecan,58-vomit,**piso PUA/*hara SUA,hara_SUA,h a r a,,Pharao2020,,,^ h a r a _SUA$,default
+ProtoUtoAztecan-58-vomit-1,,ProtoSouthernUtoAztecan,58-vomit,**piso PUA/*hara SUA,piso,p i s o,,Pharao2020,,,^ p i s o $,default
+ProtoUtoAztecan-58-vomit-2,,ProtoSouthernUtoAztecan,58-vomit,**piso PUA/*hara SUA,hara,h a r a,,Pharao2020,,,^ h a r a $,default
 Cora-59-see-1,,Cora,59-see,séihra,séihra,s e i h r a,,Pharao2020,,,^ s éi h r a $,default
 Huichol-59-see-1,,Huichol,59-see,ʂeiya,ʂeiya,ʂ ei j a,,Pharao2020,,,^ ʂ eiya $,default
 ProtoNahua-59-see-1,,ProtoNahua,59-see,*či:ya/*itta/*temoa,či:ya,tʃ iː j a,,Pharao2020,,,^ č i:ya $,default
@@ -483,8 +483,8 @@ ProtoNahua-60-hear-1,,ProtoNahua,60-hear,*kaki,kaki,k a k i,,Pharao2020,,,^ k a 
 Tepiman-60-hear-1,,Tepiman,60-hear,kahɨ,kahɨ,k a h ɨ,,Pharao2020,,,^ k a h ɨ $,default
 Cahita-60-hear-1,,Cahita,60-hear,hikkaha,hikkaha,h i k k a h a,,Pharao2020,,,^ h i kk a h a $,default
 Tarahumaran-60-hear-1,,Tarahumaran,60-hear,ake,ake,a k e,,Pharao2020,,,^ a k e $,default
-ProtoUtoAztecan-60-hear-1,,ProtoUtoAztecan,60-hear,**kahi PUA/**nakka ’ear’ PUA,kahi_PUA,k a h i,,Pharao2020,,,^ k a h i _PUA$,default
-ProtoUtoAztecan-60-hear-2,,ProtoUtoAztecan,60-hear,**kahi PUA/**nakka ’ear’ PUA,nakka__PUA,n a k k a <<_>>,,Pharao2020,,,^ n a kk a <_> _PUA$,default
+ProtoUtoAztecan-60-hear-1,,ProtoUtoAztecan,60-hear,**kahi PUA/**nakka ’ear’ PUA,kahi,k a h i,,Pharao2020,,,^ k a h i $,default
+ProtoUtoAztecan-60-hear-2,,ProtoUtoAztecan,60-hear,**kahi PUA/**nakka ’ear’ PUA,nakka_,n a k k a,,Pharao2020,,,^ n a kk a _$,default
 Cora-61-know-1,,Cora,61-know,mware’e/(mwa¢ira),mware,mʷ a r e,,Pharao2020,,,^ mw a r e $,default
 Huichol-61-know-1,,Huichol,61-know,maiya,maiya,m ai j a,,Pharao2020,,,^ maiya $,default
 ProtoNahua-61-know-1,,ProtoNahua,61-know,*mati/*mači,mati,m a t i,,Pharao2020,,,^ m a t i $,default
@@ -499,14 +499,14 @@ ProtoNahua-62-sleep-1,,ProtoNahua,62-sleep,*koči,koči,k o tʃ i,,Pharao2020,,,
 Tepiman-62-sleep-1,,Tepiman,62-sleep,koosig,koosig,k oː s i g,,Pharao2020,,,^ k oo s i g $,default
 Cahita-62-sleep-1,,Cahita,62-sleep,kotče,kotče,k o t tʃ e,,Pharao2020,,,^ k o t č e $,default
 Tarahumaran-62-sleep-1,,Tarahumaran,62-sleep,ko¢i-,ko¢i-,k o ts i,,Pharao2020,,,^ k o ¢ i -$,default
-ProtoUtoAztecan-62-sleep-1,,ProtoSouthernUtoAztecan,62-sleep,**ko¢i SUA,ko¢i_SUA,k o ts i,,Pharao2020,,,^ k o ¢ i _SUA$,default
+ProtoUtoAztecan-62-sleep-1,,ProtoSouthernUtoAztecan,62-sleep,**ko¢i SUA,ko¢i,k o ts i,,Pharao2020,,,^ k o ¢ i $,default
 Cora-63-die-1,,Cora,63-die,mɨ’ɨ,mɨ,m ɨ,,Pharao2020,,,^ m ɨ $,default
 Huichol-63-die-1,,Huichol,63-die,mɨiya,mɨiya,m ɨ i j a,,Pharao2020,,,^ m ɨiya $,default
 ProtoNahua-63-die-1,,ProtoNahua,63-die,*miki,miki,m i k i,,Pharao2020,,,^ m i k i $,default
 Tepiman-63-die-1,,Tepiman,63-die,muki,muki,m u k i,,Pharao2020,,,^ m u k i $,default
 Cahita-63-die-1,,Cahita,63-die,múuke,múuke,m uː k e,,Pharao2020,,,^ m úu k e $,default
 Tarahumaran-63-die-1,,Tarahumaran,63-die,mukú,mukú,m u k u,,Pharao2020,,,^ m u k ú $,default
-ProtoUtoAztecan-63-die-1,,ProtoUtoAztecan,63-die,**muki PUA,muki_PUA,m u k i,,Pharao2020,,,^ m u k i _PUA$,default
+ProtoUtoAztecan-63-die-1,,ProtoUtoAztecan,63-die,**muki PUA,muki,m u k i,,Pharao2020,,,^ m u k i $,default
 Cora-64-kill-1,,Cora,64-kill,*he’ika,he,h e,,Pharao2020,,,^ h e $,default
 Huichol-64-kill-1,,Huichol,64-kill,mieriya,mieriya,m i e r i j a,,Pharao2020,,,^ m ie r iya $,default
 ProtoNahua-64-kill-1,,ProtoNahua,64-kill,*miktia,miktia,m i k t i a,,Pharao2020,,,^ m i k t ia $,default
@@ -538,7 +538,7 @@ ProtoNahua-67-come-1,,ProtoNahua,67-come,*wa:l-yawi/,wa:l-yawi,w aː l + j a w i
 Tepiman-67-come-1,,Tepiman,67-come,*yɨwa,yɨwa,j ɨ w a,,Pharao2020,,,^ yɨ w a $,default
 Cahita-67-come-1,,Cahita,67-come,yépsa,yépsa,j e p s a,,Pharao2020,,,^ yé ps a $,default
 Tarahumaran-67-come-1,,Tarahumaran,67-come,noite,noite,n o i t e,,Pharao2020,,,^ n oi t e $,default
-ProtoUtoAztecan-67-come-1,,ProtoSouthernUtoAztecan,67-come,**yiwa SUA,yiwa_SUA,j i w a,,Pharao2020,,,^ y i w a _SUA$,default
+ProtoUtoAztecan-67-come-1,,ProtoSouthernUtoAztecan,67-come,**yiwa SUA,yiwa,j i w a,,Pharao2020,,,^ y i w a $,default
 Cora-68-liev-1,,Cora,68-liev,waka’a,waka,w a k a,,Pharao2020,,,^ w a k a $,default
 Huichol-68-liev-1,,Huichol,68-liev,ka,ka,k a,,Pharao2020,,,^ k a $,default
 ProtoNahua-68-liev-1,,ProtoNahua,68-liev,*ok < hó-kà/(*ka ‘estar’)/,ok,o k,,Pharao2020,,,^ o k $,default
@@ -546,7 +546,7 @@ Tepiman-68-liev-1,,Tepiman,68-liev,*vo(po),vo,v o,,Pharao2020,,,^ v o $,default
 Cahita-68-liev-1,,Cahita,68-liev,bó’oka,bó,b o,,Pharao2020,,,^ b ó $,default
 Tarahumaran-68-liev-1,,Tarahumaran,68-liev,po’i,po,p o,,Pharao2020,,,^ p o $,default
 ProtoCoracholNahua-68-liev-1,,ProtoCoracholNahua,68-liev,**wáukà,wáukà,w au k a,,Pharao2020,,,^ w áu k à $,default
-ProtoUtoAztecan-68-liev-1,,ProtoSouthernUtoAztecan,68-liev,**wo SUA,wo_SUA,w o,,Pharao2020,,,^ w o _SUA$,default
+ProtoUtoAztecan-68-liev-1,,ProtoSouthernUtoAztecan,68-liev,**wo SUA,wo,w o,,Pharao2020,,,^ w o $,default
 Cora-69-sit-1,,Cora,69-sit,auhká < wauhká/(yeih sentar),auhká,au h k a,,Pharao2020,,,^ auhká $,default
 Huichol-69-sit-1,,Huichol,69-sit,ka/(yáa),ka,k a,,Pharao2020,,,^ k a $,default
 ProtoNahua-69-sit-1,,ProtoNahua,69-sit,*yetok,yetok,j e t o k,,Pharao2020,,,^ ye t o k $,default
@@ -554,7 +554,7 @@ Tepiman-69-sit-1,,Tepiman,69-sit,dahi,dahi,d a h i,,Pharao2020,,,^ d a h i $,def
 Cahita-69-sit-1,,Cahita,69-sit,yésasa,yésasa,j e s a s a,,Pharao2020,,,^ yé s a s a $,default
 Tarahumaran-69-sit-1,,Tarahumaran,69-sit,yasipá,yasipá,j a s i p a,,Pharao2020,,,^ ya s i p á $,default
 ProtoCoracholNahua-69-sit-1,,ProtoCoracholNahua,69-sit,**yeih,yeih,j ei h,,Pharao2020,,,^ yeih $,default
-ProtoUtoAztecan-69-sit-1,,ProtoSouthernUtoAztecan,69-sit,**yasi SUA,yasi_SUA,j a s i,,Pharao2020,,,^ ya s i _SUA$,default
+ProtoUtoAztecan-69-sit-1,,ProtoSouthernUtoAztecan,69-sit,**yasi SUA,yasi,j a s i,,Pharao2020,,,^ ya s i $,default
 Cora-70-stand-1,,Cora,70-stand,-téhebee,-téhebee,t e h e b eː,,Pharao2020,,,^- t é h e b ee $,default
 Huichol-70-stand-1,,Huichol,70-stand,téwi,téwi,t e w i,,Pharao2020,,,^ t é w i $,default
 ProtoNahua-70-stand-1,,ProtoNahua,70-stand,*ihkak < kèká,ihkak,i h k a k,,Pharao2020,,,^ i h k a k $,default
@@ -568,14 +568,14 @@ Tepiman-71-give-1,,Tepiman,71-give,maaka,maaka,m aː k a,,Pharao2020,,,^ m aa k 
 Cahita-71-give-1,,Cahita,71-give,máka/míka,máka,m a k a,,Pharao2020,,,^ m á k a $,default
 Cahita-71-give-2,,Cahita,71-give,máka/míka,míka,m i k a,,Pharao2020,,,^ m í k a $,default
 Tarahumaran-71-give-1,,Tarahumaran,71-give,ki’ya,ki,k i,,Pharao2020,,,^ k i $,default
-ProtoUtoAztecan-71-give-1,,ProtoUtoAztecan,71-give,*maka PUA,maka_PUA,m a k a,,Pharao2020,,,^ m a k a _PUA$,default
+ProtoUtoAztecan-71-give-1,,ProtoUtoAztecan,71-give,*maka PUA,maka,m a k a,,Pharao2020,,,^ m a k a $,default
 Cora-72-sing-1,,Cora,72-sing,čwíka,čwíka,tʃʷ i k a,,Pharao2020,,,^ čw í k a $,default
 Huichol-72-sing-1,,Huichol,72-sing,kwikariya,kwikariya,kʷ i k a r i j a,,Pharao2020,,,^ kw i k a r iya $,default
 ProtoNahua-72-sing-1,,ProtoNahua,72-sing,*kwika,kwika,kʷ i k a,,Pharao2020,,,^ kw i k a $,default
 Tepiman-72-sing-1,,Tepiman,72-sing,nɨ’i,nɨ,n ɨ,,Pharao2020,,,^ n ɨ $,default
 Cahita-72-sing-1,,Cahita,72-sing,bwíka,bwíka,bʷ i k a,,Pharao2020,,,^ bw í k a $,default
 Tarahumaran-72-sing-1,,Tarahumaran,72-sing,wikatá,wikatá,w i k a t a,,Pharao2020,,,^ w i k a t á $,default
-ProtoUtoAztecan-72-sing-1,,ProtoUtoAztecan,72-sing,**kwika PUA,kwika_PUA,kʷ i k a,,Pharao2020,,,^ kw i k a _PUA$,default
+ProtoUtoAztecan-72-sing-1,,ProtoUtoAztecan,72-sing,**kwika PUA,kwika,kʷ i k a,,Pharao2020,,,^ kw i k a $,default
 Cora-73-sun-1,,Cora,73-sun,sɨkah,sɨkah,s ɨ k a h,,Pharao2020,,,^ s ɨ k a h $,default
 Huichol-73-sun-1,,Huichol,73-sun,tau,tau,t au,,Pharao2020,,,^ tau $,default
 ProtoNahua-73-sun-1,,ProtoNahua,73-sun,*to:nal-,to:nal-,t oː n a l,,Pharao2020,,,^ t o: n a l -$,default
@@ -583,14 +583,14 @@ Tepiman-73-sun-1,,Tepiman,73-sun,tása,tása,t a s a,,Pharao2020,,,^ t á s a $,
 Cahita-73-sun-1,,Cahita,73-sun,tá’a,tá,t a,,Pharao2020,,,^ t á $,default
 Tarahumaran-73-sun-1,,Tarahumaran,73-sun,táhenari,táhenari,t a h e n a r i,,Pharao2020,,,^ t á h e n a r i $,default
 ProtoCoracholNahua-73-sun-1,,ProtoCoracholNahua,73-sun,**tau,tau,t au,,Pharao2020,,,^ tau $,default
-ProtoUtoAztecan-73-sun-1,,ProtoUtoAztecan,73-sun,*tawa PUA,tawa_PUA,t a w a,,Pharao2020,,,^ tawa _PUA$,default
+ProtoUtoAztecan-73-sun-1,,ProtoUtoAztecan,73-sun,*tawa PUA,tawa,t a w a,,Pharao2020,,,^ tawa $,default
 Cora-74-moon-1,,Cora,74-moon,maskɨrai,maskɨrai,m a s k ɨ r ai,,Pharao2020,,,^ maskɨrai $,default
 Huichol-74-moon-1,,Huichol,74-moon,me¢a,me¢a,m e ts a,,Pharao2020,,,^ m e ¢ a $,default
 ProtoNahua-74-moon-1,,ProtoNahua,74-moon,*me¢-,me¢-,m e ts,,Pharao2020,,,^ m e ¢ -$,default
 Tepiman-74-moon-1,,Tepiman,74-moon,masaada,masaada,m a s aː d a,,Pharao2020,,,^ m a s aa d a $,default
 Cahita-74-moon-1,,Cahita,74-moon,mé¢a,mé¢a,m e ts a,,Pharao2020,,,^ m é ¢ a $,default
 Tarahumaran-74-moon-1,,Tarahumaran,74-moon,me¢á,me¢á,m e ts a,,Pharao2020,,,^ m e ¢ á $,default
-ProtoUtoAztecan-74-moon-1,,ProtoSouthernUtoAztecan,74-moon,**mé¢a SUA,mé¢a_SUA,m e ts a,,Pharao2020,,,^ m é ¢ a _SUA$,default
+ProtoUtoAztecan-74-moon-1,,ProtoSouthernUtoAztecan,74-moon,**mé¢a SUA,mé¢a,m e ts a,,Pharao2020,,,^ m é ¢ a $,default
 Cora-75-star-1,,Cora,75-star,sú’ura’abe,súabe,s u a b e,,Pharao2020,,,^ s ú a b e $,default
 Huichol-75-star-1,,Huichol,75-star,ʂurawe,ʂurawe,ʂ u r a w e,,Pharao2020,,,^ ʂ u r a w e $,default
 ProtoNahua-75-star-1,,ProtoNahua,75-star,*sital-,sital-,s i t a l,,Pharao2020,,,^ s i t a l -$,default
@@ -599,14 +599,14 @@ Tepiman-75-star-2,,Tepiman,75-star,sipo/suu,suu,s uː,,Pharao2020,,,^ s uu $,def
 Cahita-75-star-1,,Cahita,75-star,čóki,čóki,tʃ o k i,,Pharao2020,,,^ č ó k i $,default
 Tarahumaran-75-star-1,,Tarahumaran,75-star,so’póri,so,s o,,Pharao2020,,,^ s o $,default
 ProtoCoracholNahua-75-star-1,,ProtoCoracholNahua,75-star,**su:ta-,su:ta-,s uː t a,,Pharao2020,,,^ s u: t a -$,default
-ProtoUtoAztecan-75-star-1,,ProtoUtoAztecan,75-star,**suu PUA,suu_PUA,s uː,,Pharao2020,,,^ s uu _PUA$,default
+ProtoUtoAztecan-75-star-1,,ProtoUtoAztecan,75-star,**suu PUA,suu,s uː,,Pharao2020,,,^ s uu $,default
 Cora-76-sky-1,,Cora,76-sky,tahapwá,tahapwá,t a h a pʷ a,,Pharao2020,,,^ t a h a pw á $,default
 Huichol-76-sky-1,,Huichol,76-sky,muyuawi¢ie,muyuawi¢ie,m u j u a w i ts i e,,Pharao2020,,,^ m uyua w i ¢ ie $,default
 ProtoNahua-76-sky-1,,ProtoNahua,76-sky,*ilwika- < ƛèwíka,ilwika,i l w i k a,,Pharao2020,,,^ i lw i k a $,default
 Tepiman-76-sky-1,,Tepiman,76-sky,tɨvagi,tɨvagi,t ɨ v a g i,,Pharao2020,,,^ t ɨ v a g i $,default
 Cahita-76-sky-1,,Cahita,76-sky,téeka,téeka,t eː k a,,Pharao2020,,,^ t ée k a $,default
 Tarahumaran-76-sky-1,,Tarahumaran,76-sky,teweká,teweká,t e w e k a,,Pharao2020,,,^ t e w e k á $,default
-ProtoUtoAztecan-76-sky-1,,ProtoSouthernUtoAztecan,76-sky,**tawika SUA,tawika_SUA,t a w i k a,,Pharao2020,,,^ t a w i k a _SUA$,default
+ProtoUtoAztecan-76-sky-1,,ProtoSouthernUtoAztecan,76-sky,**tawika SUA,tawika,t a w i k a,,Pharao2020,,,^ t a w i k a $,default
 Cora-77-water-1,,Cora,77-water,hah,hah,h a h,,Pharao2020,,,^ h a h $,default
 Huichol-77-water-1,,Huichol,77-water,ha,ha,h a,,Pharao2020,,,^ h a $,default
 ProtoNahua-77-water-1,,ProtoNahua,77-water,*a:-,a:-,aː,,Pharao2020,,,^ a: -$,default
@@ -614,8 +614,8 @@ Tepiman-77-water-1,,Tepiman,77-water,sudagi < sbuyawi,sudagi,s u d a g i,,Pharao
 Cahita-77-water-1,,Cahita,77-water,báa,báa,b aː,,Pharao2020,,,^ b áa $,default
 Tarahumaran-77-water-1,,Tarahumaran,77-water,pawí,pawí,p a w i,,Pharao2020,,,^ p a w í $,default
 ProtoCoracholNahua-77-water-1,,ProtoCoracholNahua,77-water,**ha:,ha:,h aː,,Pharao2020,,,^ h a: $,default
-ProtoUtoAztecan-77-water-1,,ProtoSouthernUtoAztecan,77-water,*pa: PUA/*wa SUA,pa:_PUA,p aː,,Pharao2020,,,^ p a: _PUA$,default
-ProtoUtoAztecan-77-water-2,,ProtoUtoAztecan,77-water,*pa: PUA/*wa SUA,wa_SUA,w a,,Pharao2020,,,^ w a _SUA$,default
+ProtoUtoAztecan-77-water-1,,ProtoSouthernUtoAztecan,77-water,*pa: PUA/*wa SUA,pa:,p aː,,Pharao2020,,,^ p a: $,default
+ProtoUtoAztecan-77-water-2,,ProtoUtoAztecan,77-water,*pa: PUA/*wa SUA,wa,w a,,Pharao2020,,,^ w a $,default
 Cora-78-wind-1,,Cora,78-wind,eeka,eeka,eː k a,,Pharao2020,,,^ ee k a $,default
 Huichol-78-wind-1,,Huichol,78-wind,eeka,eeka,eː k a,,Pharao2020,,,^ ee k a $,default
 ProtoNahua-78-wind-1,,ProtoNahua,78-wind,*yehyeka-/eheka,yehyeka-,j e h j e k a,,Pharao2020,,,^ ye h ye k a -$,default
@@ -623,7 +623,7 @@ ProtoNahua-78-wind-2,,ProtoNahua,78-wind,*yehyeka-/eheka,eheka,e h e k a,,Pharao
 Tepiman-78-wind-1,,Tepiman,78-wind,hɨvɨri,hɨvɨri,h ɨ v ɨ r i,,Pharao2020,,,^ h ɨ v ɨ r i $,default
 Cahita-78-wind-1,,Cahita,78-wind,héeka,héeka,h eː k a,,Pharao2020,,,^ h ée k a $,default
 Tarahumaran-78-wind-1,,Tarahumaran,78-wind,eká,eká,e k a,,Pharao2020,,,^ e k á $,default
-ProtoUtoAztecan-78-wind-1,,ProtoSouthernUtoAztecan,78-wind,/**heka SUA/,heka_SUA,h e k a,,Pharao2020,,,^ h e k a _SUA$,default
+ProtoUtoAztecan-78-wind-1,,ProtoSouthernUtoAztecan,78-wind,/**heka SUA/,heka,h e k a,,Pharao2020,,,^ h e k a $,default
 Cora-79-rainn-1,,Cora,79-rainn,biite,biite,b iː t e,,Pharao2020,,,^ b ii t e $,default
 Huichol-79-rainn-1,,Huichol,79-rainn,wiyeri,wiyeri,w i j e r i,,Pharao2020,,,^ w iye r i $,default
 ProtoNahua-79-rainn-1,,ProtoNahua,79-rainn,*kiyawi-,kiyawi-,k i j a w i,,Pharao2020,,,^ k iya w i -$,default
@@ -631,8 +631,8 @@ Tepiman-79-rainn-1,,Tepiman,79-rainn,duku,duku,d u k u,,Pharao2020,,,^ d u k u $
 Cahita-79-rainn-1,,Cahita,79-rainn,yúke,yúke,j u k e,,Pharao2020,,,^ yú k e $,default
 Tarahumaran-79-rainn-1,,Tarahumaran,79-rainn,yu’kí,yu,j u,,Pharao2020,,,^ yu $,default
 ProtoCoracholNahua-79-rainn-1,,ProtoCoracholNahua,79-rainn,**wi,wi,w i,,Pharao2020,,,^ w i $,default
-ProtoUtoAztecan-79-rainn-1,,ProtoSouthernUtoAztecan,79-rainn,*yuku SUA/**wi PUA,yuku_SUA,j u k u,,Pharao2020,,,^ yu k u _SUA$,default
-ProtoUtoAztecan-79-rainn-2,,ProtoUtoAztecan,79-rainn,*yuku SUA/**wi PUA,wi_PUA,w i,,Pharao2020,,,^ w i _PUA$,default
+ProtoUtoAztecan-79-rainn-1,,ProtoSouthernUtoAztecan,79-rainn,*yuku SUA/**wi PUA,yuku,j u k u,,Pharao2020,,,^ yu k u $,default
+ProtoUtoAztecan-79-rainn-2,,ProtoUtoAztecan,79-rainn,*yuku SUA/**wi PUA,wi,w i,,Pharao2020,,,^ w i $,default
 Cora-80-snown-1,,Cora,80-snown,seeri,seeri,s eː r i,,Pharao2020,,,^ s ee r i $,default
 Huichol-80-snown-1,,Huichol,80-snown,ɨɨví,ɨɨví,ɨː v i,,Pharao2020,,,^ ɨɨ v í $,default
 ProtoNahua-80-snown-1,,ProtoNahua,80-snown,*se,se,s e,,Pharao2020,,,^ s e $,default
@@ -648,8 +648,8 @@ Tepiman-81-stone-1,,Tepiman,81-stone,*hoda < soya?,hoda,h o d a,,Pharao2020,,,^ 
 Cahita-81-stone-1,,Cahita,81-stone,téta,téta,t e t a,,Pharao2020,,,^ t é t a $,default
 Tarahumaran-81-stone-1,,Tarahumaran,81-stone,teté,teté,t e t e,,Pharao2020,,,^ t e t é $,default
 ProtoCoracholNahua-81-stone-1,,ProtoCoracholNahua,81-stone,**te,te,t e,,Pharao2020,,,^ t e $,default
-ProtoUtoAztecan-81-stone-1,,ProtoSouthernUtoAztecan,81-stone,**te SUA/**tɨ- PUA,te_SUA,t e,,Pharao2020,,,^ t e _SUA$,default
-ProtoUtoAztecan-81-stone-2,,ProtoUtoAztecan,81-stone,**te SUA/**tɨ- PUA,tɨ-_PUA,t ɨ,,Pharao2020,,,^ t ɨ -_PUA $,default
+ProtoUtoAztecan-81-stone-1,,ProtoSouthernUtoAztecan,81-stone,**te SUA/**tɨ- PUA,te,t e,,Pharao2020,,,^ t e $,default
+ProtoUtoAztecan-81-stone-2,,ProtoUtoAztecan,81-stone,**te SUA/**tɨ- PUA,tɨ-,t ɨ,,Pharao2020,,,^ t ɨ -$,default
 Cora-82-sand-1,,Cora,82-sand,seh,seh,s e h,,Pharao2020,,,^ s e h $,default
 Huichol-82-sand-1,,Huichol,82-sand,ʂiekari,ʂiekari,ʂ i e k a r i,,Pharao2020,,,^ ʂ ie k a r i $,default
 ProtoNahua-82-sand-1,,ProtoNahua,82-sand,*ša:l-,ša:l-,ʃ aː l,,Pharao2020,,,^ š a: l -$,default
@@ -658,7 +658,7 @@ Cahita-82-sand-1,,Cahita,82-sand,sée’e,sée,s eː,,Pharao2020,,,^ s ée $,def
 Tarahumaran-82-sand-1,,Tarahumaran,82-sand,saté/seté,saté,s a t e,,Pharao2020,,,^ s a t é $,default
 Tarahumaran-82-sand-2,,Tarahumaran,82-sand,saté/seté,seté,s e t e,,Pharao2020,,,^ s e t é $,default
 ProtoCoracholNahua-82-sand-1,,ProtoCoracholNahua,82-sand,**sihar-,sihar-,s i h a r,,Pharao2020,,,^ s i h a r -$,default
-ProtoUtoAztecan-82-sand-1,,ProtoSouthernUtoAztecan,82-sand,*siCa SUA/sihat tubar,siCa_SUA,s i ts a,,Pharao2020,,,^ s i C a _SUA$,default
+ProtoUtoAztecan-82-sand-1,,ProtoSouthernUtoAztecan,82-sand,*siCa SUA/sihat tubar,siCa,s i ts a,,Pharao2020,,,^ s i C a $,default
 ProtoUtoAztecan-82-sand-2,,ProtoUtoAztecan,82-sand,*siCa SUA/sihat tubar,sihat_tubar,s i h a t,,Pharao2020,,,^ s i h a t _tubar $,default
 Cora-83-earth-1,,Cora,83-earth,kweh,kweh,kʷ e h,,Pharao2020,,,^ kw e h $,default
 Huichol-83-earth-1,,Huichol,83-earth,kwie,kwie,kʷ i e,,Pharao2020,,,^ kw ie $,default
@@ -666,15 +666,15 @@ ProtoNahua-83-earth-1,,ProtoNahua,83-earth,*ƛa:l < ƛɨhal/(*kwe:-miƛ ‘zurco
 Tepiman-83-earth-1,,Tepiman,83-earth,dɨvirai,dɨvirai,d ɨ v i r ai,,Pharao2020,,,^ d ɨ v i r ai $,default
 Cahita-83-earth-1,,Cahita,83-earth,bwiya,bwiya,bʷ i j a,,Pharao2020,,,^ bw iya $,default
 Tarahumaran-83-earth-1,,Tarahumaran,83-earth,we’é,we,w e,,Pharao2020,,,^ w e $,default
-ProtoUtoAztecan-83-earth-1,,ProtoUtoAztecan,83-earth,**kwi PUA/**tɨpal PUA,kwi_PUA,kʷ i,,Pharao2020,,,^ kw i _PUA$,default
-ProtoUtoAztecan-83-earth-2,,ProtoUtoAztecan,83-earth,**kwi PUA/**tɨpal PUA,tɨpal_PUA,t ɨ p a l,,Pharao2020,,,^ t ɨ p a l _PUA$,default
+ProtoUtoAztecan-83-earth-1,,ProtoUtoAztecan,83-earth,**kwi PUA/**tɨpal PUA,kwi,kʷ i,,Pharao2020,,,^ kw i $,default
+ProtoUtoAztecan-83-earth-2,,ProtoUtoAztecan,83-earth,**kwi PUA/**tɨpal PUA,tɨpal,t ɨ p a l,,Pharao2020,,,^ t ɨ p a l $,default
 Cora-84-salt-1,,Cora,84-salt,unáh,unáh,u n a h,,Pharao2020,,,^ u n á h $,default
 Huichol-84-salt-1,,Huichol,84-salt,una,una,u n a,,Pharao2020,,,^ u n a $,default
 ProtoNahua-84-salt-1,,ProtoNahua,84-salt,*ista- < *tòsá,ista,i s t a,,Pharao2020,,,^ i s t a $,default
 Tepiman-84-salt-1,,Tepiman,84-salt,ona,ona,o n a,,Pharao2020,,,^ o n a $,default
 Cahita-84-salt-1,,Cahita,84-salt,óna,óna,o n a,,Pharao2020,,,^ ó n a $,default
 Tarahumaran-84-salt-1,,Tarahumaran,84-salt,oná,oná,o n a,,Pharao2020,,,^ o n á $,default
-ProtoUtoAztecan-84-salt-1,,ProtoUtoAztecan,84-salt,**oŋa PUA/**tusa ‘white earth’ PUA,oŋa_PUA,o ŋ a,,Pharao2020,,,^ o ŋ a _PUA$,default
+ProtoUtoAztecan-84-salt-1,,ProtoUtoAztecan,84-salt,**oŋa PUA/**tusa ‘white earth’ PUA,oŋa,o ŋ a,,Pharao2020,,,^ o ŋ a $,default
 ProtoUtoAztecan-84-salt-2,,ProtoUtoAztecan,84-salt,**oŋa PUA/**tusa ‘white earth’ PUA,tusa_‘white_earth,t u s a,,Pharao2020,,,^ t u s a _‘white_earth $,default
 Cora-85-cloud-1,,Cora,85-cloud,haítɨri,haítɨri,h a i t ɨ r i,,Pharao2020,,,^ h aí t ɨ r i $,default
 Huichol-85-cloud-1,,Huichol,85-cloud,hai,hai,h ai,,Pharao2020,,,^ h ai $,default
@@ -683,8 +683,8 @@ ProtoNahua-85-cloud-2,,ProtoNahua,85-cloud,*mex- /mix-,mix-,m i ʃ,,Pharao2020,,
 Cahita-85-cloud-1,,Cahita,85-cloud,naámu,naámu,n a m u,,Pharao2020,,,^ n aá m u $,default
 Tarahumaran-85-cloud-1,,Tarahumaran,85-cloud,tomóa,tomóa,t o m o a,,Pharao2020,,,^ t o m ó a $,default
 ProtoUtoAztecan-85-cloud-1,,ProtoUtoAztecan,85-cloud,**tommo/**haki PUA/**musi PUA,tommo,t o m m o,,Pharao2020,,,^ t o mm o $,default
-ProtoUtoAztecan-85-cloud-2,,ProtoUtoAztecan,85-cloud,**tommo/**haki PUA/**musi PUA,haki_PUA,h a k i,,Pharao2020,,,^ h a k i _PUA$,default
-ProtoUtoAztecan-85-cloud-3,,ProtoUtoAztecan,85-cloud,**tommo/**haki PUA/**musi PUA,musi_PUA,m u s i,,Pharao2020,,,^ m u s i _PUA$,default
+ProtoUtoAztecan-85-cloud-2,,ProtoUtoAztecan,85-cloud,**tommo/**haki PUA/**musi PUA,haki,h a k i,,Pharao2020,,,^ h a k i $,default
+ProtoUtoAztecan-85-cloud-3,,ProtoUtoAztecan,85-cloud,**tommo/**haki PUA/**musi PUA,musi,m u s i,,Pharao2020,,,^ m u s i $,default
 Cora-86-smoken-1,,Cora,86-smoken,kɨɨ¢í,kɨɨ¢í,k ɨː ts i,,Pharao2020,,,^ k ɨɨ ¢ í $,default
 Huichol-86-smoken-1,,Huichol,86-smoken,kɨ¢i,kɨ¢i,k ɨ ts i,,Pharao2020,,,^ k ɨ ¢ i $,default
 ProtoNahua-86-smoken-1,,ProtoNahua,86-smoken,*po:k-/(*kwič- ‘hollín’),po:k-,p oː k,,Pharao2020,,,^ p o: k -$,default
@@ -699,7 +699,7 @@ Tepiman-87-fire-1,,Tepiman,87-fire,tai,tai,t ai,,Pharao2020,,,^ t ai $,default
 Cahita-87-fire-1,,Cahita,87-fire,táhi/náy,táhi,t a h i,,Pharao2020,,,^ t á h i $,default
 Cahita-87-fire-2,,Cahita,87-fire,táhi/náy,náy,n a j,,Pharao2020,,,^ n á y $,default
 Tarahumaran-87-fire-1,,Tarahumaran,87-fire,na’í,na,n a,,Pharao2020,,,^ n a $,default
-ProtoUtoAztecan-87-fire-1,,ProtoUtoAztecan,87-fire,**ƛahi PUA,ƛahi_PUA,tɬ a h i,,Pharao2020,,,^ ƛ a h i _PUA$,default
+ProtoUtoAztecan-87-fire-1,,ProtoUtoAztecan,87-fire,**ƛahi PUA,ƛahi,tɬ a h i,,Pharao2020,,,^ ƛ a h i $,default
 Cora-88-ash-1,,Cora,88-ash,nasí,nasí,n a s i,,Pharao2020,,,^ n a s í $,default
 Huichol-88-ash-1,,Huichol,88-ash,naʂi,naʂi,n a ʂ i,,Pharao2020,,,^ n a ʂ i $,default
 ProtoNahua-88-ash-1,,ProtoNahua,88-ash,*neš,neš,n e ʃ,,Pharao2020,,,^ n e š $,default
@@ -721,8 +721,8 @@ Tepiman-90-path-1,,Tepiman,90-path,voi,voi,v o i,,Pharao2020,,,^ v oi $,default
 Cahita-90-path-1,,Cahita,90-path,vó’o,vó,v o,,Pharao2020,,,^ v ó $,default
 Tarahumaran-90-path-1,,Tarahumaran,90-path,powé,powé,p o w e,,Pharao2020,,,^ p o w é $,default
 ProtoCoracholNahua-90-path-1,,ProtoCoracholNahua,90-path,**ho-ye,ho-ye,h o + j e,,Pharao2020,,,^ h o - ye $,default
-ProtoUtoAztecan-90-path-1,,ProtoSouthernUtoAztecan,90-path,**po PUA//**wo SUA,po_PUA,p o,,Pharao2020,,,^ p o _PUA$,default
-ProtoUtoAztecan-90-path-2,,ProtoUtoAztecan,90-path,**po PUA//**wo SUA,wo_SUA,w o,,Pharao2020,,,^ w o _SUA$,default
+ProtoUtoAztecan-90-path-1,,ProtoSouthernUtoAztecan,90-path,**po PUA//**wo SUA,po,p o,,Pharao2020,,,^ p o $,default
+ProtoUtoAztecan-90-path-2,,ProtoUtoAztecan,90-path,**po PUA//**wo SUA,wo,w o,,Pharao2020,,,^ w o $,default
 Cora-91-mountain-1,,Cora,91-mountain,hɨri,hɨri,h ɨ r i,,Pharao2020,,,^ h ɨ r i $,default
 Huichol-91-mountain-1,,Huichol,91-mountain,yemuri,yemuri,j e m u r i,,Pharao2020,,,^ ye m u r i $,default
 ProtoNahua-91-mountain-1,,ProtoNahua,91-mountain,*tepe:-,tepe:-,t e p eː,,Pharao2020,,,^ t e p e: -$,default
@@ -730,7 +730,7 @@ Tepiman-91-mountain-1,,Tepiman,91-mountain,‘oidaga <*huya,oidaga,o i d a g a,,
 Cahita-91-mountain-1,,Cahita,91-mountain,káwi,káwi,k a w i,,Pharao2020,,,^ k á w i $,default
 Tarahumaran-91-mountain-1,,Tarahumaran,91-mountain,kawí,kawí,k a w i,,Pharao2020,,,^ k a w í $,default
 ProtoCoracholNahua-91-mountain-1,,ProtoCoracholNahua,91-mountain,**te-pɨ:ti,te-pɨ:ti,t e + p ɨː t i,,Pharao2020,,,^ t e - p ɨ: t i $,default
-ProtoUtoAztecan-91-mountain-1,,ProtoSouthernUtoAztecan,91-mountain,**hu-ya SUA,hu-ya_SUA,h u + j a,,Pharao2020,,,^ h u - ya _SUA$,default
+ProtoUtoAztecan-91-mountain-1,,ProtoSouthernUtoAztecan,91-mountain,**hu-ya SUA,hu-ya,h u + j a,,Pharao2020,,,^ h u - ya $,default
 Cora-92-red-1,,Cora,92-red,tapa’u,tapa,t a p a,,Pharao2020,,,^ t a p a $,default
 Huichol-92-red-1,,Huichol,92-red,ʂeta,ʂeta,ʂ e t a,,Pharao2020,,,^ ʂ e t a $,default
 ProtoNahua-92-red-1,,ProtoNahua,92-red,*čičil-tik/*pa ‘pintar’,čičil-tik,tʃ i tʃ i l + t i k,,Pharao2020,,,^ č i č i l - t i k $,default
@@ -753,29 +753,29 @@ ProtoNahua-94-yellow-1,,ProtoNahua,94-yellow,*kos-tik,kos-tik,k o s + t i k,,Pha
 Tepiman-94-yellow-1,,Tepiman,94-yellow,oam,oam,o a m,,Pharao2020,,,^ oa m $,default
 Cahita-94-yellow-1,,Cahita,94-yellow,sawá,sawá,s a w a,,Pharao2020,,,^ s a w á $,default
 Tarahumaran-94-yellow-1,,Tarahumaran,94-yellow,sawa-,sawa-,s a w a,,Pharao2020,,,^ s a w a -$,default
-ProtoUtoAztecan-94-yellow-1,,ProtoSouthernUtoAztecan,94-yellow,*kosawa SUA?,kosawa_SUA?,k o s a w a,,Pharao2020,,,^ k o s a w a _SUA? $,default
+ProtoUtoAztecan-94-yellow-1,,ProtoSouthernUtoAztecan,94-yellow,*kosawa SUA?,kosawa?,k o s a w a,,Pharao2020,,,^ k o s a w a ? $,default
 Cora-95-white-1,,Cora,95-white,kwaina,kwaina,kʷ ai n a,,Pharao2020,,,^ kw ai n a $,default
 Huichol-95-white-1,,Huichol,95-white,tuʂa,tuʂa,t u ʂ a,,Pharao2020,,,^ t u ʂ a $,default
 ProtoNahua-95-white-1,,ProtoNahua,95-white,*ista-k <tòsá-kì,ista-k,i s t a + k,,Pharao2020,,,^ i s t a - k $,default
 Tepiman-95-white-1,,Tepiman,95-white,toha,toha,t o h a,,Pharao2020,,,^ t o h a $,default
 Cahita-95-white-1,,Cahita,95-white,tósa,tósa,t o s a,,Pharao2020,,,^ t ós a $,default
 Tarahumaran-95-white-1,,Tarahumaran,95-white,tosá-,tosá-,t o s a,,Pharao2020,,,^ t o s á -$,default
-ProtoUtoAztecan-95-white-1,,ProtoUtoAztecan,95-white,**tòsá PUA/**kwaya PUA,tòsá_PUA,t o s a,,Pharao2020,,,^ t ò s á _PUA$,default
-ProtoUtoAztecan-95-white-2,,ProtoUtoAztecan,95-white,**tòsá PUA/**kwaya PUA,kwaya_PUA,kʷ a j a,,Pharao2020,,,^ kw a ya _PUA$,default
+ProtoUtoAztecan-95-white-1,,ProtoUtoAztecan,95-white,**tòsá PUA/**kwaya PUA,tòsá,t o s a,,Pharao2020,,,^ t ò s á $,default
+ProtoUtoAztecan-95-white-2,,ProtoUtoAztecan,95-white,**tòsá PUA/**kwaya PUA,kwaya,kʷ a j a,,Pharao2020,,,^ kw a ya $,default
 Cora-96-black-1,,Cora,96-black,sú’umwara’a,súa,s u a,,Pharao2020,,,^ s ú a $,default
 Huichol-96-black-1,,Huichol,96-black,yɨwi,yɨwi,j ɨ w i,,Pharao2020,,,^ yɨ w i $,default
 ProtoNahua-96-black-1,,ProtoNahua,96-black,*ƛil-tik <tɨri/(yowak ‘noche’),ƛil-tik,tɬ i l + t i k,,Pharao2020,,,^ ƛ i l - t i k $,default
 Tepiman-96-black-1,,Tepiman,96-black,tuku,tuku,t u k u,,Pharao2020,,,^ t u k u $,default
 Cahita-96-black-1,,Cahita,96-black,čukuli,čukuli,tʃ u k u l i,,Pharao2020,,,^ č u k u l i $,default
 ProtoUtoAztecan-96-black-1,,ProtoUtoAztecan,96-black,**tuku/**tuL PUA,tuku,t u k u,,Pharao2020,,,^ t u k u $,default
-ProtoUtoAztecan-96-black-2,,ProtoUtoAztecan,96-black,**tuku/**tuL PUA,tuL_PUA,t u ʟ,,Pharao2020,,,^ t u L _PUA$,default
+ProtoUtoAztecan-96-black-2,,ProtoUtoAztecan,96-black,**tuku/**tuL PUA,tuL,t u ʟ,,Pharao2020,,,^ t u L $,default
 Cora-97-night-1,,Cora,97-night,tɨ́ka’a,tɨ́ka,t ɨ k a,,Pharao2020,,,^ t ɨ́ k a $,default
 Huichol-97-night-1,,Huichol,97-night,tɨkari,tɨkari,t ɨ k a r i,,Pharao2020,,,^ t ɨ k a r i $,default
 ProtoNahua-97-night-1,,ProtoNahua,97-night,*yo:wa-,yo:wa-,j w a,,Pharao2020,,,^ yo: w a -$,default
 Tepiman-97-night-1,,Tepiman,97-night,tukaa,tukaa,t u k aː,,Pharao2020,,,^ t u k aa $,default
 Cahita-97-night-1,,Cahita,97-night,tukaria,tukaria,t u k a r i a,,Pharao2020,,,^ t u k a r ia $,default
 Tarahumaran-97-night-1,,Tarahumaran,97-night,tugaó,tugaó,t u g a o,,Pharao2020,,,^ t u g a ó $,default
-ProtoUtoAztecan-97-night-1,,ProtoUtoAztecan,97-night,*yuppa PUA/*tuka,yuppa_PUA,j u pp a,,Pharao2020,,,^ yuppa _PUA$,default
+ProtoUtoAztecan-97-night-1,,ProtoUtoAztecan,97-night,*yuppa PUA/*tuka,yuppa,j u pp a,,Pharao2020,,,^ yuppa $,default
 ProtoUtoAztecan-97-night-2,,ProtoUtoAztecan,97-night,*yuppa PUA/*tuka,tuka,t u k a,,Pharao2020,,,^ t u k a $,default
 Cora-98-name-1,,Cora,98-name,tamwa,tamwa,t a mʷ a,,Pharao2020,,,^ t a mw a $,default
 Huichol-98-name-1,,Huichol,98-name,tewa,tewa,t e w a,,Pharao2020,,,^ t e w a $,default
@@ -784,7 +784,7 @@ Tepiman-98-name-1,,Tepiman,98-name,tɨɨg,tɨɨg,t ɨː g,,Pharao2020,,,^ t ɨɨ
 Cahita-98-name-1,,Cahita,98-name,téwa,téwa,t e w a,,Pharao2020,,,^ t é w a $,default
 Tarahumaran-98-name-1,,Tarahumaran,98-name,tewá,tewá,t e w a,,Pharao2020,,,^ t e w á $,default
 ProtoCoracholNahua-98-name-1,,ProtoCoracholNahua,98-name,**tewa-ka,tewa-ka,t e w a + k a,,Pharao2020,,,^ t e w a - k a $,default
-ProtoUtoAztecan-98-name-1,,ProtoUtoAztecan,98-name,**tɨ(n)wa PUA,tɨwa_PUA,t ɨ w a,,Pharao2020,,,^ t ɨ w a _PUA$,default
+ProtoUtoAztecan-98-name-1,,ProtoUtoAztecan,98-name,**tɨ(n)wa PUA,tɨwa,t ɨ w a,,Pharao2020,,,^ t ɨ w a $,default
 Cora-99-year-1,,Cora,99-year,ruu-sí,ruu-sí,r uː + s i,,Pharao2020,,,^ r uu - s í $,default
 Huichol-99-year-1,,Huichol,99-year,wi-yari,wi-yari,w i + j a r i,,Pharao2020,,,^ w i - ya r i $,default
 ProtoNahua-99-year-1,,ProtoNahua,99-year,*šiwi-,šiwi-,ʃ i w i,,Pharao2020,,,^ š i w i -$,default

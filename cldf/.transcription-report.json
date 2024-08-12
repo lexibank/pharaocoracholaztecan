@@ -873,12 +873,8 @@
             }
         },
         "ProtoUtoAztecan": {
-            "bipa_errors": [
-                "<<,>>",
-                "<<T>>",
-                "<<_>>"
-            ],
-            "general_errors": 5,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1019,30 +1015,23 @@
                     "\u029f"
                 ]
             },
-            "sclass_errors": [
-                "<<,>>",
-                "<<T>>",
-                "<<_>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 3,
-                "<<,>>": 1,
-                "<<T>>": 1,
-                "<<_>>": 3,
-                "a": 91,
+                "a": 90,
                 "a\u02d0": 2,
-                "e": 13,
+                "e": 12,
                 "h": 11,
-                "i": 54,
+                "i": 53,
                 "j": 12,
                 "k": 42,
                 "k\u02b7": 7,
                 "l": 1,
-                "m": 19,
+                "m": 18,
                 "m\u02b7": 1,
-                "n": 11,
+                "n": 10,
                 "o": 25,
-                "p": 26,
+                "p": 25,
                 "pp": 3,
                 "r": 3,
                 "s": 22,
@@ -1404,32 +1393,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "ProtoUtoAztecan-33-egg-2",
-                "ProtoUtoAztecan",
-                "33-egg",
-                "topa__Tepiman,_SUA",
-                "t o p a <s> <<_>> </s> <s> <<_>> </s> <s> <<T>> </s> e p i m a n <s> <<,>> </s>"
-            ],
-            [
-                "ProtoUtoAztecan-60-hear-2",
-                "ProtoUtoAztecan",
-                "60-hear",
-                "nakka__PUA",
-                "n a k k a <s> <<_>> </s>"
-            ]
-        ],
-        "bad_words_count": 2,
-        "bipa_errors": [
-            "<<,>>",
-            "<<T>>",
-            "<<_>>"
-        ],
-        "general_errors": 5,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 27.25,
+        "inventory_size": 26.875,
         "replacements": {
             "+": [
                 "+"
@@ -1570,17 +1540,10 @@
                 "\u029f"
             ]
         },
-        "sclass_errors": [
-            "<<,>>",
-            "<<T>>",
-            "<<_>>"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 41,
-            "<<,>>": 1,
-            "<<T>>": 1,
-            "<<_>>": 3,
-            "a": 537,
+            "a": 536,
             "ai": 20,
             "au": 5,
             "a\u02d0": 26,
@@ -1588,23 +1551,23 @@
             "b\u02b7": 6,
             "d": 12,
             "d\u02b0": 1,
-            "e": 205,
+            "e": 204,
             "ei": 3,
             "e\u02d0": 30,
             "g": 18,
             "h": 109,
-            "i": 373,
+            "i": 372,
             "i\u02d0": 14,
             "j": 86,
             "k": 252,
             "k\u02b7": 32,
             "l": 29,
-            "m": 113,
+            "m": 112,
             "m\u02b7": 12,
-            "n": 110,
+            "n": 109,
             "o": 147,
             "o\u02d0": 10,
-            "p": 84,
+            "p": 83,
             "pp": 3,
             "p\u02b7": 2,
             "r": 68,
