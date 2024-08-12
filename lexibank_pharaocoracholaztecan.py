@@ -16,12 +16,14 @@ class CustomConcept(Concept):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "pharaocoracholaztecan"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     form_spec = FormSpec(
         separators="/",
         first_form_only=False,
         brackets={"’": "’", "(": ")"},
-        replacements=[("*", ""), (" ", "_")],
+        replacements=[("*", ""), (" ", "_"), ("_PUA", ""), ("_SUA", ""), ("_Tepiman,", "")],
     )
 
     def cmd_makecldf(self, args):

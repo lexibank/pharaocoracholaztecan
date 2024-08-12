@@ -29,16 +29,16 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 9
-- **Concepts:** 100
-- **Lexemes:** 800
+- **Varieties:** 9 (linked to 9 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
+- **Lexemes:** 801
 - **Sources:** 1
 - **Synonymy:** 1.11
 - **Cognacy:** 748 cognates in 250 cognate sets (100 singletons)
 - **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 3,267
-- **Segments:** 46 (0 BIPA errors, 0 CTLS sound class errors, 46 CLTS modified)
+- **Tokens:** 3,281
+- **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
 - **Inventory size (avg):** 26.88
 
 # Contributors
@@ -46,7 +46,7 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Magnus Pharao Hansen | @Magnus | data collector | Author
-Johann-Mattis List | @lingulist | lexibank code | Other
+Johann-Mattis List | @lingulist | lexibank code | Editor
 
 
 
