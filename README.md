@@ -31,13 +31,13 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 9 (linked to 9 different Glottocodes)
 - **Concepts:** 100 (linked to 100 different Concepticon concept sets)
-- **Lexemes:** 801
+- **Lexemes:** 799
 - **Sources:** 1
-- **Synonymy:** 1.11
+- **Synonymy:** 1.10
 - **Cognacy:** 748 cognates in 250 cognate sets (100 singletons)
 - **Cognate Diversity:** 0.21
 - **Invalid lexemes:** 0
-- **Tokens:** 3,281
+- **Tokens:** 3,272
 - **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
 - **Inventory size (avg):** 26.88
 
